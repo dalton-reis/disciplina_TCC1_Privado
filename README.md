@@ -8,5 +8,5 @@ Mas observe, as pastas serão disponibilizadas no decorrer do cronograma.
 
 ## Material
 
-![Regulamento de TCC do BCC](Material/BCC_RegulamentoTCC.pdf "Regulamento de TCC do BCC")  
-![Regulamento de TCC do SIS](Material/SIS_RegulamentoTCC.pdf "Regulamento de TCC do SIS")
+[Regulamento de TCC do BCC](Material/BCC_RegulamentoTCC.pdf "Regulamento de TCC do BCC")  
+[Regulamento de TCC do SIS](Material/SIS_RegulamentoTCC.pdf "Regulamento de TCC do SIS")
