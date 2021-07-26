@@ -1,0 +1,15 @@
+CAPES - portal de periódicos   
+	http://www.periodicos.capes.gov.br/portugues/index.jsp
+
+Computer and Information Science Papers CiteSeer   
+	http://citeseer.ist.psu.edu/cs
+
+DOAJ - Directory of Open Access Journals
+	http://www.doaj.org/ljbs?cpid=114   
+
+GOOGLE Acadêmico  
+	http://scholar.google.com.br/ 
+
+ScienceDirect  
+	http://www.sciencedirect.com/ 
+ 

@@ -1,0 +1,7 @@
+MORE - Auxílio para elaboração de referências bibliográficas
+	http://robot.rexlab.ufsc.br/referencia/index.jsp
+
+JabRef (JabRef is an open source bibliography reference manager)
+	http://jabref.sf.net/
+
+FarejadorPlagio (http://br.geocities.com/farejadordeplagio/index.html)

@@ -1,0 +1,2 @@
+GOMES, P. C. R. Grafos: conceitos, algoritmos e aplicações. Blumenau, 2007. Trabalho não publicado.
+_____. Diagrama basegraph [mensagem pessoal]. Mensagem recebida por <zeppelin@inf.furb.br> em 26 maio 2008.
