@@ -7,23 +7,120 @@ Dia da semana: terças (18:30\~22:00)
 
 | Prazo      | Atividade                                       |
 | ---------- | ----------------------------------------------- |
-| 31/08      | Entrega do termo de compromisso                 |
-| 05/10      | Entrega do pré-projeto (curso de BCC)           |
-| 19/10      | Entrega do pré-projeto (curso de SIS)           |
-| 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) | [FIXME:] atualizar com a data do SEMINCO
-| 27/11      | Entrega do Projeto
+| 17/08      | Entrega do Termo de Compromisso                 |
+| 28/09      | Entrega do pré-projeto (curso de BCC)           |
+| 05/10      | Entrega do pré-projeto (curso de SIS)           |
+| 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |
+| 30/11      | Entrega do Projeto
+<!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
+
 
 ## Observações
 
 [FIXME:] ==> Usar no lugar do e-mail o chat do Teams (criar um grupo tcc1, orientando e orientador)
 
 - Todas as entregas devem ser encaminhadas por e-mail ao orientador que deverá repassar para o professor de TCC I com um “De acordo”. Não encaminhe nada direto para o professor de TCC I pois não será considerado válido.
-- O assunto do e-mail do termo de compromisso deve ser – “Termo de Compromisso-” + nome completo do estudante. Coloque o nome do arquivo encaminhado idêntico ao assunto do e-mail.
+- O assunto do e-mail do Termo de Compromisso deve ser – “Termo de Compromisso-” + nome completo do estudante. Coloque o nome do arquivo encaminhado idêntico ao assunto do e-mail.
 - O assunto do e-mail do pré-projeto deve ser – “Pré-Projeto-” + nome completo do estudante. Coloque o nome do arquivo encaminhado idêntico ao assunto do e-mail.
 - O assunto do e-mail para a entrega do projeto final deve ser – “ProjetoFinalTCC-“ + nome completo do estudante. Coloque o nome do arquivo encaminhado idêntico ao assunto do e-mail.
 - Certifique-se que o orientador fez o encaminhamento para a coordenação.
 - Encaminhamentos que não forem feitos em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante.
 - Todos os arquivos encaminhados devem ser em formato “docx”.
+
+## Cronograma Completo
+
+Local: MS Teams (Remota)  
+Dia da semana: terças (18:30\~22:00)
+
+### Aula01 03/08/21
+
+- Apresentação da Disciplina  
+- Diagnóstico sobre orientações  
+- Tipos de TCC  
+- Encaminhamentos para o Termo de Compromisso  
+- Regulamento do TCC  
+
+### Aula02 10/08/21
+
+- O que é um Projeto de TCC  
+- Como estabelecer um problema de pesquisa  
+- Partes constituintes do Projeto  
+  - Introdução e Correlatos  
+  - Justificativa, Método e Cronograma  
+  - Fontes bibliográficas  
+
+### Aula03 17/08/21
+
+- **Entrega do Termo de Compromisso de TCC**  
+- Modelo do Projeto de TCC  
+- Formatação - estilos e referências  
+
+### Aula04 24/08/21
+
+- Pré-Projeto - Formulação
+
+### Aula05 31/08/21
+
+- Pré-Projeto - Formulação
+
+### Aula06 07/09/21
+
+-> Feriado Independência
+
+### Aula07 14/09/21
+
+- Pré-Projeto - Atendimento Individual
+
+### Aula08 21/09/21
+
+- Pré-Projeto - Atendimento Individual
+
+### Aula09 28/09/21
+
+- **Entrega do Pré-Projeto (BCC)**
+- Pré-Projeto - Atendimento Individual
+
+### Aula10 05/10/21
+
+- **Entrega do Pré-Projeto (SIS)**
+- Preparação das apresentações (BCC)
+
+### Aula11 12/10/21
+
+-> Feriado Nossa Senhora Aparecida
+
+### Aula12 19/10/21
+
+- Semana de bancas (BCC)  
+
+### Aula13 26/10/21
+
+- Orientações para o projeto  
+- Como conduzir um estudo bibliográfico  
+
+### Aula14 02/11/21
+
+-> Feriado Finados
+
+### Aula15 09/11/21
+
+- Análise do Pré-Projeto - Atendimento Individual  
+
+### Aula16 16/11/21
+
+- Análise do Pré-Projeto - Atendimento Individual  
+
+### Aula17 23/11/21
+
+- Análise do Pré-Projeto - Atendimento Individual  
+
+### Aula18 30/11/21
+
+- **Entrega do Projeto**  
+
+### Aula19 07/12/21
+
+- Data final para devolução dos projetos pelos avaliadores  
 
 -----------
 
