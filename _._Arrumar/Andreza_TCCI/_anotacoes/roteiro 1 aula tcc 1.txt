@@ -1,0 +1,58 @@
+ROTEIRO DA 1ª AULA TCC I
+
+-- APRESENTAÇÃO PROFESSORA E ALUNOS (NOME, ONDE TRABALHA, QUAL IDEIA TEM PARA O TCC)
+
+-- APRESENTAÇÃO DO PLANO DE ENSINO
+- só vale a pena fazer essa disciplina quem quer fazer o TCC este ano ou no próximo semestre
+(TEM DATA DE VALIDADE)
+
+- APRESENTAR O AVA E O CRONOGRAMA
+
+- conversar com cada um e pedir se tem orientador ou se tem já uma ideia do que quer fazer
+
+- coorientador vai ser avaliador em SIS, mas não em BCC
+
+
+
+-- mostrar o AVA
+# apresentar do modelos de projetos (mas irei falar melhor na próxima semana - AULA 2)
+# BCC o modelo mudou e SIS a ficha de avaliação do Prof de TCC mudou
+# falar sobre a ficha de avaliação
+# SIS falar da diferença do TCC Acadêmico para o Aplicado
+ - descrever o problema da tua empresa (descrever como acontece agora)
+ - na justificativa deve dizer o que está pensando em melhorar.
+    - se for pensar no problema por sua conta é acadêmico, mas se você for fazer uma entrevista com o usuário, ver os requisitos é aplicado.
+
+mas vamos conversar melhor na semana que vem.
+
+-- Apresentar os Regulamentos
+
+CAPÍTULO II
+# método científico - além de ter o sistema, ter algum tipo de validação do sistema
+ - chegar com algo pronto e testado por um usuário - tem que ter validação
+ - tem que ter algo pronto e validado pelo usuário, se avaliou usabilidade, se atinge os requisitos
+ - tem que propor algo prático
+ - dinamizar as atividade de ensino-aprendizagem (não se sabe o que é)
+
+
+- pesquisa (metododo científico) e extensão universitária (aplicação em algum campo)
+
+CAPÍTULO III
+
+frequencia, não vou cobrar a frequencia, mas é bom participar.
+
+CAPÍTULO IV
+
+Pág 2: o projeto é válido por 2 semestres. se fizer agora, vai valer para 2021.2 e 2022.1
+
+PÁG 4 Não interessa agora pra TCC I, se quiser mudar de tema tem que fazer o projeto em 1 semana.
+
+
+CAPÍTULO VI
+
+ 
+
+
+
+APRESENTAR OS TEMAS DO EMAIL
+ 
