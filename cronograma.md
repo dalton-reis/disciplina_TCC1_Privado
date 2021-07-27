@@ -29,9 +29,6 @@ Dia da semana: terças (18:30\~22:00)
 
 ## Cronograma Completo
 
-Local: MS Teams (Remota)  
-Dia da semana: terças (18:30\~22:00)  
-
 ### Aula01 03/08/21
 
 - Apresentação da Disciplina  
