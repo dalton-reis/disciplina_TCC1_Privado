@@ -16,20 +16,21 @@ Dia da semana: terças (18:30\~22:00)
 
 ## Observações
 
-- Todas as entregas devem ser encaminhadas por e-mail ao orientador que deverá repassar para o professor de TCC I com um “De acordo”. Não encaminhe nada direto para o professor de TCC I pois não será considerado válido.
-- O assunto do e-mail deve ser igual ao nome do arquivo a ser enviado.
-- Os nomes dos arquivos devem ser o nome do aluno sem espaços em branco e sem acentuação, onde cada parte do nome inicia com a letra maiúscula, seguido de um sublinha e o tipo de documento. Ver exemplos abaixo:
-  - Termo de Compromisso: DaltonSolanoDosReis_Termo.docx
-  - Pré-Projeto: DaltonSolanoDosReis_PreProjeto.docx
-  - Projeto: DaltonSolanoDosReis_Projeto.docx
-- Certifique-se que o orientador fez o encaminhamento para o professor de TCC1.
-- Encaminhamentos que não forem feitos em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante.
-- Todos os arquivos encaminhados devem ser em formato “docx”.
+- Todas as entregas devem ser encaminhadas por e-mail ao orientador que deverá repassar para o professor de TCC I com um “De acordo”. Não encaminhe nada direto para o professor de TCC I pois não será considerado válido.  
+- O assunto do e-mail deve ser igual ao nome do arquivo a ser enviado.  
+- Os nomes dos arquivos devem ser o nome do aluno sem espaços em branco e sem acentuação, onde cada parte do nome inicia com a letra maiúscula, seguido de um sublinha a data de envio, mais um sublinha e o tipo de documento. Ver exemplos abaixo:  
+  - Termo de Compromisso: DaltonSolanoDosReis_AAAA-MM-DD_Termo.docx  
+  - Pré-Projeto: DaltonSolanoDosReis_AAAA-MM-DD_PreProjeto.docx  
+  - Projeto: DaltonSolanoDosReis_AAAA-MM-DD_Projeto.docx  
+      no caso AAAA = ano, MM = mês e DD = dia do envio do e-mail.  
+- Certifique-se que o orientador fez o encaminhamento para o professor de TCC1.  
+- Encaminhamentos que não forem feitos em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante.  
+- Todos os arquivos encaminhados devem ser em formato “docx”.  
 
 ## Cronograma Completo
 
 Local: MS Teams (Remota)  
-Dia da semana: terças (18:30\~22:00)
+Dia da semana: terças (18:30\~22:00)  
 
 ### Aula01 03/08/21
 
