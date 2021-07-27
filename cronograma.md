@@ -14,16 +14,15 @@ Dia da semana: terças (18:30\~22:00)
 | 30/11      | Entrega do Projeto
 <!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
 
-
 ## Observações
 
-[FIXME:] ==> Usar no lugar do e-mail o chat do Teams (criar um grupo tcc1, orientando e orientador)
-
 - Todas as entregas devem ser encaminhadas por e-mail ao orientador que deverá repassar para o professor de TCC I com um “De acordo”. Não encaminhe nada direto para o professor de TCC I pois não será considerado válido.
-- O assunto do e-mail do Termo de Compromisso deve ser – “Termo de Compromisso-” + nome completo do estudante. Coloque o nome do arquivo encaminhado idêntico ao assunto do e-mail.
-- O assunto do e-mail do pré-projeto deve ser – “Pré-Projeto-” + nome completo do estudante. Coloque o nome do arquivo encaminhado idêntico ao assunto do e-mail.
-- O assunto do e-mail para a entrega do projeto final deve ser – “ProjetoFinalTCC-“ + nome completo do estudante. Coloque o nome do arquivo encaminhado idêntico ao assunto do e-mail.
-- Certifique-se que o orientador fez o encaminhamento para a coordenação.
+- O assunto do e-mail deve ser igual ao nome do arquivo a ser enviado.
+- Os nomes dos arquivos devem ser o nome do aluno sem espaços em branco e sem acentuação, onde cada parte do nome inicia com a letra maiúscula, seguido de um sublinha e o tipo de documento. Ver exemplos abaixo:
+  - Termo de Compromisso: DaltonSolanoDosReis_Termo.docx
+  - Pré-Projeto: DaltonSolanoDosReis_PreProjeto.docx
+  - Projeto: DaltonSolanoDosReis_Projeto.docx
+- Certifique-se que o orientador fez o encaminhamento para o professor de TCC1.
 - Encaminhamentos que não forem feitos em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante.
 - Todos os arquivos encaminhados devem ser em formato “docx”.
 
