@@ -1,0 +1,20 @@
+IBICT - Biblioteca Digital Brasileira de Teses e Dissertações   
+	http://bdtd.ibict.br/bdtd/
+
+NDLTD - Networked Digital Library of Theses and Dissertations   
+	http://zippo.vtls.com/cgi-bin/ndltd/chameleon
+
+SciELO - Scientific Electronic Library Online   
+	http://www.scielo.br/
+
+UFRGS - Biblioteca Digital de Teses e Dissertações   
+	http://www.biblioteca.ufrgs.br/bibliotecadigital/
+
+UFSC - Banco de Teses e Dissertações   
+	http://teses.eps.ufsc.br/
+
+UNICAMP - Biblioteca Digital   
+	http://libdigi.unicamp.br/document/list.php?tid=7
+
+USP - Biblioteca Digital de Teses e Dissertações   
+	http://www.teses.usp.br/
