@@ -64,6 +64,7 @@ Dia da semana: terças (18:30\~22:00)
 
 -> Feriado Independência
 
+<!-- ☞ 1ffaaaa0-f41c-46d7-9d5d-4a4c4ebc3380 -->
 ### Aula07 14/09/21
 
 - Pré-Projeto - Atendimento Individual
