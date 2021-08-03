@@ -34,9 +34,9 @@ Dia da semana: terças (18:30\~22:00)
 ### Aula01 03/08/21
 
 - Apresentação do Professor e da Disciplina  
-- Regulamento do TCC  
 - Tipos de TCC: visão geral  
 - Cronograma
+- Regulamento do TCC  
 - Encaminhamentos para o Termo de Compromisso  
 - Diagnóstico sobre orientações  
 

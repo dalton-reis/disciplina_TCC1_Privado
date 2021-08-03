@@ -1,14 +1,6 @@
-# Algumas anotações das aulas
+# Aula01: algumas anotações das aulas
 
-## ![Rabiscos](anotacoesAula.drawio.svg)
-
-## Material AVA3
-
-[Link AVA3 Trabalho de Conclusão de Curso I](<https://ava3.furb.br/course/view.php?id=27084> "Link AVA3 Trabalho de Conclusão de Curso I")  
-
-## Aula: 01 e 02
-
-- Avisos: os avisos serão feitos todos pelo Teams
+## Apresentação do Professor  
 
 - Apresentação do Professor
   
@@ -50,7 +42,12 @@
 
 ------
 
-## Plano de Ensino
+## Apresentação da Disciplina  
+
+- Avisos: os avisos serão feitos todos pelo Teams  
+- [Link AVA3 Trabalho de Conclusão de Curso I](<https://ava3.furb.br/course/view.php?id=27084> "Link AVA3 Trabalho de Conclusão de Curso I")  
+
+### Plano de Ensino
 
 [Plano de Ensino](PlanoEnsino.pdf "Plano de Ensino")  
 
@@ -97,9 +94,15 @@ Capítulo IV:
 
 Capítulo VI:
 
-## Turma de TCC1
+## Encaminhamentos para o Termo de Compromisso  
 
-- Conversar individual  
+- Observações no inicio do cronograma  
+[BCC_TermoCompromisso](BCC_TermoCompromisso.docx "BCC_TermoCompromisso")  
+[SIS_TermoCompromisso](SIS_TermoCompromisso.docx "SIS_TermoCompromisso")  
+
+## Turma de TCC1: Diagnóstico sobre orientações  
+
+- Conversar com a turma  
 - Nome, onde trabalha  
 - Possível orientador (coorientador)  
 - Se já tem uma ideia do que quer fazer  
