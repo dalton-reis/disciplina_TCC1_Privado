@@ -2,11 +2,14 @@
 
 ## ![Rabiscos](anotacoesAula.drawio.svg)
 
-## Trabalho de Conclusão de Curso I
+## Material AVA3
+
+[Link AVA3 Trabalho de Conclusão de Curso I](<https://ava3.furb.br/course/view.php?id=27084> "Link AVA3 Trabalho de Conclusão de Curso I")  
 
 ## Aula: 01 e 02
 
 - Avisos: os avisos serão feitos todos pelo Teams
+
 - Apresentação do Professor
   
         Nome: Dalton Solano dos Reis
@@ -49,6 +52,8 @@
 
 ## Plano de Ensino
 
+[Plano de Ensino](PlanoEnsino.pdf "Plano de Ensino")  
+
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 - Quantidade de créditos: 4  
@@ -56,14 +61,24 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - Data: prazos **muito importante** ... pode resultar em reprovação  
 - Entregáveis: atendendo critérios mínimos, senão nem é aceito  
 - Referências bibliográficas: ABNT, modelos, exemplos ...
-- Proatividade: o principal papel do orientando  
+- Proatividade: o principal papel do orientando (o aluno)  
 - só vale a pena fazer essa disciplina quem quer fazer o TCC este ano ou no próximo semestre
 (TEM DATA DE VALIDADE)  
 - coorientador vai ser avaliador em SIS, mas não em BCC  
 
+## Tipos de TCC  
+
+- Visão geral de como ocorre o fluxograma para BCC
+- Visão geral de como ocorre o fluxograma para SIS
+
 ## Cronograma
 
+[Cronograma](cronograma.md "Cronograma")  
+
 ## Regulamentos
+
+[BCC_RegulamentoTCC](BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC")  
+[SIS_RegulamentoTCC](SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
 
 Capítulo II: método científico - além de ter o sistema, ter algum tipo de validação do sistema
 
@@ -86,16 +101,16 @@ Capítulo VI:
 
 - Conversar individual  
 - Nome, onde trabalha  
-- Possível orientador (coorientador) 
+- Possível orientador (coorientador)  
 - Se já tem uma ideia do que quer fazer  
 
-## AVA3
-
+<!-- 
 - apresentar modelos de projetos (mas irei falar melhor na próxima semana - AULA 3)  
 - BCC o modelo mudou e SIS a ficha de avaliação do Prof de TCC mudou  
 - falar sobre a ficha de avaliação  
 - SIS falar da diferença do TCC Acadêmico para o Aplicado  
-    - descrever o problema da tua empresa (descrever como acontece agora)  
-    - na justificativa deve dizer o que está pensando em melhorar  
-    - se for pensar no problema por sua conta é acadêmico, mas se você for fazer uma entrevista com o usuário, ver os requisitos é aplicado  
+  - descrever o problema da tua empresa (descrever como acontece agora)  
+  - na justificativa deve dizer o que está pensando em melhorar  
+  - se for pensar no problema por sua conta é acadêmico, mas se você for fazer uma entrevista com o usuário, ver os requisitos é aplicado  
 - mas vamos conversar melhor na semana que vem  
+-->

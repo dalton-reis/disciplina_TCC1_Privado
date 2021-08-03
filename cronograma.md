@@ -29,13 +29,20 @@ Dia da semana: terças (18:30\~22:00)
 
 ## Cronograma Completo
 
+----
+
 ### Aula01 03/08/21
 
-- Apresentação da Disciplina  
-- Diagnóstico sobre orientações  
-- Tipos de TCC  
-- Encaminhamentos para o Termo de Compromisso  
+- Apresentação do Professor e da Disciplina  
 - Regulamento do TCC  
+- Tipos de TCC: visão geral  
+- Cronograma
+- Encaminhamentos para o Termo de Compromisso  
+- Diagnóstico sobre orientações  
+
+[anotacoesAula01](anotacoesAula01.md "anotacoesAula01")  
+
+----
 
 ### Aula02 10/08/21
 
@@ -46,80 +53,114 @@ Dia da semana: terças (18:30\~22:00)
   - Justificativa, Método e Cronograma  
   - Fontes bibliográficas  
 
+----
+
 ### Aula03 17/08/21
 
 - **Entrega do Termo de Compromisso de TCC**  
 - Modelo do Projeto de TCC  
 - Formatação - estilos e referências  
 
+----
+
 ### Aula04 24/08/21
 
 - Pré-Projeto - Formulação
+
+----
 
 ### Aula05 31/08/21
 
 - Pré-Projeto - Formulação
 
+----
+
 ### Aula06 07/09/21
 
 -> Feriado Independência
+
+----
 
 <!-- ☞ 1ffaaaa0-f41c-46d7-9d5d-4a4c4ebc3380 -->
 ### Aula07 14/09/21
 
 - Pré-Projeto - Atendimento Individual
 
+----
+
 ### Aula08 21/09/21
 
 - Pré-Projeto - Atendimento Individual
+
+----
 
 ### Aula09 28/09/21
 
 - **Entrega do Pré-Projeto (BCC)**
 - Pré-Projeto - Atendimento Individual
 
+----
+
 ### Aula10 05/10/21
 
 - **Entrega do Pré-Projeto (SIS)**
 - Preparação das apresentações (BCC)
 
+----
+
 ### Aula11 12/10/21
 
 -> Feriado Nossa Senhora Aparecida
 
+----
+
 ### Aula12 19/10/21
 
 - Semana de bancas (BCC)  
+
+----
 
 ### Aula13 26/10/21
 
 - Orientações para o projeto  
 - Como conduzir um estudo bibliográfico  
 
+----
+
 ### Aula14 02/11/21
 
 -> Feriado Finados
+
+----
 
 ### Aula15 09/11/21
 
 - Análise do Pré-Projeto - Atendimento Individual  
 
+----
+
 ### Aula16 16/11/21
 
 - Análise do Pré-Projeto - Atendimento Individual  
+
+----
 
 ### Aula17 23/11/21
 
 - Análise do Pré-Projeto - Atendimento Individual  
 
+----
+
 ### Aula18 30/11/21
 
 - **Entrega do Projeto**  
+
+----
 
 ### Aula19 07/12/21
 
 - Data final para devolução dos projetos pelos avaliadores  
 
------------
+----
 
 Último dia para entregar os diários de classe 2021/2: 04/12/21 - 15/12/21
