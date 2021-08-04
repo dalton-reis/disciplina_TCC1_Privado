@@ -74,8 +74,8 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ## Regulamentos
 
-[BCC_RegulamentoTCC](BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC")  
-[SIS_RegulamentoTCC](SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
+[BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC")  
+[SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
 
 Capítulo II: método científico - além de ter o sistema, ter algum tipo de validação do sistema
 
@@ -97,8 +97,8 @@ Capítulo VI:
 ## Encaminhamentos para o Termo de Compromisso  
 
 - Observações no inicio do cronograma  
-[BCC_TermoCompromisso](BCC_TermoCompromisso.docx "BCC_TermoCompromisso")  
-[SIS_TermoCompromisso](SIS_TermoCompromisso.docx "SIS_TermoCompromisso")  
+[BCC_TermoCompromisso](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso")  
+[SIS_TermoCompromisso](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso")  
 
 ## Turma de TCC1: Diagnóstico sobre orientações  
 
