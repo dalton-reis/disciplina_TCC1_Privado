@@ -6,7 +6,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ## Anotações de Aula
 
-[Anotações de Aula 01](/anotacoesAula01.md "Anotações de Aula 01")  
+[Anotações de Aula 01](/aula01Anotacoes.md "Anotações de Aula 01")  
 Anotações de Aula 02  
 
 ## Material
