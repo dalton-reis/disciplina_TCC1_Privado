@@ -3,8 +3,9 @@
 Local: Remoto (MS-Teams)  
 Dia da semana: terças (18:30\~22:00)  
 
-## Cronograma
+## Cronograma Resumido  
 
+<!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
 | Prazo      | Atividade                                       |
 | ---------- | ----------------------------------------------- |
 | 17/08      | Entrega do Termo de Compromisso                 |
@@ -12,7 +13,6 @@ Dia da semana: terças (18:30\~22:00)
 | 05/10      | Entrega do pré-projeto (curso de SIS)           |
 | 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |
 | 30/11      | Entrega do Projeto
-<!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
 
 ## Observações
 
