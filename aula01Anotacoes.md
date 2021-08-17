@@ -1,4 +1,4 @@
-# Aula01: algumas anotações das aulas
+# Aula01: Visão Geral da Disciplina
 
 ## Apresentação do Professor  
 
@@ -76,8 +76,8 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 ## Regulamentos
 
 <!-- ☞ 61cdc6f4-63a0-455c-b095-9c8cac2295e1 -->
-[BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC")  
-[SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
+[BCC_RegulamentoTCC.pdf](Material/BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC.pdf")  
+[SIS_RegulamentoTCC.pdf](Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC.pdf")  
 
 Capítulo II: método científico - além de ter o sistema, ter algum tipo de validação do sistema
 
@@ -99,23 +99,12 @@ Capítulo VI:
 ## Encaminhamentos para o Termo de Compromisso  
 
 - Observações no inicio do cronograma  
-[BCC_TermoCompromisso](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso")  
-[SIS_TermoCompromisso](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso")  
+[BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ## Turma de TCC1: Diagnóstico sobre orientações  
 
-- Conversar com a turma  
+- Conversar com a turma  (ordem alfabética da chamada)  
 - Nome, onde trabalha  
 - Possível orientador (coorientador)  
 - Se já tem uma ideia do que quer fazer  
-
-<!-- 
-- apresentar modelos de projetos (mas irei falar melhor na próxima semana - AULA 3)  
-- BCC o modelo mudou e SIS a ficha de avaliação do Prof de TCC mudou  
-- falar sobre a ficha de avaliação  
-- SIS falar da diferença do TCC Acadêmico para o Aplicado  
-  - descrever o problema da tua empresa (descrever como acontece agora)  
-  - na justificativa deve dizer o que está pensando em melhorar  
-  - se for pensar no problema por sua conta é acadêmico, mas se você for fazer uma entrevista com o usuário, ver os requisitos é aplicado  
-- mas vamos conversar melhor na semana que vem  
--->

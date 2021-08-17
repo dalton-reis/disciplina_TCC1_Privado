@@ -58,13 +58,19 @@ Dia da semana: terças (18:30\~22:00)
 ### Aula03 17/08/21
 
 - **Entrega do Termo de Compromisso de TCC**  
-- Modelo do Projeto de TCC  
-- Formatação - estilos e referências  
+- O que é um Projeto de TCC  
+- Como estabelecer um problema de pesquisa  
+- Partes constituintes do Projeto  
+  - Introdução e Correlatos  
+  - Justificativa, Método e Cronograma  
+  - Fontes bibliográficas  
 
 ----
 
 ### Aula04 24/08/21
 
+- Modelo do Projeto de TCC  
+- Formatação - estilos e referências  
 - Pré-Projeto - Formulação
 
 ----
