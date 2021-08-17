@@ -53,7 +53,7 @@ Dia da semana: terças (18:30\~22:00)
   - Justificativa, Método e Cronograma  
   - Fontes bibliográficas  
 
-[anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
+[anotacoesAula02](aula02e03Anotacoes.md "anotacoesAula02")  
 
 ----
 
