@@ -65,6 +65,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ## Tipos de TCC  
 
+<!-- ☞ 8b0df02d-2003-4dee-a582-cb9b89375664 -->
 - Visão geral de como ocorre o fluxograma para BCC
 - Visão geral de como ocorre o fluxograma para SIS
 
@@ -74,6 +75,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ## Regulamentos
 
+<!-- ☞ 61cdc6f4-63a0-455c-b095-9c8cac2295e1 -->
 [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC")  
 [SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
 
