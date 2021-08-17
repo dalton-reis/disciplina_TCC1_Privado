@@ -49,7 +49,7 @@
 
 ### Plano de Ensino
 
-[x] [Plano de Ensino](PlanoEnsino.pdf "Plano de Ensino")  
+[x] [Plano de Ensino](<https://ava3.furb.br/course/view.php?id=27084&section=1> "Plano de Ensino")  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
