@@ -11,8 +11,7 @@ Para mais detalhes do [Cronograma](cronograma.md "Cronograma")
 ## Anotações de Aula
 
 [Aula01: Visão Geral da Disciplina](/aula01Anotacoes.md "Aula01: Visão Geral da Disciplina")  
-[Aula02: O que é um Projeto de TCC](/aula02Anotacoes.md "Aula02: O que é um Projeto de TCC")  
-[Aula03: O que é um Projeto de TCC](/aula03Anotacoes.md "Aula02: O que é um Projeto de TCC")  
+[Aula02 e Aula03: O que é um Projeto de TCC](/aula02e03Anotacoes.md "Aula02 e Aula03: O que é um Projeto de TCC")  
 
 ## Material
 
