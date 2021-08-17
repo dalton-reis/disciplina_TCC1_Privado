@@ -104,7 +104,7 @@ Capítulo VI:
 
 ## Turma de TCC1: Diagnóstico sobre orientações  
 
-- Conversar com a turma  (ordem alfabética da chamada)  
+- Conversar com a turma  (ordem alfabética da lista de presença)  
 - Nome, onde trabalha  
 - Possível orientador (coorientador)  
 - Se já tem uma ideia do que quer fazer  
