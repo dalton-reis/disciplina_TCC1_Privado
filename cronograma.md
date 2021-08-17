@@ -40,7 +40,7 @@ Dia da semana: terças (18:30\~22:00)
 - Encaminhamentos para o Termo de Compromisso  
 - Diagnóstico sobre orientações  
 
-[anotacoesAula01](anotacoesAula01.md "anotacoesAula01")  
+[anotacoesAula01](aula01Anotacoes.md "anotacoesAula01")  
 
 ----
 
@@ -53,6 +53,8 @@ Dia da semana: terças (18:30\~22:00)
   - Justificativa, Método e Cronograma  
   - Fontes bibliográficas  
 
+[anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
+
 ----
 
 ### Aula03 17/08/21
@@ -64,6 +66,8 @@ Dia da semana: terças (18:30\~22:00)
   - Introdução e Correlatos  
   - Justificativa, Método e Cronograma  
   - Fontes bibliográficas  
+
+[anotacoesAula03](aula02Anotacoes.md "anotacoesAula03")  
 
 ----
 
