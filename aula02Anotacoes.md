@@ -9,15 +9,16 @@
 
 ## Material  
 
-[Slides_01AulaProjeto.pdf](Material/Slides_01AulaProjeto.pdf "Slides_01AulaProjeto.pdf")  
-[Exemplo_RedacaoAntes.pdf](Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
-[Exemplo_RedacaoDepois.pdf](Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
+[ ] [Slides_01AulaProjeto.pdf](Material/Slides_01AulaProjeto.pdf "Slides_01AulaProjeto.pdf") 
+    TODO: paramos no slides 15.  
+[ ] [Exemplo_RedacaoAntes.pdf](Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
+[ ] [Exemplo_RedacaoDepois.pdf](Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
 
 ## Modelos Projetos
 
-[BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
-[SIS_ProjetoAcademico.docx](Material/SIS_ProjetoAcademico.docx "SIS_ProjetoAcademico.docx")  
-[SIS_ProjetoAplicado.docx](Material/SIS_ProjetoAplicado.docx "SIS_ProjetoAplicado.docx")  
+[ ] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
+[ ] [SIS_ProjetoAcademico.docx](Material/SIS_ProjetoAcademico.docx "SIS_ProjetoAcademico.docx")  
+[ ] [SIS_ProjetoAplicado.docx](Material/SIS_ProjetoAplicado.docx "SIS_ProjetoAplicado.docx")  
 
 ## Roteiro Aula 3 - Apresentação dos MODELOS DE TCC
 

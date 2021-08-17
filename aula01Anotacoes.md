@@ -49,7 +49,7 @@
 
 ### Plano de Ensino
 
-[Plano de Ensino](PlanoEnsino.pdf "Plano de Ensino")  
+[x] [Plano de Ensino](PlanoEnsino.pdf "Plano de Ensino")  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
@@ -71,13 +71,13 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ## Cronograma
 
-[Cronograma](cronograma.md "Cronograma")  
+[x] [Cronograma](cronograma.md "Cronograma")  
 
 ## Regulamentos
 
 <!-- ☞ 61cdc6f4-63a0-455c-b095-9c8cac2295e1 -->
-[BCC_RegulamentoTCC.pdf](Material/BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC.pdf")  
-[SIS_RegulamentoTCC.pdf](Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC.pdf")  
+[x] [BCC_RegulamentoTCC.pdf](Material/BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC.pdf")  
+[x] [SIS_RegulamentoTCC.pdf](Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC.pdf")  
 
 Capítulo II: método científico - além de ter o sistema, ter algum tipo de validação do sistema
 
@@ -99,8 +99,8 @@ Capítulo VI:
 ## Encaminhamentos para o Termo de Compromisso  
 
 - Observações no inicio do cronograma  
-[BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
-[SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
+[x] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[x] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ## Turma de TCC1: Diagnóstico sobre orientações  
 
