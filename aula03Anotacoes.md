@@ -1,35 +1,30 @@
-# Aula02: algumas anotações das aulas
+# Aula03: Projeto - Partes constituintes  
 
-- O que é um Projeto de TCC  
-- Como estabelecer um problema de pesquisa  
 - Partes constituintes do Projeto  
   - Introdução e Correlatos  
   - Justificativa, Método e Cronograma  
   - Fontes bibliográficas  
+- Exemplos de Projetos  
 
 ## Material  
 
-[ ] [Slides_01AulaProjeto.pdf](Material/Slides_01AulaProjeto.pdf "Slides_01AulaProjeto.pdf") 
-    TODO: paramos no slides 15.  
-[ ] [Exemplo_RedacaoAntes.pdf](Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
-[ ] [Exemplo_RedacaoDepois.pdf](Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
+[ ] [BCC_ExemploPreProjeto.pdf]( "BCC_ExemploPreProjeto.pdf")  
+[ ] [BCC_ExemploProjeto.pdf]( "BCC_ExemploProjeto.pdf")  
+[ ] [SIS_ExemploProjetoAcademico.pdf]( "SIS_ExemploProjetoAcademico.pdf")  
+[ ] [SIS_ExemploProjetoAplicado.pdf]( "SIS_ExemploProjetoAplicado.pdf")  
 
-## Modelos Projetos
+## Resumo - Apresentação dos MODELOS DE TCC
 
-[ ] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
-[ ] [SIS_ProjetoAcademico.docx](Material/SIS_ProjetoAcademico.docx "SIS_ProjetoAcademico.docx")  
-[ ] [SIS_ProjetoAplicado.docx](Material/SIS_ProjetoAplicado.docx "SIS_ProjetoAplicado.docx")  
+### Apresentar os Exemplos
 
-## Roteiro Aula 3 - Apresentação dos MODELOS DE TCC
+- mostrar exemplos [Material](Material "Material")  
 
-### Apresentar os modelos
+### Referências Bibliográficas  
 
-- falar para preencher os dados do cabeçalho
-- número de páginas
+- comentar sobre as citações e citações direta  
+- os dois tipos de citações  
+- uso de numeração de página nas citações  
 
-### Introdução
-
-- 1 página - máximo 1 página e meia  
 - Começar e apontar para o problema  
 - **Não se deve apresentar soluções!**  
 - Apresentar alguns conceitos e definições  
@@ -65,8 +60,9 @@
 
 - Tem os itens mínimos, mas pode incrementar.  
 - Vai de:  
-  - fev - jun  
-  - ago - dez  
+  - fev - jun (só primeira quinzena)  
+  - ago - dez (só primeira quinzena)  
+  - maio não é abreviado
 
 <!-- 
 - apresentar modelos de projetos (mas irei falar melhor na próxima semana - AULA 3)  

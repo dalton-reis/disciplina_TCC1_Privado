@@ -48,26 +48,22 @@ Dia da semana: terças (18:30\~22:00)
 
 - O que é um Projeto de TCC  
 - Como estabelecer um problema de pesquisa  
-- Partes constituintes do Projeto  
-  - Introdução e Correlatos  
-  - Justificativa, Método e Cronograma  
-  - Fontes bibliográficas  
+- Visão geral do modelo do projeto  
 
-[anotacoesAula02](aula02e03Anotacoes.md "anotacoesAula02")  
+[anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
 
 ----
 
 ### Aula03 17/08/21
 
 - **Entrega do Termo de Compromisso de TCC**  
-- O que é um Projeto de TCC  
-- Como estabelecer um problema de pesquisa  
 - Partes constituintes do Projeto  
   - Introdução e Correlatos  
   - Justificativa, Método e Cronograma  
   - Fontes bibliográficas  
+- Exemplos de Projetos  
 
-[anotacoesAula03](aula02Anotacoes.md "anotacoesAula03")  
+[anotacoesAula03](aula03Anotacoes.md "anotacoesAula03")  
 
 ----
 
