@@ -28,9 +28,10 @@ Dia da semana: terças (18:30\~22:00)
 
 ### Aula01 03/08/21
 
-- Apresentação do Professor e da Disciplina  
+- Apresentação do Professor  
+- Apresentação da Disciplina  
 - Tipos de TCC: visão geral  
-- Cronograma
+- Cronograma  
 - Regulamento do TCC  
 - Encaminhamentos para o Termo de Compromisso  
 - Diagnóstico sobre orientações  
@@ -39,27 +40,28 @@ Dia da semana: terças (18:30\~22:00)
 
 ### Aula02 10/08/21
 
-- O que é um Projeto de TCC  
+<!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 - Como estabelecer um problema de pesquisa  
-- Visão geral do modelo do projeto  
+- Modelos dos Projetos  
+- Partes constituintes do Projeto  
+- Exemplos de Projetos  
 
 [anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
 
 ### Aula03 17/08/21
 
 - **Entrega do Termo de Compromisso de TCC**  
-- Partes constituintes do Projeto  
-  - Introdução e Correlatos  
-  - Justificativa, Método e Cronograma  
-  - Fontes bibliográficas  
-- Exemplos de Projetos  
+- Erros de redação  
+- Normas ABNT: citações e referências  
+- Dicas do uso do Editor MS-Word  
+- Pré-Projeto - Formulação  
 
 [anotacoesAula03](aula03Anotacoes.md "anotacoesAula03")  
 
 ### Aula04 24/08/21
 
-- Modelo do Projeto de TCC  
-- Formatação - estilos e referências  
+<!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
+<!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
 - Pré-Projeto - Formulação
 
 ### Aula05 31/08/21
@@ -72,6 +74,7 @@ Dia da semana: terças (18:30\~22:00)
 
 <!-- ☞ 1ffaaaa0-f41c-46d7-9d5d-4a4c4ebc3380 -->
 ### Aula07 14/09/21
+BCC 2 primeors horários com colegiado
 
 - Pré-Projeto - Atendimento Individual
 
@@ -85,7 +88,7 @@ Dia da semana: terças (18:30\~22:00)
 - Pré-Projeto - Atendimento Individual
 
 ### Aula10 05/10/21
-
+4 aulas para coleigado BCC
 - **Entrega do Pré-Projeto (SIS)**
 - Preparação das apresentações (BCC)
 

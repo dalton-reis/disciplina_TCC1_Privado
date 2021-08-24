@@ -1,71 +1,36 @@
 # Aula03: Projeto - Partes constituintes  
 
-- Partes constituintes do Projeto  
-  - Introdução e Correlatos  
-  - Justificativa, Método e Cronograma  
-  - Fontes bibliográficas  
-- Exemplos de Projetos  
+- **Entrega do Termo de Compromisso de TCC**  
+- Erros de redação  
+- Normas ABNT: citações e referências  
+- Dicas do uso do Editor MS-Word  
+- Pré-Projeto - Formulação  
 
-## Material  
+## Erros de redação
 
-[ ] [BCC_ExemploPreProjeto.pdf]( "BCC_ExemploPreProjeto.pdf")  
-[ ] [BCC_ExemploProjeto.pdf]( "BCC_ExemploProjeto.pdf")  
-[ ] [SIS_ExemploProjetoAcademico.pdf]( "SIS_ExemploProjetoAcademico.pdf")  
-[ ] [SIS_ExemploProjetoAplicado.pdf]( "SIS_ExemploProjetoAplicado.pdf")  
+[x] [Exemplo_RedacaoAntes.pdf](Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
+[x] [Exemplo_RedacaoDepois.pdf](Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
 
-## Resumo - Apresentação dos MODELOS DE TCC
-
-### Apresentar os Exemplos
-
-<!-- FIXME: ter um exemplo para cada modelo BCC (1x) e SIS (2x) -->
-- mostrar exemplos [Material](Material "Material")  
-
-### Referências Bibliográficas  
+## Normas ABNT: citações e referências
 
 - comentar sobre as citações e citações direta  
 - os dois tipos de citações  
 - uso de numeração de página nas citações  
-
-- Começar e apontar para o problema  
-- **Não se deve apresentar soluções!**  
 - Apresentar alguns conceitos e definições  
 - Trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
+- sites para formatar [More-UFSC](<https://more.ufsc.br/inicio> "More-UFSC"), [Mendeley](<https://www.mendeley.com> "Mendeley"), [ResearchGate](<https://www.researchgate.net> "ResearchGate"), etc.  
 
-### Objetivo
+[x] [Geral_ComoFazer_Citacoes.pdf](Material/Geral_ComoFazer_Citacoes.pdf "Geral_ComoFazer_Citacoes.pdf")  
+[x] [Geral_ComoFazer_ReferenciasBibliograficas.pdf](Material/Geral_ComoFazer_ReferenciasBibliograficas.pdf "Geral_ComoFazer_ReferenciasBibliograficas.pdf")  
 
-- Pedir para eles escreverem os objetivos no chat  
-- Ver as palavras-chave do trabalho (titulo e objetivos devem estar alinhados)  
-- Se é desenvolvimento de sistema / aplicativo = colocar "disponibilizar"  
-- Desenvolver (construir) é processo -> objetivo é resultado (disponibilizar)  
-- Usar só 1 verbo  
-- Segurança: coloque um verbo na frente do seu titulo  
+## Dicas do uso do Editor MS-Word
 
-### Objetivos Específicos
+- Formatação: estilos, inserir legenda e referência cruzada  
 
-- Objetivo NÃO é requisito funcional; as funções que estão no software são meios para definir o que ele vai fazer, mas, para quê vai fazer isso? Isso é o objetivo.  
-- Pode ser relacionado aos requisitos (1, 2, mas não todos)
-- Tem que pensar aonde que vocês querem chegar com o software e não nas funções que ele vai ter. As funções são requisitos.
+## Pré-Projeto - Formulação  
 
-### Correlatos
-
-- SIS - descrição do sistema atual  
-
-### Proposta
-
-- Justificativa:  
-  - Escrever porque o ter trabalho é importante?  
-  - Qual o diferencial? Porque é importante do ponto de vista computacional.  
-- Aqui pode colocar as contribuições.  
-
-### Métodos e Cronograma
-
-- Tem os itens mínimos, mas pode incrementar.  
-- Vai de:  
-  - fev - jun (só primeira quinzena)  
-  - ago - dez (só primeira quinzena)  
-  - maio não é abreviado
-
-
+- aproveitem o tempo para produzir o pré-projeto  
+- me enviem dúvidas pelo chat do MS-Teams  
 
 <!-- 
 - falar sobre a ficha de avaliação  
