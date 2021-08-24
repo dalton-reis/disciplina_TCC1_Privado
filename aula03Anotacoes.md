@@ -17,6 +17,7 @@
 
 ### Apresentar os Exemplos
 
+<!-- FIXME: ter um exemplo para cada modelo BCC (1x) e SIS (2x) -->
 - mostrar exemplos [Material](Material "Material")  
 
 ### Referências Bibliográficas  
@@ -64,9 +65,9 @@
   - ago - dez (só primeira quinzena)  
   - maio não é abreviado
 
+
+
 <!-- 
-- apresentar modelos de projetos (mas irei falar melhor na próxima semana - AULA 3)  
-- BCC o modelo mudou e SIS a ficha de avaliação do Prof de TCC mudou  
 - falar sobre a ficha de avaliação  
 - SIS falar da diferença do TCC Acadêmico para o Aplicado  
   - descrever o problema da tua empresa (descrever como acontece agora)  
