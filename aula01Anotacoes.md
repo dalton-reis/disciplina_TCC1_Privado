@@ -36,7 +36,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 <!-- FIXME: Trazer o texto dos dois regulamentos para texto MD. Assim podemos fazer pesquisas no texto. Acho que um dos dois regulamentos está em PNG. Colocar o link original do site da furb.
 Marcar partes importantes no texto. Usar pedaços no texto para colocar como link na minhas anotações. Assim quando for explicando um resumo das partes importantes do regulamento posso ir com o link direto no regulamento em si. -->
-[x] [BCC_RegulamentoTCC.pdf](Material/BCC_RegulamentoTCC.pdf "BCC_RegulamentoTCC.pdf")  
+[x] [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
 [x] [SIS_RegulamentoTCC.pdf](Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC.pdf")  
 
 Capítulo II: método científico - além de ter o sistema, ter algum tipo de validação do sistema  
