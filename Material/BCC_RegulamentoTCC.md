@@ -6,5 +6,3 @@
 
 Aprova o regulamento do Trabalho de Conclusão de Curso - TCC do Curso de Ciência da Computação da Fundação Universidade Regional de Blumenau - FURB.  
 O Reitor da Fundação Universidade Regional de Blumenau - FURB, no uso de suas atribuições legais e considerando, ainda, deliberação do egrégio Conselho de Ensino, Pesquisa e Extensão – CEPE – Processo n 047/2015, Parecer n 033/2016-, tomada em sua sessão plenária de 31 de maio de 2016, RESOLVE:  
-
-
