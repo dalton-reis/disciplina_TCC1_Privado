@@ -18,7 +18,7 @@
 - uso de numeração de página nas citações  
 - Apresentar alguns conceitos e definições  
 - Trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
-- sites para formatar [More-UFSC](<https://more.ufsc.br/inicio> "More-UFSC"), [Mendeley](<https://www.mendeley.com> "Mendeley"), [ResearchGate](<https://www.researchgate.net> "ResearchGate"), etc.  
+- sites para formatar [More-UFSC](<https://more.ufsc.br/inicio> "More-UFSC"), [Mendeley](<https://www.mendeley.com> "Mendeley"), [ResearchGate](<https://www.researchgate.net> "ResearchGate"), [Zotero](<https://www.zotero.org> "Zotero") etc.  
 
 [x] [Geral_ComoFazer_Citacoes.pdf](Material/Geral_ComoFazer_Citacoes.pdf "Geral_ComoFazer_Citacoes.pdf")  
 [x] [Geral_ComoFazer_ReferenciasBibliograficas.pdf](Material/Geral_ComoFazer_ReferenciasBibliograficas.pdf "Geral_ComoFazer_ReferenciasBibliograficas.pdf")  
