@@ -8,12 +8,12 @@ Dia da semana: terças (18:30\~22:00)
 
 <!-- TODO:INICIO atualizar -->
 <!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
-| Prazo      | Atividade                                       |
-| ---------- | ----------------------------------------------- |
-| 17/08      | Entrega do Termo de Compromisso                 |
-| 28/09      | Entrega do pré-projeto (curso de BCC)           |
-| 05/10      | Entrega do pré-projeto (curso de SIS)           |
-| 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |
+| Prazo      | Atividade                                       |  
+| ---------- | ----------------------------------------------- |  
+| 17/08      | Entrega do Termo de Compromisso                 |  
+| 28/09      | Entrega do pré-projeto (curso de BCC)           |  
+| 05/10      | Entrega do pré-projeto (curso de SIS)           |  
+| 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |  
 | 30/11      | Entrega do Projeto
 
 ## Observações
@@ -62,39 +62,43 @@ Dia da semana: terças (18:30\~22:00)
 
 <!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
 <!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
-- Pré-Projeto - Formulação
+- Pré-Projeto - Formulação  
 
 ### Aula05 31/08/21
 
-- Pré-Projeto - Formulação
+- Pré-Projeto - Formulação  
 
 ### Aula06 07/09/21
 
--> Feriado Independência
+-> Feriado Independência  
 
-<!-- ☞ 1ffaaaa0-f41c-46d7-9d5d-4a4c4ebc3380 -->
 ### Aula07 14/09/21
-BCC 2 primeors horários com colegiado
+<!-- ☞ 1ffaaaa0-f41c-46d7-9d5d-4a4c4ebc3380 -->  
+Obs.: 18:30~20:10 atividade ENADE (colegiado BCC)  
 
-- Pré-Projeto - Atendimento Individual
+- Pré-Projeto - Atendimento Individual  
+**[Atendimento SIS](Material/AtendimentoSIS.png "Atendimento SIS")**  
 
 ### Aula08 21/09/21
 
-- Pré-Projeto - Atendimento Individual
+- Pré-Projeto - Atendimento Individual  
+**[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")**  
 
 ### Aula09 28/09/21
 
 - **Entrega do Pré-Projeto (BCC)**
-- Pré-Projeto - Atendimento Individual
+- Pré-Projeto - Atendimento Individual  
 
 ### Aula10 05/10/21
-4 aulas para coleigado BCC
-- **Entrega do Pré-Projeto (SIS)**
-- Preparação das apresentações (BCC)
+
+Obs.: 18:30~22:00 (colegiado SIS)  
+
+- **Entrega do Pré-Projeto (SIS)**  
+- Preparação das apresentações (BCC)  
 
 ### Aula11 12/10/21
 
--> Feriado Nossa Senhora Aparecida
+-> Feriado Nossa Senhora Aparecida  
 
 ### Aula12 19/10/21
 
@@ -107,7 +111,7 @@ BCC 2 primeors horários com colegiado
 
 ### Aula14 02/11/21
 
--> Feriado Finados
+-> Feriado Finados  
 
 ### Aula15 09/11/21
 
@@ -129,4 +133,4 @@ BCC 2 primeors horários com colegiado
 
 - Data final para devolução dos projetos pelos avaliadores  
 
-Último dia para entregar os diários de classe 2021/2: 04/12/21 - 15/12/21
+Último dia para entregar os diários de classe 2021/2: 04/12/21 - 15/12/21  
