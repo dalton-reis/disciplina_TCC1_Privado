@@ -60,8 +60,9 @@ Dia da semana: terças (18:30\~22:00)
 
 ### Aula04 24/08/21
 
-<!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
-<!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
+<!-- aviso Orientadores: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
+<!-- aviso banca SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
+<!-- aviso banca BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
 - Pré-Projeto - Formulação  
 
 ### Aula05 31/08/21
