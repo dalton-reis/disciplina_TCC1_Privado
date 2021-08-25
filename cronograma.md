@@ -92,7 +92,7 @@ Obs.: 18:30~20:10 atividade ENADE (colegiado BCC)
 - Pré-Projeto - Atendimento Individual  
 
 ### Aula10 05/10/21
--
+
 Obs.: 18:30~22:00 (colegiado BCC)  
 
 <!-- aviso: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67516531> -->  
