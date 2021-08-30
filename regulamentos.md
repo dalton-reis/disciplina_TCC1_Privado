@@ -42,10 +42,3 @@ Parágrafo único. A não entrega do pré-projeto, a não apresentação do pré
 Art. 25. O número de componentes da banca de qualificação do pré-projeto é igual a 2 (dois), sendo composta pelo orientador do TCC e por um professor do DSC, indicado pelo colegiado do curso e aprovado pelo professor de TCC I.  
 
 Art. 26. Na apresentação do pré-projeto, o acadêmico tem, no máximo, 15 (quinze) minutos para exposição do mesmo, seguidos de, no máximo, 15 (quinze) minutos para questionamentos da banca, nesta ordem, perfazendo um total máximo de 30 (trinta) minutos.  
-
-
-[foo]: /Material/AtendimentoBCC.png "title"  
-teste de texto.  
-[foo]
-
-
