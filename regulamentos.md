@@ -5,10 +5,10 @@ Marcar partes importantes no texto. Usar pedaços no texto para colocar como lin
 [x] [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
 [x] [SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.md "SIS_RegulamentoTCC")  
 
-## Resumo
+## Resumo Regulamento do TCC do BCC
 
 - [ ] usar o último regulamento aprovado.  
-- [ ] TCC1 é pré-requisito de TCC2 [Capítulo I](cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares)  
+- [ ] TCC1 é pré-requisito de TCC2 [Capítulo I](BCC_RegulamentoTCC.md#cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares)  
 
 ------
 
