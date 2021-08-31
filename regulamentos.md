@@ -7,6 +7,11 @@ Marcar partes importantes no texto. Usar pedaços no texto para colocar como lin
 
 ## Resumo
 
+- [ ] usar o último regulamento aprovado.  
+- [ ] TCC1 é pré-requisito de TCC2 [Capítulo I](CAPÍTULO I - DO CONCEITO OU DISPOSIÇÕES PRELIMINARES)  
+
+------
+
 Capítulo II: método científico - além de ter o sistema, ter algum tipo de validação do sistema  
 
 - chegar com algo pronto e testado por um usuário - tem que ter validação  
