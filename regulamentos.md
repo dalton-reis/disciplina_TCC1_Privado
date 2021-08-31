@@ -8,7 +8,9 @@ Marcar partes importantes no texto. Usar pedaços no texto para colocar como lin
 ## Resumo Regulamento do TCC do BCC
 
 - [ ] usar o último regulamento aprovado.  
-- [ ] TCC1 é pré-requisito de TCC2 [Capítulo I](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares)  
+- [ ] TCC1 é pré-requisito de TCC2 [Capítulo I](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares) e [Capítulo III](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-iii---da-carga-horária-da-matr%C3%ADcula-e-da-frequência)  
+- [ ] integrar teoria e prática [Capítulo II](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-ii---dos-objetivos)  
+- [ ] objetivo da disciplina de TCC I [Capítulo II](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-ii---dos-objetivos)  
 
 ------
 
