@@ -1,8 +1,11 @@
+<!-- TODO:INICIO atualizar -->
+[Local]: <Aula Remota MS-Teams> "Local"  
+[Dia da semana]: <terças 18:30\~22:00> "Dia da semana"  
+
 # Cronograma
 
-<!-- TODO:INICIO atualizar -->
-Local: Remoto (MS-Teams)  
-Dia da semana: terças (18:30\~22:00)  
+[Local]  
+[Dia da semana]  
 
 ## Cronograma Resumido  
 
