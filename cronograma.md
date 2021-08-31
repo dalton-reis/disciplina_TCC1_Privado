@@ -9,7 +9,7 @@ Dia da semana: terças (18:30\~22:00)
 <!-- TODO:INICIO atualizar -->
 <!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
 | Prazo      | Atividade                                       |  
-| ---------- | ----------------------------------------------- |  
+| ---------- | :---------------------------------------------: |  
 | 17/08      | Entrega do Termo de Compromisso                 |  
 | 28/09      | Entrega do pré-projeto (curso de BCC)           |  
 | 05/10      | Entrega do pré-projeto (curso de SIS)           |  
