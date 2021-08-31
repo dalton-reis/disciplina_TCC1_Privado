@@ -8,7 +8,7 @@ Marcar partes importantes no texto. Usar pedaços no texto para colocar como lin
 ## Resumo
 
 - [ ] usar o último regulamento aprovado.  
-- [ ] TCC1 é pré-requisito de TCC2 [Capítulo I](CAPÍTULO I - DO CONCEITO OU DISPOSIÇÕES PRELIMINARES)  
+- [ ] TCC1 é pré-requisito de TCC2 [Capítulo I](cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares)  
 
 ------
 
