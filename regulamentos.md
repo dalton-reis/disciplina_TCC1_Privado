@@ -5,7 +5,7 @@ Marcar partes importantes no texto. Usar pedaços no texto para colocar como lin
 [x] [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
 [x] [SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.md "SIS_RegulamentoTCC")  
 
-## Resumo Regulamento do TCC do BCC
+## Resumo Regulamento do TCC do BCC e SIS (links do BCC)
 
 - usar o último regulamento aprovado.  
 - TCC1 é pré-requisito de TCC2 [Capítulo I](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares) e [Capítulo III](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-iii---da-carga-horária-da-matr%C3%ADcula-e-da-frequência)  
@@ -21,8 +21,6 @@ Marcar partes importantes no texto. Usar pedaços no texto para colocar como lin
 - seguir as Normas Técnicas [Capítulo VII](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-vii---da-estrutura)  
 - casos de reprovação e nota [Capítulo VIII](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-viii---da-avaliação)  
 - tempos para apresentação [Capítulo VIII](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-viii---da-avaliação)  
-
-------
 
 ## Geral
 

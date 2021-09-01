@@ -52,7 +52,7 @@ II — na disciplina de TCC II têm-se:
 a) aulas presenciais nas quais o coordenador de TCC fornece orientações e diretrizes para desenvolvimento e defesa do TCC;  
 b) atendimento individual pelo coordenador de TCC para acompanhar o desenvolvimento dos trabalhos;  
 c) desenvolvimento pelo acadêmico das atividades descritas no projeto aprovado;  
-d) atendimento individual semanal pelo orientador e, subsidiariame‘, pelo coorientador, se houver, para acompanhar o desenvolvimento do trabalho;  
+d) atendimento individual semanal pelo orientador e, subsidiariamente, pelo coorientador, se houver, para acompanhar o desenvolvimento do trabalho;  
 e) entrega de relatórios parciais ao coordenador de TCC, com o parecer do acadêmico e do orientador descrevendo o andamento dos trabalhos;  
 f) entrega da monografia pelo acadêmico ao orientador, que deve encaminhá-la ao coordenador de TCC;  
 g) apresentação pública do TCC pelo acadêmico;  
