@@ -16,6 +16,8 @@ Dia da semana: terças (18:30\~22:00)
 | 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |  
 | 30/11      | Entrega do Projeto
 
+![Cronograma Gantt](cronograma.svg "Cronograma Gantt")  
+
 ## Observações
 
 - Todas as entregas (Termo de Compromisso, Pré-Projeto e Projeto) devem ser encaminhadas para o orientador pelo Chat do MS-Teams que deverá repassar para o professor de TCC I também pelo chat do MS-Teams (dalton@furb.br) com um “De acordo”. Não encaminhe nada direto para o professor de TCC I pois não será considerado válido.  
