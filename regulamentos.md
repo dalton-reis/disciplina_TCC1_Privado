@@ -1,7 +1,5 @@
 # Regulamentos
 
-<!-- FIXME: Trazer o texto dos dois regulamentos para texto MD. Assim podemos fazer pesquisas no texto. Acho que um dos dois regulamentos está em PNG. Colocar o link original do site da furb.
-Marcar partes importantes no texto. Usar pedaços no texto para colocar como link na minhas anotações. Assim quando for explicando um resumo das partes importantes do regulamento posso ir com o link direto no regulamento em si. -->
 [x] [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
 [x] [SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.md "SIS_RegulamentoTCC")  
 
