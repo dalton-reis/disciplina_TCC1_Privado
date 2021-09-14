@@ -16,7 +16,7 @@ Dia da semana: terças (18:30\~22:00)
 | 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |  
 | 30/11      | Entrega do Projeto
 
-![Cronograma Gantt](cronograma.svg "Cronograma Gantt")  
+![Cronograma Gantt](cronograma.drawio.svg "Cronograma Gantt")  
 
 ## Observações
 
@@ -42,7 +42,7 @@ Dia da semana: terças (18:30\~22:00)
 
 ### Aula02 10/08/21
 
-<!-- aviso Termo: atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
+<!-- [x] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 - Como estabelecer um problema de pesquisa  
 - Modelos dos Projetos  
 - Partes constituintes do Projeto  
@@ -62,9 +62,9 @@ Dia da semana: terças (18:30\~22:00)
 
 ### Aula04 24/08/21
 
-<!-- aviso Orientadores: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
-<!-- aviso banca SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
-<!-- aviso banca BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
+<!-- [x] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
+<!-- [ ] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
+<!-- [ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
 - Pré-Projeto - Formulação  
 
 ### Aula05 31/08/21
