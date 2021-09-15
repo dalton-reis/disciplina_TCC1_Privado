@@ -3,12 +3,17 @@
 Orientando: FernandoMueller  
 Orientador: Simone
 Título: SISTEMA COLABORATIVO PARA JOGOS ONLINE  
-[Termo](FernandoMueller_2021-08-15_Termo.pdf "Termo")  
+[Termo](FernandoMueller_Termo.pdf "Termo")  
 
-## 2021-09-14
+## Atendimento Pré-Projeto
 
-Percentual estimado: 40%
-
+Percentual estimado: 40%  
+Comentários:  
 Está produzindo e já interagindo com a Simone (orientadora).  
 Sem dúvidas.  
-Aconselhei acelerar a produção do Projeto.
+Aconselhei acelerar a produção do Projeto.  
+
+## Atendimento Projeto
+
+Percentual estimado:  
+Comentários:  
