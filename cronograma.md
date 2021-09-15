@@ -17,6 +17,7 @@ Dia da semana: terças (18:30\~22:00)
 | 30/11      | Entrega do Projeto
 
 ![Cronograma Gantt](cronograma.drawio.svg "Cronograma Gantt")  
+![Fluxograma](fluxograma.drawio.svg "fluxograma")  
 
 ## Observações
 
