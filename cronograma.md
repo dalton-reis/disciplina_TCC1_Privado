@@ -4,7 +4,7 @@
 Local: Remoto (MS-Teams)  
 Dia da semana: terças (18:30\~22:00)  
 
-## Cronograma Resumido  
+## Cronograma Resumido
 
 <!-- TODO:INICIO atualizar -->
 <!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
@@ -16,7 +16,12 @@ Dia da semana: terças (18:30\~22:00)
 | 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |  
 | 30/11      | Entrega do Projeto
 
+## Cronograma Gantt
+
 ![Cronograma Gantt](cronograma.drawio.svg "Cronograma Gantt")  
+
+## Fluxograma
+
 ![Fluxograma](fluxograma.drawio.svg "fluxograma")  
 
 ## Observações
