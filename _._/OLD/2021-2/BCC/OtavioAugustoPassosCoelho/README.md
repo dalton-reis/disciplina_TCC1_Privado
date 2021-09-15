@@ -3,7 +3,7 @@
 Orientando: OtavioAugustoPassosCoelho  
 Orientador: Luciana  
 Título: FACILITANDO ACESSIBILIDADE DE DALTÔNICOS NA NAVEGAÇÃO WEB  
-[Termo](OtavioAugustoPassosCoelho_Termo.pdf “Termo”)  
+[Termo](OtavioAugustoPassosCoelho_Termo.pdf "Termo")  
 
 ## Atendimento Pré-Projeto
 

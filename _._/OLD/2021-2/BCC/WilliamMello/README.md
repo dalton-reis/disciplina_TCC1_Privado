@@ -3,7 +3,7 @@
 Orientando: WilliamMello  
 Orientador: Luciana  
 Título: SISTEMA GERENCIADOR DE BASE DADOS E DICIONÁRIO  
-[Termo](WilliamMello_Termo.pdf “Termo”)  
+[Termo](WilliamMello_Termo.pdf "Termo")  
 
 ## Atendimento Pré-Projeto
 

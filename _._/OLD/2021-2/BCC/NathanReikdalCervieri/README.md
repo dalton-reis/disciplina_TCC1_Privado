@@ -3,7 +3,7 @@
 Orientando: NathanReikdalCervieri  
 Orientador: Dalton  
 Título: EXPLORANDO O USO DO LEAPMOTION EM AMBIENTES DE REALIDADE IMERSIVA  
-[Termo](NathanReikdalCervieri_Termo.pdf “Termo”)  
+[Termo](NathanReikdalCervieri_Termo.pdf "Termo")  
 
 ## Atendimento Pré-Projeto
 

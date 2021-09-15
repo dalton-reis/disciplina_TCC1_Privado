@@ -3,7 +3,7 @@
 Orientando: SaraHelenaRegisTheiss  
 Orientador: Luciana  
 Título: DESENVOLVIMENTO DE JOGO UTILIZANDO NON-FUNGIBLE TOKENS E REDES DE BLOCKCHAIN  
-[Termo](SaraHelenaRegisTheiss_Termo.pdf “Termo”)  
+[Termo](SaraHelenaRegisTheiss_Termo.pdf "Termo")  
 
 ## Atendimento Pré-Projeto
 

@@ -3,7 +3,7 @@
 Orientando: GabrielLuisFernandoDeSouza  
 Orientador: Aurélio  
 Título: RECONSTRUÇÃO DE SUPERFÍCIE 3D A PARTIR DE IMAGENS 2D  
-[Termo](GabrielLuisFernandoDeSouza_Termo.pdf “Termo”)  
+[Termo](GabrielLuisFernandoDeSouza_Termo.pdf "Termo")  
 
 ## Atendimento Pré-Projeto
 

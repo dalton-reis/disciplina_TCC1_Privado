@@ -3,7 +3,7 @@
 Orientando: GabrielCastellaniDeOliveira  
 Orientador: Dalton  
 Título: DESENVOLVIMENTO DE UMA BIBLIOTECA PARA O USO DO SENSOR LIDAR EM DISPOSITIVOS IOS  
-[Termo](GabrielCastellaniDeOliveira_Termo.pdf “Termo”)  
+[Termo](GabrielCastellaniDeOliveira_Termo.pdf "Termo")  
 
 ## Atendimento Pré-Projeto
 

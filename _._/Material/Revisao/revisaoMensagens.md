@@ -13,21 +13,21 @@
 - Se é uma sigla, a primeira letra deve ser em maiúsculo.  
 - Atenção para palavras repetidas na mesma frase. Evite repetir palavras numa mesma frase/parágrafo.  
 - Não tem vírgula depois da referência pois não existe vírgula entre sujeito e verbo.  
-- Tem vírgula depois da referência em função do “Segundo”.  
+- Tem vírgula depois da referência em função do "Segundo".  
 - Gerúndio complementa alguma ideia. Se a frase começa com gerúndio deve ter a ideia principal.  
 - Deve-se evitar iniciar a frase com gerúndio. Gerúndio complementa alguma ideia.  
-- “e” é um conectivo de ligação entre ideias de uma mesma frase não de frases diferentes.
+- "e" é um conectivo de ligação entre ideias de uma mesma frase não de frases diferentes.
 - Existe palavra em português para este termo.  
 - Cuidado com o uso excessivo de conectivos.  
-- Cuidado com o uso excessivo de conectivo “já”. Verifique se a frase tem sentido sem o conectivo. Vou destacar em amarelo.  
+- Cuidado com o uso excessivo de conectivo "já". Verifique se a frase tem sentido sem o conectivo. Vou destacar em amarelo.  
 - Erro de concordância de número.  
 - Erro de concordância de gênero.  
 - Você precisa fazer uma boa revisão no texto. Tem vários erros de concordância, uso de linguagem informal entre outros itens mencionados no documento.  
 - Não se deve usar palavras coloquiais.  
 - Isto é citação? Se for, deve colocar dentro do formato correto.  
-- Não se coloca “.” antes da referência.  
-- Significado de através: advérbio de atravessado, de través. Podes utilizar “por meio”.
-- Onde expressa lugar. Prefira “o qual”, “no qual”, “em que” ou veja se é realmente necessário.  
+- Não se coloca "." antes da referência.  
+- Significado de através: advérbio de atravessado, de través. Podes utilizar "por meio".
+- Onde expressa lugar. Prefira "o qual", "no qual", "em que" ou veja se é realmente necessário.  
 - Como você tem certeza disso? Só podes afirmar algo se já foram realizados testes que comprovem a eficácia.  
 - Nome de software, ferramenta, aplicativo, linguagem de programação, plataforma, empresa: não deve ser escrito em itálico.  
 
@@ -87,7 +87,7 @@
 - Os prenomes e demais sobrenomes dos autores podem ser ou não abreviados, desde que seja seguido o mesmo padrão de abreviação.  
 - Como você colocou a referência no início do parágrafo não é necessário repetir novamente.  
 - Coloca somente a referência no início da frase ou no final do parágrafo. Não precisa neste caso colocar em cada frase (referência repetida).  
-- et al. (em itálico e com “.”). Rever todos no texto. E é "al" e não "all".  
+- et al. (em itálico e com "."). Rever todos no texto. E é "al" e não "all".  
 - Não está de acordo com a ABNT.  
 - Não está de acordo com a norma.  
 - Não está de acordo com a norma NBR-6023-2018.  
