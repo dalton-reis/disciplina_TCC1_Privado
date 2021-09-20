@@ -26,9 +26,9 @@ Dia da semana: terças (18:30\~22:00)
 
 ## Observações
 
-- Todas as entregas (Termo de Compromisso, Pré-Projeto e Projeto) devem ser encaminhadas para o orientador pelo Chat do MS-Teams que deverá repassar para o professor de TCC I também pelo chat do MS-Teams (dalton@furb.br) com um "De acordo". Não encaminhe nada direto para o professor de TCC I pois não será considerado válido.  
+- Todas as entregas (Termo de Compromisso, Pré-Projeto e Projeto) devem ser encaminhadas por e-mail ao orientador que deverá repassar para o professor de TCC1 com um “De acordo”. Não encaminhe nada direto para o professor de TCC1 pois não será considerado válido.  
 - Certifique-se que o orientador fez o encaminhamento para o professor de TCC1.  
-- Encaminhamentos que não forem feitos em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante.  
+- Encaminhamentos que não forem feitos (para o Pré-Projeto e Projeto) em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante.  
 - Todos os arquivos encaminhados devem ser em formato "docx".  
 
 <!-- TODO:INICIO atualizar -->
