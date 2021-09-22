@@ -69,7 +69,7 @@ Dia da semana: terças (18:30\~22:00)
 ### Aula04 24/08/21
 
 <!-- [x] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
-<!-- [ ] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
+<!-- [x] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
 <!-- [ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
 - Pré-Projeto - Formulação  
 
@@ -85,13 +85,13 @@ Dia da semana: terças (18:30\~22:00)
 
 Obs.: 18:30~20:10 atividade ENADE (colegiado BCC)  
 
-<!-- aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514774> -->  
+<!-- [x] aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514774> -->  
 - Pré-Projeto - Atendimento Individual  
 **[Atendimento SIS](Material/AtendimentoSIS.png "Atendimento SIS")**  
 
 ### Aula08 21/09/21
 
-<!-- aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
+<!-- [x] aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
 - Pré-Projeto - Atendimento Individual  
 **[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")**  
 
@@ -104,7 +104,7 @@ Obs.: 18:30~20:10 atividade ENADE (colegiado BCC)
 
 Obs.: 18:30~22:00 (colegiado BCC)  
 
-<!-- aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67516531> -->  
+<!-- ???? aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67516531> -->  
 - **Entrega do Pré-Projeto (SIS)**  
 - Preparação das apresentações (BCC)  
   - enviar instruções pelo MS-Teams  

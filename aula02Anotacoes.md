@@ -19,6 +19,14 @@ Não usar, só para conhecimento ...
 [x] [BCC_Projeto_FichaTCC1.docx](Material/BCC_Projeto_FichaTCC1.docx "BCC_Projeto_FichaTCC1.docx")  
 [x] [SIS_Projeto_FichaTCC1.docx](Material/SIS_Projeto_FichaTCC1.docx "SIS_Projeto_FichaTCC1.docx")  
 
+## Quando iniciar Pré-Projeto?
+
+- Já deveria ter iniciado 😉  
+- Tenha uma conversa inicial com o orientador e descreva o que pretende fazer.  
+- Tente definir o escopo da sua pesquisa. Quais seriam as palavras chaves de pesquisa?  
+- Sim, pode usar textos em outros idiomas (inglês). Só nas citações diretas se usa "tradução nossa".  
+- Cada um pode adotar uma sequência de produção própria. O importante é começar. As vezes o orientador sugere uma sequência. Eu recomendo a sequência ser: Trabalhos Correlatos, Justificativa, Objetivos, Requisitos, Metodologia, Introdução e Revisão.  
+
 ## Partes constituintes do Projeto
 
 - falar para preencher os dados do cabeçalho  
