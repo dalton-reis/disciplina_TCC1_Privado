@@ -113,9 +113,7 @@ Não usar, só para conhecimento ...
 - Professor de TCC1  
 - Professor Avaliador  
 
-## Exemplos de Projetos
+## Exemplos de Pré-Projetos
 
-[ ] [BCC_ExemploPreProjeto.pdf]( "BCC_ExemploPreProjeto.pdf")  
-[ ] [BCC_ExemploProjeto.pdf]( "BCC_ExemploProjeto.pdf")  
-[ ] [SIS_ExemploProjetoAcademico.pdf]( "SIS_ExemploProjetoAcademico.pdf")  
-[ ] [SIS_ExemploProjetoAplicado.pdf]( "SIS_ExemploProjetoAplicado.pdf")  
+[x] [BCC_ExemploPreProjeto](Exemplos/BCC "BCC_ExemploPreProjeto")  
+[x] [SIS_ExemploPreProjeto](Exemplos/SIS "SIS_ExemploPreProjeto")  
