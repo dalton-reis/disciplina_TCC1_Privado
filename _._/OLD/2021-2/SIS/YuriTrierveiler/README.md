@@ -12,7 +12,7 @@ Comentários:
 Conversou com a Luciana e ela indicou 4 trabalhos correlatos. Vai usar 3 destes trabalhos.  
 Não fez anda ainda.  
 Esta fazendo um curso online.  
-Recomendei FORTEMENTE (mas FORTEMENTE) acelerar o desenvolvimento.  
+Recomendei FORTEMENTE (mas FORTEMENTE) acelerar o desenvolvimento do Pré-Projeto.  
 
 ## Atendimento Projeto
 

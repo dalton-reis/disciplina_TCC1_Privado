@@ -11,7 +11,7 @@ Percentual estimado: 20%
 Comentários:  
 Começou pouco no formato.  
 Tem um modelo passado pelo Simone, e disse para ter cuidado. Enviei o modelo certo.  
-Aconselhei acelerar a produção do Projeto.  
+Aconselhei acelerar a produção do Pré-Projeto.  
 
 ## Atendimento Projeto
 

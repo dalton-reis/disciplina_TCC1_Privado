@@ -14,7 +14,7 @@ Objetivos: ainda falta olhar com mais calma se não requisitos.
 Trabalhos Correlatos: tem dois, precisa mais um.  
 Proposta: só um começo.  
 Um pouco "atrapalhado" com a formatação.  
-Aconselhei acelerar a produção do Projeto.  
+Aconselhei acelerar a produção do Pré-Projeto.  
 
 ## Atendimento Projeto
 

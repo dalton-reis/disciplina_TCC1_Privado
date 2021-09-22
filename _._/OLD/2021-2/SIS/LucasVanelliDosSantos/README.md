@@ -10,7 +10,7 @@ Título: APLICATIVO COLABORATIVO PARA GERENCIAMENTO DE PATOTAS
 Percentual estimado: 40%  
 Comentários:  
 Estava com problemas nos objetivos. Sugeri quebrar o objetivo geral em específico. Deixar só 3 objetivos específicos. O OE c) ser do RARUCg.  
-Aconselhei acelerar a produção do Projeto.  
+Aconselhei acelerar a produção do Pré-Projeto.  
 
 ## Atendimento Projeto
 

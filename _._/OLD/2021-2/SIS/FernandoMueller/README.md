@@ -11,7 +11,7 @@ Percentual estimado: 40%
 Comentários:  
 Está produzindo e já interagindo com a Simone (orientadora).  
 Sem dúvidas.  
-Aconselhei acelerar a produção do Projeto.  
+Aconselhei acelerar a produção do Pré-Projeto.  
 
 ## Atendimento Projeto
 

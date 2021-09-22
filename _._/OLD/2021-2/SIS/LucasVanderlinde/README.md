@@ -12,7 +12,7 @@ Comentários:
 Descreveu os 3 trabalhos correlatos.  
 Ainda não fez Introdução e Objetivos (geral e específicos).  
 Sugeri fazer os Objetivos e já pedir para o orientador olhar.  
-Aconselhei FORTEMENTE acelerar a produção do Projeto.  
+Aconselhei acelerar a produção do Pré-Projeto.  
 
 ## Atendimento Projeto
 

@@ -13,7 +13,7 @@ Fez a Introdução.
 Tem os Objetivos.  
 Fez pesquisa de conteúdo.  
 Ainda não conversou muito com o Marcel.  
-Aconselhei FORTEMENTE acelerar a produção do Projeto.  
+Aconselhei FORTEMENTE acelerar a produção do Pré-Projeto.  
 
 ## Atendimento Projeto
 

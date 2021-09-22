@@ -12,7 +12,7 @@ Comentários:
 Está produzindo e já interagindo com a Simone (orientadora).  
 Já esta usando a formatação.  
 Sem dúvidas.  
-Aconselhei acelerar a produção do projeto.  
+Aconselhei acelerar a produção do Pré-Projeto.  
 
 ## Atendimento Projeto
 
