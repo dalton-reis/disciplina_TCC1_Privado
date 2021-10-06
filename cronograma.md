@@ -22,7 +22,7 @@ Dia da semana: terças (18:30\~22:00)
 
 ## Fluxograma
 
-![Fluxograma](fluxograma.drawio.svg "fluxograma")  
+![Fluxograma](cronogramaFluxograma.drawio.svg "fluxograma")  
 
 ## Observações
 
