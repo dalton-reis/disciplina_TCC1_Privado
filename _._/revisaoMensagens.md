@@ -45,18 +45,13 @@
 
 ## Formato
 
-- Início na primeira quinzena de agosto e fim na segunda quinzena de novembro.  
-- Deve finalizar na segunda quinzena de novembro.  
 - Não está no estilo.  
 - Não precisa de itálico.  
 - Nomes próprios não são escritos em itálico.  
-- Enumeração inicia com letra minúscula.  
 - Falta de preâmbulo na seção.  
-- Existência da mensagem Erro! Fonte de referência não encontrada (o título ou a legenda foi apagado. A referência deve ser refeita).  
 - Faça isso para as demais.  
 - Nomes de pacotes, classes, entidades, atributos, métodos ou diálogos de interface devem ser escritos em fonte courier (tem estilo).  
 - A equação deve seguir o formato da ABNT. Com o número ao lado da equação entre parênteses.  
-- Tem estilo para enumeração.  
 
 ## Figuras
 
