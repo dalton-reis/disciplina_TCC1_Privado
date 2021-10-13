@@ -20,6 +20,17 @@ Os modelos de SIS Acadêmico e Aplicado não poderiam ser um só e indicar no ca
 
 [JamBoard_Google](reuniao_2021-09-15.pdf "JamBoard_Google")
 
+## Reunião 2021-10-13
+
+O que? Introdução / Descrição  
+Onde? Campo (Instituição, empresa, organização, comunidade, ...)  
+Quem? Público-alvo, benefícios  
+Por que? Justificativa, Relevância Social  
+Como? Metodologia  
+Quando? Cronograma  
+
+Novo currículo do SIS com extensão em 2023/1 TCC1 e 2023/2 TCC2.
+
 ### próximas reuniões
 
-06/10 (quarta)  
+No NDE do SIS
