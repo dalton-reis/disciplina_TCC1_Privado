@@ -28,10 +28,14 @@ Mas como parâmetro podem usar:
   1 slide: Primeiro Trabalho Correlato  
   1 slide: Segundo Trabalho Correlato  
   1 slide: N-Ésimo Trabalho Correlato  
-  1 slide: Quadro comparativo dos trabalhos correlatos
+  1 slide: Justificativa
+  1 slide: Proposta do Aplicativo
   1 slide: Requisitos (RFs e RNFs)  
   1 slide: Quadro cronograma  
   1 slide: Revisão Bibliográfica
+  1 slide: Referências
+
+Se quiserem podem usar este modelo [_ModeloSlidesPreProjeto.ppt](Exemplos/BCC/Slides/_ModeloSlidesPreProjeto.ppt "_ModeloSlidesPreProjeto.ppt").  
 
 Mas lembrem, é só uma sugestão, pois pode mudar dependendo do contexto do assunto de cada trabalho. O importante é vocês fazerem algumas prévias e cuidarem para não ultrapassar o tempo máximo estipulado.  
 Também recomendo fortemente encaminharem para o seu orientador os slides e o vídeo da gravação da prévia. Se quiserem podem usar o próprio MS-Teams para gravar o vídeo.  
@@ -39,4 +43,4 @@ Bom, em caso de dúvidas me enviem pelo chat do MS-Teams.
 
 ## Exemplos
 
-
+[x] [BCC_ExemploSlidesPreProjeto](Exemplos/BCC/Slides "BCC_ExemploSlidesPreProjeto")  

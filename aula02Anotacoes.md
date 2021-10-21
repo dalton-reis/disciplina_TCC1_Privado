@@ -17,7 +17,8 @@
 
 Não usar, só para conhecimento ...  
 [x] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
-[x] [SIS_PreProjeto_FichaTCC1.docx](Material/SIS_PreProjeto_FichaTCC1.docx "SIS_PreProjeto_FichaTCC1.docx")  
+[x] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
+[x] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
 
 ## Quando iniciar Pré-Projeto?
 
