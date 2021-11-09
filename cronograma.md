@@ -107,7 +107,8 @@ Obs.: 18:30~22:00 (colegiado BCC)
 <!-- ???? aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67516531> -->  
 - **Entrega do Pré-Projeto (SIS)**  
 - Preparação das apresentações (BCC)  
-  - enviar instruções pelo MS-Teams  
+
+[anotacoesAula04BCC](aula04AnotacoesBCC.md "anotacoesAula04BCC")  
 
 ### Aula11 12/10/21
 
@@ -121,6 +122,7 @@ Obs.: 18:30~22:00 (colegiado BCC)
 
 - Orientações para o projeto  
 - Como conduzir um estudo bibliográfico  
+[anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
 
 ### Aula14 02/11/21
 

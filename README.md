@@ -26,6 +26,8 @@ Para mais detalhes do [Cronograma](cronograma.md "Cronograma")
 [Aula01: Visão Geral da Disciplina](aula01Anotacoes.md "Aula01: Visão Geral da Disciplina")  
 [Aula02: Projeto - Visão Geral](aula02Anotacoes.md "Aula02: Projeto - Visão Geral")  
 [Aula03: Projeto - Partes constituintes](aula03Anotacoes.md "Aula03: Projeto - Partes constituintes")  
+[Aula04: BCC - Defesa Qualificação Projeto](aula04AnotacoesBCC.md "Aula04: BCC - Defesa Qualificação Projeto")  
+[Aula05: Modelos Projetos](aula05Anotacoes.md "Aula05: Modelos Projetos")  
 
 ## Material
 
