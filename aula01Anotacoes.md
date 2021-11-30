@@ -10,7 +10,7 @@
 
 ## Apresentação do Professor
 
-- [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis "Apresentação do Professor")  
+- [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Apresentação do Professor")  
 
 ## Apresentação da Disciplina
 
