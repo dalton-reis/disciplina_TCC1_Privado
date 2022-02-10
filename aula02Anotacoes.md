@@ -7,18 +7,18 @@
 
 ## Como estabelecer um problema de pesquisa
 
-[x] [Slides_01AulaProjeto.pdf](Material/Slides_01AulaProjeto.pdf "Slides_01AulaProjeto.pdf")  
+[ ] [Slides_01AulaProjeto.pdf](Material/Slides_01AulaProjeto.pdf "Slides_01AulaProjeto.pdf")  
 
 ## Modelos Projetos
 
-[x] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
-[x] [SIS_ProjetoAcademico.docx](Material/SIS_ProjetoAcademico.docx "SIS_ProjetoAcademico.docx")  
-[x] [SIS_ProjetoAplicado.docx](Material/SIS_ProjetoAplicado.docx "SIS_ProjetoAplicado.docx")  
+[ ] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
+[ ] [SIS_ProjetoAcademico.docx](Material/SIS_ProjetoAcademico.docx "SIS_ProjetoAcademico.docx")  
+[ ] [SIS_ProjetoAplicado.docx](Material/SIS_ProjetoAplicado.docx "SIS_ProjetoAplicado.docx")  
 
 Não usar, só para conhecimento ...  
-[x] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
-[x] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
-[x] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
+[ ] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
+[ ] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
+[ ] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
 
 ## Quando iniciar Pré-Projeto?
 
@@ -95,8 +95,8 @@ Não usar, só para conhecimento ...
     - pré-projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas);  
     - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
 - Buscar material para "poder" escrever:
-  - [x] [Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
-  - [x] [TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
+  - [ ] [Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
+  - [ ] [TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
 
 ### Referências
 
@@ -118,5 +118,5 @@ Não usar, só para conhecimento ...
 
 **Atenção** os pré-projetos abaixo devem ser usados somente como exemplos, pois os mesmos podem conter partes que não seguem o modelo definido e as normas da ABNT.
 
-[x] [BCC_ExemploPreProjeto](Exemplos/BCC "BCC_ExemploPreProjeto")  
-[x] [SIS_ExemploPreProjeto](Exemplos/SIS "SIS_ExemploPreProjeto")  
+[ ] [BCC_ExemploPreProjeto](Exemplos/BCC "BCC_ExemploPreProjeto")  
+[ ] [SIS_ExemploPreProjeto](Exemplos/SIS "SIS_ExemploPreProjeto")  

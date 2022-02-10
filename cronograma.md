@@ -48,7 +48,7 @@ Dia da semana: terças (18:30\~22:00)
 
 ### Aula02 10/08/21
 
-<!-- [x] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
+<!-- [ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 - Como estabelecer um problema de pesquisa  
 - Modelos dos Projetos  
 - Partes constituintes do Projeto  
@@ -68,8 +68,8 @@ Dia da semana: terças (18:30\~22:00)
 
 ### Aula04 24/08/21
 
-<!-- [x] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
-<!-- [x] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
+<!-- [ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
+<!-- [ ] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
 <!-- [ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
 - Pré-Projeto - Formulação  
 
@@ -85,13 +85,13 @@ Dia da semana: terças (18:30\~22:00)
 
 Obs.: 18:30~20:10 atividade ENADE (colegiado BCC)  
 
-<!-- [x] aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514774> -->  
+<!-- [ ] aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514774> -->  
 - Pré-Projeto - Atendimento Individual  
 **[Atendimento SIS](Material/AtendimentoSIS.png "Atendimento SIS")**  
 
 ### Aula08 21/09/21
 
-<!-- [x] aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
+<!-- [ ] aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
 - Pré-Projeto - Atendimento Individual  
 **[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")**  
 

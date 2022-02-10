@@ -15,11 +15,11 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos todos pelo Teams  
-- [x] [Link AVA3 Trabalho de Conclusão de Curso I](<https://ava3.furb.br/course/view.php?id=27084> "Link AVA3 Trabalho de Conclusão de Curso I")  
+- [ ] [Link AVA3 Trabalho de Conclusão de Curso I](<https://ava3.furb.br/course/view.php?id=27084> "Link AVA3 Trabalho de Conclusão de Curso I")  
 
 ### Plano de Ensino
 
-[x] [Plano de Ensino](<https://ava3.furb.br/course/view.php?id=27084&section=1> "Plano de Ensino")  
+[ ] [Plano de Ensino](<https://ava3.furb.br/course/view.php?id=27084&section=1> "Plano de Ensino")  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
@@ -40,7 +40,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ## Cronograma
 
-[x] [Cronograma](cronograma.md "Cronograma")  
+[ ] [Cronograma](cronograma.md "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -49,10 +49,10 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 ## Encaminhamentos para o Termo de Compromisso  
 
 - Observações no inicio do cronograma  
-- [x] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC") (podem orientar)  
+- [ ] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC") (podem orientar)  
 
-[x] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
-[x] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
+[ ] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[ ] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ## Diagnóstico sobre orientações
 
