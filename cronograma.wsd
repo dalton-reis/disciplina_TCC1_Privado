@@ -2,63 +2,60 @@
 
 ganttscale weekly
 
-Project starts 2021-08-01
+Project starts 2022-02-23
 
 -- cronograma -- 
 [completado] is colored in green
-[completado] starts 2021-08-03 and ends 2021-10-06
-[falta] starts 2021-10-06 and ends 2021-12-07
+[completado] starts 2022-02-23 and ends 2022-03-02
+[falta] starts 2022-03-02 and ends 2022-06-22
 [falta] is colored in blue
 
 -- Aulas -- 
 [Termo] is colored in Red
-[Termo]  starts 2021-08-03 and ends 2021-08-17
-[Aula01] starts 2021-08-03 and ends 2021-08-03
-[Aula02] starts 2021-08-10 and ends 2021-08-10
-[Aula03] starts 2021-08-17 and ends 2021-08-17
+[Termo]  starts 2022-02-23 and ends 2022-03-09
+[Aula01] starts 2022-02-23 and ends 2022-02-23
+[Aula02] starts 2022-03-02 and ends 2022-03-02
+[Aula03] starts 2022-03-09 and ends 2022-03-09
 note bottom
 Entrega: Termo de Compromisso
 end note
 [Pré-projeto (BCC)] starts at [Termo]'s end
-[Pré-projeto (BCC)] ends 2021-09-28
+[Pré-projeto (BCC)] ends 2022-04-20
 [Pré-projeto (SIS)] starts at [Termo]'s end
-[Pré-projeto (SIS)] ends 2021-10-05
-[Aula04] starts 2021-08-24 and ends 2021-08-24
-[Aula05] starts 2021-08-31 and ends 2021-08-31
-[Aula06] starts 2021-09-07 and ends 2021-09-07
-[Aula07] starts 2021-09-14 and ends 2021-09-14
-[Aula08] starts 2021-09-21 and ends 2021-09-21
-[Aula09] starts 2021-09-28 and ends 2021-09-28
+[Pré-projeto (SIS)] ends 2022-04-27
+[Aula04] starts 2022-03-16 and ends 2022-03-16
+[Aula05] starts 2022-03-23 and ends 2022-03-23
+[Aula06] starts 2022-03-30 and ends 2022-03-30
+[Aula07] starts 2022-04-06 and ends 2022-04-06
+[Aula08] starts 2022-04-13 and ends 2022-04-13
+[Aula09] starts 2022-04-20 and ends 2022-04-20
 note bottom
 Entrega: Pré-projeto (BCC) 
 end note
-[Aula10] starts 2021-10-05 and ends 2021-10-05
+[Aula10] starts 2022-04-27 and ends 2022-04-27
 note bottom
 Entrega: Pré-projeto (SIS) 
 end note
 [Projeto] starts at [Pré-projeto (BCC)]'s end with green dashed link
-[Projeto] ends 2021-11-30
-[Aula11] starts 2021-10-12 and ends 2021-10-12
-[Aula12] starts 2021-10-19 and ends 2021-10-19
+[Projeto] ends 2022-06-08
+[Aula11] starts 2022-05-04 and ends 2022-05-04
+[Aula12] starts 2022-05-11 and ends 2022-05-11
 note bottom
 Bancas (BCC) 
 end note
-[Aula13] starts 2021-10-26 and ends 2021-10-26
-[Aula14] starts 2021-11-02 and ends 2021-11-02
-[Aula15] starts 2021-11-09 and ends 2021-11-09
-[Aula16] starts 2021-11-16 and ends 2021-11-16
-[Aula17] starts 2021-11-23 and ends 2021-11-23
-[Aula18] starts 2021-11-30 and ends 2021-11-30
+[Aula13] starts 2022-05-18 and ends 2022-05-18
+[Aula14] starts 2022-05-25 and ends 2022-05-25
+[Aula15] starts 2022-06-01 and ends 2022-06-01
+[Aula16] starts 2022-06-08 and ends 2022-06-08
 note bottom
 Entrega: Projeto 
 end note
 [Final] starts at [Projeto]'s end with blue dashed link
-[Final] ends 2021-12-07
-[Aula19] starts 2021-12-07 and ends 2021-12-07
-
--- Feriados --
-[Independência] starts 2021-09-07 and ends 2021-09-07
-[Aparecida] starts 2021-10-12 and ends 2021-10-12
-
+[Final] ends 2022-06-08
+note bottom
+Avaliações: Projetos
+end note
+[Aula17] starts 2022-06-15 and ends 2022-06-15
+[Aula18] starts 2022-06-22 and ends 2022-06-22
 
 @endgantt

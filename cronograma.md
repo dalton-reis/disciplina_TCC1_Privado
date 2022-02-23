@@ -10,15 +10,15 @@ Dia da semana: terças (18:30\~22:00)
 <!-- ☞ bbf1208b-fad1-418c-a756-d8618c7a1419 -->
 | Prazo      | Atividade                                       |  
 | ---------- | ----------------------------------------------- |  
-| 17/08      | Entrega do Termo de Compromisso                 |  
-| 28/09      | Entrega do pré-projeto (curso de BCC)           |  
-| 05/10      | Entrega do pré-projeto (curso de SIS)           |  
-| 18 a 22/10 | Semana de bancas de qualificação (curso de BCC) |  
-| 30/11      | Entrega do Projeto
+| 09/03      | Entrega do Termo de Compromisso                 |  
+| 20/04      | Entrega do pré-projeto (curso de BCC)           |  
+| 27/04      | Entrega do pré-projeto (curso de SIS)           |  
+| 02 a 04/05 | Semana de bancas de qualificação (curso de BCC) |  
+| 08/06      | Entrega do Projeto                              |  
 
 ## Cronograma Gantt
 
-![Cronograma Gantt](cronograma.drawio.svg "Cronograma Gantt")  
+![Cronograma Gantt](cronograma.svg "Cronograma Gantt")  
 
 ## Fluxograma
 
@@ -34,7 +34,7 @@ Dia da semana: terças (18:30\~22:00)
 <!-- TODO:INICIO atualizar -->
 ## Cronograma Completo
 
-### Aula01 03/08/21
+### [Aula_01] 23-02-2022 quarta-feira
 
 - Apresentação do Professor  
 - Apresentação da Disciplina  
@@ -46,7 +46,7 @@ Dia da semana: terças (18:30\~22:00)
 
 [anotacoesAula01](aula01Anotacoes.md "anotacoesAula01")  
 
-### Aula02 10/08/21
+### [Aula_02] 02-03-2022 quarta-feira
 
 <!-- [ ] Aviso: Termo atraso <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391> -->  
 - Como estabelecer um problema de pesquisa  
@@ -56,7 +56,7 @@ Dia da semana: terças (18:30\~22:00)
 
 [anotacoesAula02](aula02Anotacoes.md "anotacoesAula02")  
 
-### Aula03 17/08/21
+### [Aula_03] 09-03-2022 quarta-feira
 
 - **Entrega do Termo de Compromisso de TCC**  
 - Erros de redação  
@@ -66,43 +66,39 @@ Dia da semana: terças (18:30\~22:00)
 
 [anotacoesAula03](aula03Anotacoes.md "anotacoesAula03")  
 
-### Aula04 24/08/21
+### [Aula_04] 16-03-2022 quarta-feira
 
 <!-- [ ] Aviso: Orientadores <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750> -->
 <!-- [ ] Aviso: banca SIS <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445856> -->  
 <!-- [ ] Aviso: banca BCC <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813> -->
 - Pré-Projeto - Formulação  
 
-### Aula05 31/08/21
+### [Aula_05] 23-03-2022 quarta-feira
 
 - Pré-Projeto - Formulação  
 
-### Aula06 07/09/21
+### [Aula_06] 30-03-2022 quarta-feira
 
--> Feriado Independência  
+- Pré-Projeto - Formulação  
 
-### Aula07 14/09/21
-
-Obs.: 18:30~20:10 atividade ENADE (colegiado BCC)  
+### [Aula_07] 06-04-2022 quarta-feira
 
 <!-- [ ] aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514774> -->  
 - Pré-Projeto - Atendimento Individual  
-**[Atendimento SIS](Material/AtendimentoSIS.png "Atendimento SIS")**  
+<!-- **[Atendimento SIS](Material/AtendimentoSIS.png "Atendimento SIS")** -->
 
-### Aula08 21/09/21
+### [Aula_08] 13-04-2022 quarta-feira
 
 <!-- [ ] aviso Atendimento BCC: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67514804> -->  
 - Pré-Projeto - Atendimento Individual  
-**[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")**  
+<!-- **[Atendimento BCC](Material/AtendimentoBCC.png "Atendimento BCC")** -->  
 
-### Aula09 28/09/21
+### [Aula_09] 20-04-2022 quarta-feira
 
 - **Entrega do Pré-Projeto (BCC)**
 - Pré-Projeto - Atendimento Individual  
 
-### Aula10 05/10/21
-
-Obs.: 18:30~22:00 (colegiado BCC)  
+### [Aula_10] 27-04-2022 quarta-feira
 
 <!-- ???? aviso Atendimento SIS: <https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67516531> -->  
 - **Entrega do Pré-Projeto (SIS)**  
@@ -110,42 +106,43 @@ Obs.: 18:30~22:00 (colegiado BCC)
 
 [anotacoesAula04BCC](aula04AnotacoesBCC.md "anotacoesAula04BCC")  
 
-### Aula11 12/10/21
+### [Aula_11] 04-05-2022 quarta-feira
 
--> Feriado Nossa Senhora Aparecida  
+- Semana Acadêmica: BCC e SIS  
+- **Semana de bancas (BCC)**  
 
-### Aula12 19/10/21
-
-- Semana de bancas (BCC)  
-
-### Aula13 26/10/21
+### [Aula_12] 11-05-2022 quarta-feira
 
 - Orientações para o projeto  
+[anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
+
+### [Aula_13] 18-05-2022 quarta-feira
+
 - Como conduzir um estudo bibliográfico  
 [anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
 
-### Aula14 02/11/21
-
--> Feriado Finados  
-
-### Aula15 09/11/21
+### [Aula_14] 25-05-2022 quarta-feira
 
 - Análise do Pré-Projeto - Atendimento Individual  
 
-### Aula16 16/11/21
+### [Aula_15] 01-06-2022 quarta-feira
 
 - Análise do Pré-Projeto - Atendimento Individual  
 
-### Aula17 23/11/21
-
-- Análise do Pré-Projeto - Atendimento Individual  
-
-### Aula18 30/11/21
+### [Aula_16] 08-06-2022 quarta-feira
 
 - **Entrega do Projeto**  
+- Análise do Pré-Projeto - Atendimento Individual  
 
-### Aula19 07/12/21
+### [Aula_17] 15-06-2022 quarta-feira
 
+- Avaliação dos Projetos  
+
+### [Aula_18] 22-06-2022 quarta-feira
+
+- Avaliação dos Projetos  
 - Data final para devolução dos projetos pelos avaliadores  
 
-Último dia para entregar os diários de classe 2021/2: 04/12/21 - 15/12/21  
+-----------
+
+Último dia para entregar os diários de classe 2022/1: 28/06/22 - 05/07/22  
