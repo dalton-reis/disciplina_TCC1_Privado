@@ -1,3 +1,7 @@
+<!-- [ ]TODO:INICIO atualizar -->
+[AVA3]: <https://ava3.furb.br/course/view.php?id=29360> "AVA3"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29360&section=1>  "Plano de Ensino"
+
 # Aula01: Visão Geral da Disciplina
 
 - Apresentação do Professor  
@@ -15,11 +19,11 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos todos pelo Teams  
-- [ ] [Link AVA3 Trabalho de Conclusão de Curso I](<https://ava3.furb.br/course/view.php?id=27084> "Link AVA3 Trabalho de Conclusão de Curso I")  
+- [ ] [AVA3]  
 
 ### Plano de Ensino
 
-[ ] [Plano de Ensino](<https://ava3.furb.br/course/view.php?id=27084&section=1> "Plano de Ensino")  
+[ ] [PlanoEnsinoAVA]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
@@ -49,7 +53,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 ## Encaminhamentos para o Termo de Compromisso  
 
 - Observações no inicio do cronograma  
-- [ ] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC") (podem orientar)  
+- [ ] [lista professores do DSC](professoresDSC.md "lista professores do DSC")  
 
 [ ] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
 [ ] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  

@@ -1,7 +1,8 @@
 <!-- [ ]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=27084> "AVA3"  
-[Aulas MS-Teams]: <https://teams.microsoft.com/l/channel/19%3a44ad68843226487f955b1fa1320b0e99%40thread.tacv2/Geral?groupId=5a30fae7-7aa0-4366-ac60-04ea35be6dec&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams"  
-[Gravações das aulas]: <https://furb.sharepoint.com/teams/CMP0036010220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas"  
+[AVA3]: <https://ava3.furb.br/course/view.php?id=29360> "AVA3"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29360&section=1> "Plano de Ensino" 
+[Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3aBcQxwrvPAy1rzAtKocQJaPj9uZzv_LJ_TZaa_9mKNs41%40thread.tacv2/conversations?groupId=2c47bb81-88f6-48cf-89b5-2d26bf50bfa2&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams"  
+<!-- [Gravações das aulas]: <https://furb.sharepoint.com/teams/CMP0036010220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas" -->  
 
 # Disciplina de Trabalho de Conclusão de Curso I
 
@@ -14,8 +15,9 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 ## Links
 
 [AVA3]  
+[PlanoEnsinoAVA]  
 [Aulas MS-Teams]  
-[Gravações das aulas]  
+<!-- [Gravações das aulas] -->  
 
 ## [Cronograma](cronograma.md "Cronograma")  
 
