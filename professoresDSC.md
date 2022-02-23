@@ -15,7 +15,7 @@
 | Joyce Martins                    | joyce@furb.br    | Joyce     |  
 | Luciana Pereira de Araújo Kohler | lpa@furb.br      | Luciana   |  
 | Marcel Hugo                      | marcel@furb.br   | Marcel    |  
-| Marcos Rodrigo Momo              |                  | Momo      |  
+| Marcos Rodrigo Momo              | momo@furb.br     | Momo      |  
 | Marcos Rogério Cardoso           | mcardoso@furb.br | Cardoso   |  
 | Gabriel Vieira                   |                  | Gabriel   |  
 | Mauricio Capobianco Lopes        | mclopes@furb.br  | Mauricio  |  
