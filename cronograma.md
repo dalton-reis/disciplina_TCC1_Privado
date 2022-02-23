@@ -2,7 +2,7 @@
 
 <!-- TODO:INICIO atualizar -->
 Local: Remoto (MS-Teams)  
-Dia da semana: terças (18:30\~22:00)  
+Dia da semana: quartas (18:30\~22:00)  
 
 ## Cronograma Resumido
 
