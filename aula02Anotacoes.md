@@ -7,18 +7,18 @@
 
 ## Como estabelecer um problema de pesquisa
 
-[ ] [Slides_01AulaProjeto.pdf](Material/Slides_01AulaProjeto.pdf "Slides_01AulaProjeto.pdf")  
+[x] [Slides_01AulaProjeto.pdf](Material/Slides_01AulaProjeto.pdf "Slides_01AulaProjeto.pdf")  
 
 ## Modelos Projetos
 
-[ ] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
-[ ] [SIS_ProjetoAcademico.docx](Material/SIS_ProjetoAcademico.docx "SIS_ProjetoAcademico.docx")  
-[ ] [SIS_ProjetoAplicado.docx](Material/SIS_ProjetoAplicado.docx "SIS_ProjetoAplicado.docx")  
+[x] [BCC_Projeto.docx](Material/BCC_Projeto.docx "BCC_Projeto.docx")  
+[x] [SIS_ProjetoAcademico.docx](Material/SIS_ProjetoAcademico.docx "SIS_ProjetoAcademico.docx")  
+[x] [SIS_ProjetoAplicado.docx](Material/SIS_ProjetoAplicado.docx "SIS_ProjetoAplicado.docx")  
 
 Não usar, só para conhecimento ...  
-[ ] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
-[ ] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
-[ ] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
+[x] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
+[x] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
+[x] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
 
 ## Quando iniciar Pré-Projeto?
 
@@ -118,5 +118,5 @@ Não usar, só para conhecimento ...
 
 **Atenção** os pré-projetos abaixo devem ser usados somente como exemplos, pois os mesmos podem conter partes que não seguem o modelo definido e as normas da ABNT.
 
-[ ] [BCC_ExemploPreProjeto](Exemplos/BCC "BCC_ExemploPreProjeto")  
-[ ] [SIS_ExemploPreProjeto](Exemplos/SIS "SIS_ExemploPreProjeto")  
+[x] [BCC_ExemploPreProjeto](Exemplos/BCC "BCC_ExemploPreProjeto")  
+[x] [SIS_ExemploPreProjeto](Exemplos/SIS "SIS_ExemploPreProjeto")  
