@@ -95,8 +95,8 @@ Não usar, só para conhecimento ...
     - pré-projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas);  
     - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
 - Buscar material para "poder" escrever:
-  - [ ] [Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
-  - [ ] [TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
+  - [x][Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
+  - [x][TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
 
 ### Referências
 

@@ -19,11 +19,11 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos todos pelo Teams  
-- [ ] [AVA3]  
+- [x][AVA3]  
 
 ### Plano de Ensino
 
-[ ] [PlanoEnsinoAVA]  
+[x][PlanoEnsinoAVA]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
@@ -44,7 +44,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ## Cronograma
 
-[ ] [Cronograma](cronograma.md "Cronograma")  
+[x][Cronograma](cronograma.md "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -53,10 +53,10 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 ## Encaminhamentos para o Termo de Compromisso  
 
 - Observações no inicio do cronograma  
-- [ ] [lista professores do DSC](professoresDSC.md "lista professores do DSC")  
+- [x][lista professores do DSC](professoresDSC.md "lista professores do DSC")  
 
-[ ] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
-[ ] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
+[x][BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[x][SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ## Diagnóstico sobre orientações
 
