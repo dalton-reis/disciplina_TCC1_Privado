@@ -9,7 +9,7 @@ Título: Adequando Uma Aplicação a LGPD
 
 Percentual estimado: 30%  
 
-Comentários:  Já fez a Introdução, e achou os trabalhos e começou a descrever o primeiro.
+Comentários: Teve e preocupação porque a empresa atual onde trabalha foi vendida, e é a empresa que pretende aplicar o TCC2. Mas já teve um ok que pode continuar com a ideia de usar a empresa na validação. Já fez a Introdução, e achou os trabalhos e começou a descrever o primeiro.
 Passei algumas dicas gerais. Disse que vai terminar uma parte esta semana e enviar para o Valdameri revisar enquanto trabalhar nas referências bibliográficas.  
 
 Obs.: continuar desenvolvendo, não diminuir o ritmo.  
