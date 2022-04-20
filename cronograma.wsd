@@ -1,4 +1,4 @@
-@startgantt
+@startgantt cronograma
 
 ganttscale weekly
 
@@ -6,8 +6,10 @@ Project starts 2022-02-23
 
 -- cronograma -- 
 [completado] is colored in green
-[completado] starts 2022-02-23 and ends 2022-03-29
-[falta] starts 2022-03-29 and ends 2022-06-22
+/'atualizar'/
+[completado] starts 2022-02-23 and ends 2022-04-20
+[falta] starts 2022-04-20 and ends 2022-06-22
+/'atualizar'/
 [falta] is colored in blue
 
 -- Aulas -- 
