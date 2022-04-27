@@ -18,7 +18,7 @@ Dia da semana: quartas (18:30\~22:00)
 
 ## Cronograma Gantt
 
-![Cronograma Gantt](cronograma.svg "Cronograma Gantt")  
+![Cronograma Gantt](./svg/cronograma.svg "Cronograma Gantt")  
 
 ## Fluxograma
 
