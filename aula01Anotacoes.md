@@ -19,7 +19,7 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos todos pelo Teams  
-- [x][AVA3]  
+- [x] [AVA3]  
 
 ### Plano de Ensino
 
