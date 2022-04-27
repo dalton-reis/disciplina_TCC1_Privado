@@ -54,7 +54,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 - Observações no inicio do cronograma  
 <!-- - [x] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-- [x] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
+### [x] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
 
 [x] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
 [x] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
