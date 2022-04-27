@@ -7,8 +7,9 @@ Project starts 2022-02-23
 -- cronograma -- 
 [completado] is colored in green
 /'atualizar'/
-[completado] starts 2022-02-23 and ends 2022-04-20
-[falta] starts 2022-04-20 and ends 2022-06-22
+[completado] starts 2022-02-23 and ends %date[yyyy-MM-dd]%
+@
+[falta] starts %date[yyyy-MM-dd]% and ends 2022-06-22
 /'atualizar'/
 [falta] is colored in blue
 
