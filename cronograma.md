@@ -108,7 +108,7 @@ Dia da semana: quartas (18:30\~22:00)
 
 ### [Aula_11] 04-05-2022 quarta-feira
 
-- Semana Acadêmica: BCC e SIS  
+- [Semana Acadêmica: BCC e SIS](<https://github.com/dalton-reis/disciplinaIpMat/tree/main/SemanaAcademica> "Semana Acadêmica: BCC e SIS")  
 - **Semana de bancas (BCC)**  
 
 ### [Aula_12] 11-05-2022 quarta-feira
