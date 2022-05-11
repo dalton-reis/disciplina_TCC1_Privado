@@ -113,17 +113,19 @@ Dia da semana: quartas (18:30\~22:00)
 
 ### [Aula_12] 11-05-2022 quarta-feira
 
-- Orientações para o projeto  
-[anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
+- Revisão dos Pré-Projeto pelos professores de TCC1 e avaliadores.  
+- BCC: enviar possíveis dúvidas sobre a preparação das apresentações.  
+- SIS: dispensados.  
 
 ### [Aula_13] 18-05-2022 quarta-feira
 
-- Como conduzir um estudo bibliográfico  
+- Orientações para o projeto  
 [anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
 
 ### [Aula_14] 25-05-2022 quarta-feira
 
-- Análise do Pré-Projeto - Atendimento Individual  
+- Como conduzir um estudo bibliográfico  
+[anotacoesAula05](aula05Anotacoes.md "anotacoesAula05")  
 
 ### [Aula_15] 01-06-2022 quarta-feira
 
