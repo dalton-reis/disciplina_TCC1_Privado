@@ -1,29 +1,30 @@
-@startgantt cronograma
+@startgantt cronograma_SIS
 
 /'TODO: tentar usar variáveis do sistema: <https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/>  '/
 /'atualizar'/
-!$dataInicio = "2022-02-23"
-!$dataFim  = "2022-06-22"
+!$dataInicio = "2022-08-02"
+!$dataFim  = "2022-12-03"
 !$Aula01 = $dataInicio
-!$Aula02 = "2022-03-02"
-!$Aula03 = "2022-03-09"
-!$Aula04 = "2022-03-16"
-!$Aula05 = "2022-03-23"
-!$Aula06 = "2022-03-30"
-!$Aula07 = "2022-04-06"
-!$Aula08 = "2022-04-13"
-!$Aula09 = "2022-04-20"
-!$Aula10 = "2022-04-27"
-!$Aula11 = "2022-05-04"
-!$Aula12 = "2022-05-11"
-!$Aula13 = "2022-05-18"
-!$Aula14 = "2022-05-25"
-!$Aula15 = "2022-06-01"
-!$Aula16 = "2022-06-08"
-!$Aula17 = "2022-06-15"
+!$Aula02 = "2022-08-09"
+!$Aula03 = "2022-08-16"
+!$Aula04 = "2022-08-23"
+!$Aula05 = "2022-08-30"
+!$Aula06 = "2022-09-06"
+!$Aula07 = "2022-09-13"
+!$Aula08 = "2022-09-20"
+!$Aula09 = "2022-09-27"
+!$Aula10 = "2022-10-04"
+!$Aula11 = "2022-10-11"
+!$Aula12 = "2022-10-18"
+!$Aula13 = "2022-10-25"
+!$Aula14 = "2022-11-01"
+!$Aula15 = "2022-11-08"
+!$Aula16 = "2022-11-15"
+!$Aula17 = "2022-11-22"
+!$Aula18 = "2022-11-29"
 !$Aula18 = $dataFim
 
-!$dataAtual  = $Aula12
+!$dataAtual  = $Aula01
 /'atualizar'/
 
 ganttscale weekly
@@ -45,8 +46,6 @@ Project starts $dataInicio
 note bottom
 Entrega: Termo de Compromisso
 end note
-[Pré-projeto (BCC)] starts at [Termo]'s end
-[Pré-projeto (BCC)] ends $Aula09
 [Pré-projeto (SIS)] starts at [Termo]'s end
 [Pré-projeto (SIS)] ends $Aula10
 [Aula04] starts $Aula04 and ends $Aula04
@@ -55,33 +54,35 @@ end note
 [Aula07] starts $Aula07 and ends $Aula07
 [Aula08] starts $Aula08 and ends $Aula08
 [Aula09] starts $Aula09 and ends $Aula09
-note bottom
-Entrega: Pré-projeto (BCC) 
-end note
 [Aula10] starts $Aula10 and ends $Aula10
 note bottom
 Entrega: Pré-projeto (SIS) 
 end note
-[Projeto] starts at [Pré-projeto (BCC)]'s end with green dashed link
-[Projeto] ends $Aula16
 [Aula11] starts $Aula11 and ends $Aula11
+[Avaliacao] starts at [Pré-projeto (SIS)]'s end with green dashed link
+[Avaliacao] ends $Aula13
 note bottom
-Bancas (BCC) 
+Avaliação (SIS) 
 end note
 [Aula12] starts $Aula12 and ends $Aula12
+note bottom
+Avaliação (SIS) 
+end note
 [Aula13] starts $Aula13 and ends $Aula13
+[Projeto] starts at [Avaliacao]'s end with cyan dashed link
+[Projeto] ends $Aula17
 [Aula14] starts $Aula14 and ends $Aula14
 [Aula15] starts $Aula15 and ends $Aula15
 [Aula16] starts $Aula16 and ends $Aula16
+[Aula17] starts $Aula17 and ends $Aula17
 note bottom
 Entrega: Projeto 
 end note
 [Final] starts at [Projeto]'s end with blue dashed link
-[Final] ends $Aula16
+[Final] ends $Aula18
 note bottom
 Avaliações: Projetos
 end note
-[Aula17] starts $Aula17 and ends $Aula17
 [Aula18] starts $Aula18 and ends $Aula18
 
 @endgantt
