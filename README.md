@@ -1,8 +1,12 @@
 <!-- [ ]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=29360> "AVA3"  
-[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29360&section=1> "Plano de Ensino" 
-[Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3aBcQxwrvPAy1rzAtKocQJaPj9uZzv_LJ_TZaa_9mKNs41%40thread.tacv2/conversations?groupId=2c47bb81-88f6-48cf-89b5-2d26bf50bfa2&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams"  
-<!-- [Gravações das aulas]: <https://furb.sharepoint.com/teams/CMP0036010220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas" -->  
+[AVA3 BCC]: <https://ava3.furb.br/course/view.php?id=31568> "AVA3 BCC"  
+[Plano Ensino AVA BCC]: <https://ava3.furb.br/course/view.php?id=31568&section=1> "Plano Ensino AVA BCC"  
+[Aulas MS-Teams BCC]: <https://teams.microsoft.com/l/meetup-join/19%3adLzBm18ut0iOYmMjUd4FqE2XfKKsKe3vsJ45CLLCmyg1%40thread.tacv2/1659394207918?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d> "Aulas MS-Teams BCC"  
+<!-- [Gravações das aulas BCC]: <https://furb.sharepoint.com/teams/CMP0036010220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas" -->  
+[AVA3 SIS]: <https://ava3.furb.br/course/view.php?id=31567> "AVA3 BCC"  
+[Plano Ensino AVA SIS]: <https://ava3.furb.br/course/view.php?id=31567&section=1> "Plano Ensino AVA BCC"  
+[Aulas MS-Teams SIS]: <https://teams.microsoft.com/l/meetup-join/19%3aBMcVnF0a3-lzbKQcOOkNXcrNirJ5jvZLYYHheqkHEcI1%40thread.tacv2/1659394076473?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d> "Aulas MS-Teams BCC"  
+<!-- [Gravações das aulas SIS]: <https://furb.sharepoint.com/teams/CMP0036010220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas" -->  
 
 # Disciplina de Trabalho de Conclusão de Curso I
 
@@ -14,10 +18,19 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ## Links
 
-[AVA3]  
-[PlanoEnsinoAVA]  
-[Aulas MS-Teams]  
-<!-- [Gravações das aulas] -->  
+### Links BCC
+
+[AVA3 BCC]  
+[Plano Ensino AVA BCC]  
+[Aulas MS-Teams BCC]  
+<!-- [Gravações das aulas BCC] -->  
+
+### Links SIS
+
+[AVA3 SIS]  
+[Plano Ensino AVA SIS]  
+[Aulas MS-Teams SIS]  
+<!-- [Gravações das aulas SIS] -->  
 
 ## [Cronograma](cronograma.md "Cronograma")  
 
