@@ -1,6 +1,8 @@
 <!-- [ ]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=29360> "AVA3"  
-[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29360&section=1>  "Plano de Ensino"
+[AVA3 BCC]: <https://ava3.furb.br/course/view.php?id=31568> "AVA3 BCC"  
+[Plano Ensino AVA BCC]: <https://ava3.furb.br/course/view.php?id=31568&section=1> "Plano Ensino AVA BCC"  
+[AVA3 SIS]: <https://ava3.furb.br/course/view.php?id=31567> "AVA3 BCC"  
+[Plano Ensino AVA SIS]: <https://ava3.furb.br/course/view.php?id=31567&section=1> "Plano Ensino AVA BCC"  
 
 # Aula01: Visão Geral da Disciplina
 
@@ -19,11 +21,13 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos todos pelo Teams  
-- [x] [AVA3]  
+- [ ] [AVA3 BCC]  
+- [ ] [AVA3 SIS]  
 
 ### Plano de Ensino
 
-[x] [PlanoEnsinoAVA]  
+[ ] [Plano Ensino AVA BCC]  
+[ ] [Plano Ensino AVA SIS]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
@@ -44,7 +48,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ## Cronograma
 
-[x] [Cronograma](cronograma.md "Cronograma")  
+[ ] [Cronograma](cronograma.md "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -54,10 +58,10 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 - Observações no inicio do cronograma  
 <!-- - [x] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### [x] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
+### [ ] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
 
-[x] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
-[x] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
+[ ] [BCC_TermoCompromisso.docx](Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[ ] [SIS_TermoCompromisso.docx](Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ## Diagnóstico sobre orientações
 
