@@ -57,6 +57,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 ## Encaminhamentos para o Termo de Compromisso  
 
 - Observações no inicio do cronograma  
+<!-- [ ] FIXME: atualizar a página -->  
 <!-- - [x] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
 ### [ ] [lista professores do DSC](<http://dsc.inf.furb.br/professores> "lista professores do DSC")  
 
