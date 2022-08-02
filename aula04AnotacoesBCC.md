@@ -5,7 +5,7 @@
 ## Fluxograma
 
 Olá alunos do curso de BCC (somente BCC), após entregarem o pré-projeto vem a defesa da banca de qualificação, conforme pode ser observado no fluxograma.  
-[ ] [cronogramaBCCbanca.drawio.svg](cronogramaBCCbanca.drawio.svg "cronogramaBCCbanca.drawio.svg")  
+[ ][ ] [cronogramaBCCbanca.drawio.svg](cronogramaBCCbanca.drawio.svg "cronogramaBCCbanca.drawio.svg")  
 
 E, em conformidade com o disposto Art. 22 da Resolução N° 020/2016 do regulamento de TCC do curso de BCC, no Parágrafo único:
     A não entrega do pré-projeto, a não apresentação do pré-projeto perante uma banca de qualificação ou a não aprovação do projeto implica em reprovação do acadêmico na disciplina de TCC I.  
@@ -43,4 +43,4 @@ Bom, em caso de dúvidas me enviem pelo chat do MS-Teams.
 
 ## Exemplos
 
-[ ] [BCC_ExemploSlidesPreProjeto](Exemplos/BCC/Slides "BCC_ExemploSlidesPreProjeto")  
+[ ][ ] [BCC_ExemploSlidesPreProjeto](Exemplos/BCC/Slides "BCC_ExemploSlidesPreProjeto")  
