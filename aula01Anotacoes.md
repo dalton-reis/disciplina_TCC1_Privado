@@ -21,7 +21,7 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos todos pelo Teams  
-- [ ] [AVA3 BCC]  
+- [ ][ ] [AVA3 BCC]  
 - [ ] [AVA3 SIS]  
 
 ### Plano de Ensino
