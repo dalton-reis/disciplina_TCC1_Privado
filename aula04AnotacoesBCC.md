@@ -2,6 +2,8 @@
 
 **ATENÇÃO** a Defesa de Qualificação é SOMENTE para a turma do BCC.
 
+- Preparação das apresentações (BCC)  
+
 ## Fluxograma
 
 Olá alunos do curso de BCC (somente BCC), após entregarem o pré-projeto vem a defesa da banca de qualificação, conforme pode ser observado no fluxograma.  

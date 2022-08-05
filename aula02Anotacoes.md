@@ -4,6 +4,7 @@
 - Modelos dos Projetos  
 - Partes constituintes do Projeto  
 - Exemplos de Projetos  
+- Diagnóstico sobre orientações  
 
 ## Como estabelecer um problema de pesquisa
 

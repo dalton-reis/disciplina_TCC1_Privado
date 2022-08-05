@@ -1,5 +1,8 @@
 # Aula05: Projeto
 
+- Orientações para o projeto  
+- Como conduzir um estudo bibliográfico  
+
 ## Modelos Projetos
 
 Não usar, só para conhecimento ...  

@@ -1,6 +1,5 @@
 # Aula03: Projeto - Partes constituintes  
 
-- **Entrega do Termo de Compromisso de TCC**  
 - Erros de redação  
 - Normas ABNT: citações e referências  
 - Dicas do uso do Editor MS-Word  
