@@ -8,7 +8,10 @@ Título:
 ## Atendimento Termo  
 
 [Termo](Termo.pdf "Termo")  
-Comentários: Orientador Dalton - vai produzir sobre Autismo  
+
+### 2022-08-09
+
+Orientador Dalton - vai produzir sobre Autismo  
 
 ## Atendimento Pré-Projeto  
 

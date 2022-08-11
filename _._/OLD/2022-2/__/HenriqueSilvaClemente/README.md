@@ -7,8 +7,14 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-09
+
+Orientador: Simone  
+Assunto: Sistema de Gestão de Administração de Bandas e Eventos  
+Perfil: Músico  
+Ambiente: orientando se preocupar  
 
 ## Atendimento Pré-Projeto  
 

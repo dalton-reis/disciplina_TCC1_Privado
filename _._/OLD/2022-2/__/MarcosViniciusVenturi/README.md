@@ -7,8 +7,14 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-09
+
+Orientador: Simone  
+Tema: Central Ailos, automação de processos, RPA, Sistema Aplicado  
+Reunião: quinta  
+Lattes: com problema  
 
 ## Atendimento Pré-Projeto  
 

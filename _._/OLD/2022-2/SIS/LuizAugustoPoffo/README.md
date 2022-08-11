@@ -7,8 +7,14 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-09
+
+Orientador: Simone  
+Título: Sobre Horta - Aplicativo  
+Ambiente: Ionic  
+Reunião: na quinta  
 
 ## Atendimento Pré-Projeto  
 

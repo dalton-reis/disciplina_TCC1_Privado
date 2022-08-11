@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-09
+
+Orientador: Dalton / Mauricio /Luciana  
+Assunto: Grupo de Jovens - Religião - Jogo Infanto Juvenil - Luterano  
+Unity poderia ir para RVi ou RA  
 
 ## Atendimento Pré-Projeto  
 

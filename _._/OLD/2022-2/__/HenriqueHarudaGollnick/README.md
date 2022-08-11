@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-09
+
+Orientador: Aurélio  
+Usar: LiDAR, para fazer sensoriamento de terrenos para detectar deslizamento e fissuras  
+Recursos: já tem um professor que tem o Drone e LiDAR  
 
 ## Atendimento Pré-Projeto  
 

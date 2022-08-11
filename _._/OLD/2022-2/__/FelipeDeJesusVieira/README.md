@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-09
+
+Orientador: Cardoso.  
+Título: Fomentar e Fortalecer a Prática Desportiva.  
+Programação Web na disciplina.  
 
 ## Atendimento Pré-Projeto  
 

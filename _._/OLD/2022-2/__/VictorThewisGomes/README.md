@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-09
+
+Orientador: Valdameri  
+Assunto: Aplicado / Área de BD  
+Empresa: Braim Sistemas  
 
 ## Atendimento Pré-Projeto  
 
