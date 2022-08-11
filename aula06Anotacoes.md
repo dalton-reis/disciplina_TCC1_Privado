@@ -1,4 +1,4 @@
-# Aula05: Projeto
+# Aula06: Projeto
 
 - Orientações para o projeto  
 - Como conduzir um estudo bibliográfico  

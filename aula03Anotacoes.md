@@ -1,48 +1,104 @@
-# Aula03: Projeto - Partes constituintes  
+# Aula03: Projeto - Visão Geral
 
-- Erros de redação  
-- Normas ABNT: citações e referências  
-- Dicas do uso do Editor MS-Word  
-- Pré-Projeto - Formulação  
+- Partes constituintes do Projeto  
+- Exemplos de Projetos  
 
-## Erros de redação
+## Partes constituintes do Projeto
 
-[ ][ ] [Exemplo_RedacaoAntes.pdf](Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
-[ ][ ] [Exemplo_RedacaoDepois.pdf](Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
+[ ][ ] [Slides_02AulaProjeto.pdf](Material/Slides_02AulaProjeto.pdf "Slides_02AulaProjeto.pdf")  
 
-## Termos Estrangeiros
+- preencher os dados do cabeçalho;  
+- número de páginas.  
 
-As palavras que não pertencem ao conjunto de palavras do idioma Português (Brasileiro) são consideradas como termo estrangeiro. E os termos estrangeiros devem ser formatadas com itálico. Na dúvida se uma palavra pertence ou não ao nosso idioma consulte [https://michaelis.uol.com.br](https://michaelis.uol.com.br "https://michaelis.uol.com.br").  
+### Introdução
 
-<!-- FIXME: material sobre lista de palavras que não são em itálico -->
-Existe algumas exceções que são:
-
-## Normas ABNT: citações e referências
-
-- comentar sobre as citações e citações direta  
-- os dois tipos de citações  
-- uso de numeração de página nas citações  
+- 1 página - máximo 1 página e meia  
+- Começar e apontar para o problema  
+- **Não se deve apresentar soluções!**  
 - Apresentar alguns conceitos e definições  
-- Trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
-- sites para formatar [More-UFSC](<https://more.ufsc.br/inicio> "More-UFSC"), [Mendeley](<https://www.mendeley.com> "Mendeley"), [ResearchGate](<https://www.researchgate.net> "ResearchGate"), [Zotero](<https://www.zotero.org> "Zotero") etc.  
+- Trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal (referência "forte")  
 
-[ ][ ] [Geral_ComoFazer_Citacoes.pdf](Material/Geral_ComoFazer_Citacoes.pdf "Geral_ComoFazer_Citacoes.pdf")  
-[ ][ ] [Geral_ComoFazer_ReferenciasBibliograficas.pdf](Material/Geral_ComoFazer_ReferenciasBibliograficas.pdf "Geral_ComoFazer_ReferenciasBibliograficas.pdf")  
+### Objetivo
 
-## Dicas do uso do Editor MS-Word
+- Ver as palavras-chave do trabalho (titulo e objetivos devem estar alinhados)  
+- Se é desenvolvimento de sistema / aplicativo = colocar "disponibilizar"  
+- Desenvolver (construir) é processo -> objetivo é resultado (disponibilizar)  
+- Usar só 1 verbo  
+- Segurança: coloque um verbo na frente do seu titulo  
 
-- [ ][ ] Formatação: estilos, inserir legenda e referência cruzada  
+#### Objetivos Específicos
 
-## Pré-Projeto - Formulação  
+- Objetivo NÃO é requisito funcional; as funções que estão no software são meios para definir o que ele vai fazer, mas, para quê vai fazer isso? Isso é o objetivo.  
+- Pode ser relacionado aos requisitos (1, 2, mas não todos)
+- Tem que pensar aonde que vocês querem chegar com o software e não nas funções que ele vai ter. As funções são requisitos.
 
-- aproveitem o tempo para produzir o pré-projeto  
-- me enviem dúvidas pelo chat do MS-Teams  
+### Trabalhos Correlatos
 
-<!-- 
-- falar sobre a ficha de avaliação  
-- SIS falar da diferença do TCC Acadêmico para o Aplicado  
-  - descrever o problema da tua empresa (descrever como acontece agora)  
-  - na justificativa deve dizer o que está pensando em melhorar  
-  - se for pensar no problema por sua conta é acadêmico, mas se você for fazer uma entrevista com o usuário, ver os requisitos é aplicado  
-- mas vamos conversar melhor na semana que vem  
--->
+- SIS - descrição do sistema atual  
+
+### Proposta
+
+- sempre no inicio de uma nova seção ter um texto de preâmbulo.  
+
+#### Justificativa
+
+- Escrever porque o ter trabalho é importante?  
+  - Qual o diferencial? Porque é importante do ponto de vista computacional.  
+- Aqui pode colocar as contribuições.  
+- Quadro comparativo.  
+
+#### Requisitos
+
+- Alguns objetivos específicos "devem" ser requisitos e não objetivos.  
+- Recomendações de Engenharia e Analise de Software.  
+
+#### Metodologia
+
+- Métodos  
+  - Tem os itens mínimos, mas pode incrementar.  
+- Cronograma  
+  - fev - jun (só primeira quinzena)  
+  - ago - dez (só primeira quinzena)  
+  - maio não é abreviado  
+
+### Revisão Bibliográfica
+
+- Coerente com o contexto do projeto.  
+- Cuidado com o limite de páginas do projeto.  
+  - BCC:  
+    - pré-projeto: mínimo 6 (seis) e no máximo 10 (dez) páginas (incluindo referências e assinaturas);  
+    - projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas).  
+  - SIS:
+    - pré-projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas);  
+    - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
+- Buscar material para "poder" escrever:
+  - [ ][ ] [Portais de Busca FURB](<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca> "Portais de Busca FURB")  
+  - [ ][ ] [TCCs do DSC](<http://dsc.inf.furb.br/tcc/index.php?cd=3> "TCCs do DSC")  
+
+### Referências
+
+- Ordem alfabética.  
+- Só podem aparecer as referências que foram citadas no texto.  
+- Não pode existir citações no texto que não tenha a referência aqui.  
+- Seguir as Normas da ABNT.  
+
+### Assinaturas
+
+- Quadro de observações só usar na segunda versão. Como usar?  
+
+### Fichas de Avaliação
+
+- Professor de TCC1  
+- Professor Avaliador  
+
+Não usar, só para conhecimento ...  
+[ ][ ] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
+[ ][ ] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
+[ ][ ] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
+
+## Exemplos de Pré-Projetos
+
+**Atenção** os pré-projetos abaixo devem ser usados somente como exemplos, pois os mesmos podem conter partes que não seguem o modelo definido e as normas da ABNT.
+
+[ ][ ] [BCC_ExemploPreProjeto](Exemplos/BCC "BCC_ExemploPreProjeto")  
+[ ][ ] [SIS_ExemploPreProjeto](Exemplos/SIS "SIS_ExemploPreProjeto")  
