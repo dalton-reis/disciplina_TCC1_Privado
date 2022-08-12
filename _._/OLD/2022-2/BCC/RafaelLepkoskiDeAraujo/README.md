@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
+
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Dispensei do atendimento individual porque vai continuar com o tema de TCC1 do semestre anterior.  
+Orientador: Dalton.  
 
 ## Atendimento Pré-Projeto  
 
