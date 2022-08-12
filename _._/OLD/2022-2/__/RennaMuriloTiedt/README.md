@@ -7,8 +7,12 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Gilvan  
+Assunto: Sistema de calculo de calagem e correção de solo para bananicultura  
 
 ## Atendimento Pré-Projeto  
 

@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Dalton  
+Título: Wave Function Collapse na Geração de Um Mapa para Um Jogo Isométrico.  
+Colocar junto RayCasting para aumentar a relevância.  
 
 ## Atendimento Pré-Projeto  
 

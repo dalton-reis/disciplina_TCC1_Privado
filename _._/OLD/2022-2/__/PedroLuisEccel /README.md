@@ -11,9 +11,7 @@ Título:
 
 ### 2022-08-11
 
-Orientador: Andreza  
-Assunto: reunião na sexta  
-Aprendizado de Máquina - Avaliação de Currículo - pessoal RH  
+Não chamei pois não estava na lista de alunos inscritos.  
 
 ## Atendimento Pré-Projeto  
 

@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: ???  
+Assunto: muito interesse em Compiladores  
+Vai falar com ela: Joyce  
 
 ## Atendimento Pré-Projeto  
 

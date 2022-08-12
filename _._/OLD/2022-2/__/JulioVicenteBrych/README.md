@@ -7,8 +7,12 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Dalton  
+Assunto: Experimentação do uso de Realidade Aumentada e LeapMotion para Inspecionar Modelos 3D  
 
 ## Atendimento Pré-Projeto  
 

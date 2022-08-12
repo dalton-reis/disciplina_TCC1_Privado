@@ -7,8 +7,12 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Aurélio  
+Assunto: Classificador de fotos de sugestão de escolha de fotos para comprar.  
 
 ## Atendimento Pré-Projeto  
 

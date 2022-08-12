@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Valdameri  
+Assunto: Ferramenta de Adequação da LGPD.  
+Está refinando assunto com o Valdameri, está muito genérico.  
 
 ## Atendimento Pré-Projeto  
 

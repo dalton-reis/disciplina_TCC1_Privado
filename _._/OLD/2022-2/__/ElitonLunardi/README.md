@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Aurélio  
+Assunto: Vai conversar no sábado para fechar o assunto.  
+Título: orquestração de contêineres para Escala automática de serviços em um ambiente distribuído complexo  
 
 ## Atendimento Pré-Projeto  
 

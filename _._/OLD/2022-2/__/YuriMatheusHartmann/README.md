@@ -7,8 +7,12 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Marcel  
+Assunto: uso de blockchain e contratos inteligentes na gestão do ciclo de vida de um carro.  
 
 ## Atendimento Pré-Projeto  
 

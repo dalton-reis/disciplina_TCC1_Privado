@@ -7,8 +7,13 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Mauricio  
+Assunto: desplugada e menos implementação  
+Vai conversar com ele amanhã  
 
 ## Atendimento Pré-Projeto  
 

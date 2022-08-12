@@ -7,8 +7,14 @@ Título:
 
 ## Atendimento Termo  
 
-Comentários:  
 [Termo](Termo.pdf "Termo")  
+
+### 2022-08-11
+
+Orientador: Miguel  
+Assunto: Auxilio para Pessoa que está Montando um Computador  
+A Placa Mãe  
+Tutorial - Realidade Aumentada  
 
 ## Atendimento Pré-Projeto  
 
