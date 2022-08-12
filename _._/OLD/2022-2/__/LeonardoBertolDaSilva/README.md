@@ -19,6 +19,10 @@ O problema é: Na minha empresa, como é um setor 24x7 sempre tem pessoas trabal
 A minha idea é fazer um sistema que automatize essa burocracia. Falei com a minha liderança na empresa e eles estão empolgados com o futuro projeto e se colocaram à disposição para participar e me auxiliar no trabalho.  
 Pretendo usar PHP com laravel.  
 
+### 2022-08-12
+
+Enviou e-mail para profa. Simone.  
+
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
