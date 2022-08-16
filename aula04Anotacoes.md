@@ -1,6 +1,6 @@
-# Aula03: Projeto - Visão Geral
+# Aula04: Projeto - Visão Geral, continuação
 
-- Partes constituintes do Projeto (continuação)  
+- Partes constituintes do Projeto  
 
 ## Partes constituintes do Projeto
 

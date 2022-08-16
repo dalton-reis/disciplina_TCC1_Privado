@@ -1,4 +1,4 @@
-# Aula06: Defesa Qualificação
+# Aula10: Defesa Qualificação
 
 **ATENÇÃO** a Defesa de Qualificação é SOMENTE para a turma do BCC.
 
