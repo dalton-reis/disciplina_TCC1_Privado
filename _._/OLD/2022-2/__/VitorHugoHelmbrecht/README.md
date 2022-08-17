@@ -20,6 +20,25 @@ Orientador: Dalton
 Meu orientando ... deixou o deia da Gaiola da Eletrica.  
 Gostou da Anamorfose (TCC Rodvigo) e Navarrow: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_2_matheus-navarro-nienow_monografia.pdf>  
 
+### 2022-08-17
+
+[12:22] Vitor Hugo Helmbrecht  
+Eu dei uma pesquisada melhor sobre temas específicos pra poder desenvolver no TCC  
+E achei esse jogo aqui  
+https://store.steampowered.com/app/944340/Vignettes/  
+Vignettes on Steam  
+Vignettes is a unique exploration game without text or characters, where objects shapeshift as you spin them around to wander through a kaleidoscope of different moods and settings.  
+O que você acha de usar ese estilo de jogo pra fazer um jogo que ensine sobre algum assunto específico, como aquecimento global ou algo do tipo?  
+Aí vai fazendo uma evolução de por exemplo o que jogar uma latinha no chão da rua pode causar  
+Achei essa uma ideia muito massa, mas queria saber sua opinião se isso é muito simples (apesar de podermos aumentar a complexidade com certa facilidade) ou se você não acha o tema legal  
+
+[15:48] Dalton Solano dos Reis  
+Interessante a ideia.  
+Pensa em usar Realidade Aumentada ... se sim, já se tem um maior graus de complexidade.  
+Bom, acho que podes seguir com está ideia ... preenche o Termo de Compromisso de TCC1 e me envia.  
+
+Ver: <https://faru.wordpress.com/2019/03/13/vignette-indie-puzzle-analise-review/>  
+
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
