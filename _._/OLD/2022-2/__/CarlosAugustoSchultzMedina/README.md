@@ -19,6 +19,11 @@ Boa tarde professor, tudo bem? ate o momento nao consegui um professor para me o
 Na terça enviou mensagem para o Gilvan. Ainda não respondeu.  
 Assunto: automação --> Dr. do Momo é nesta área.  
 
+### 2022-08-16
+
+E-Mail  
+Boa tarde professor, tudo bem? Até o momento tanto o professor Momo como o Gilvan ainda não me responderam, estou ainda sem um professor orientador, e gostaria muito que um dos dois me respondessem, pois já falei com 3 outros professores, como Simone, Gabriel e Valdameri e todos não puderam participar como orientador para meu projeto focado em roa, assim fiquei sem opção de professores que possam agregar ao meu TCC.  
+
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
