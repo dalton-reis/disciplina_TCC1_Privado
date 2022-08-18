@@ -12,3 +12,12 @@ Não usar, só para conhecimento ...
 
 Usar (anexar no final do projeto) somente se tiver alguma observação a ser feita por correções não atendidas.  
 [ ][ ] [Geral_OrientadorObservacoes.docx](Geral_OrientadorObservacoes.docx "Geral_OrientadorObservacoes.docx")  
+
+----------
+
+### ⏭ [Voltar](README.md "Voltar")  
+
+<!--
+[FIXME: arrumar as fontes bibliográficas]  
+## Principais Referências Bibliográficas​
+-->

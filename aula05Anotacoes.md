@@ -46,3 +46,12 @@ Existe algumas exceções que são:
   - se for pensar no problema por sua conta é acadêmico, mas se você for fazer uma entrevista com o usuário, ver os requisitos é aplicado  
 - mas vamos conversar melhor na semana que vem  
 -->
+
+----------
+
+### ⏭ [Aula 10](aula10Anotacoes.md "Aula 10")  
+
+<!--
+[FIXME: arrumar as fontes bibliográficas]  
+## Principais Referências Bibliográficas​
+-->

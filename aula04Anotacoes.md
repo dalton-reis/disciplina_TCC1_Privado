@@ -65,3 +65,12 @@ Não usar, só para conhecimento ...
 [ ][ ] [BCC_PreProjeto_FichaTCC1.docx](Material/BCC_PreProjeto_FichaTCC1.docx "BCC_PreProjeto_FichaTCC1.docx")  
 [ ][ ] [SIS_PreProjetoAcademico_FichaTCC1.docx](Material/SIS_PreProjetoAcademico_FichaTCC1.docx "SIS_PreProjetoAcademico_FichaTCC1.docx")  
 [ ][ ] [SIS_PreProjetoAplicado_FichaTCC1.docx](Material/SIS_PreProjetoAplicado_FichaTCC1.docx "SIS_PreProjetoAplicado_FichaTCC1.docx")  
+
+----------
+
+### ⏭ [Aula 05](aula05Anotacoes.md "Aula 05")  
+
+<!--
+[FIXME: arrumar as fontes bibliográficas]  
+## Principais Referências Bibliográficas​
+-->
