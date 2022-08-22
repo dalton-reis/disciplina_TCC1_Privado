@@ -27,6 +27,14 @@ Dalton Solano dos Reis
 O próprio prof. Marcel não poderia te orientar?  
 Ou então a profa. Andreza?  
 
+### 2022-08-22
+
+Juliano Humberto Chiarelli  
+O Marcel me falou que está com muitas pessoas já, mandei email para o Gilvan, a Andreza não mandei email ainda, o que me preocupa com ela é que eu já tive aula com ela e ela falou para a gente que não entende muito da programação e Java, o que é algo que também tenho não tenho experiência  
+
+Dalton Solano dos Reis  
+Ok, mas acho que mesmo esperando uma resposta do prof. Gilvan deveria enviar um -email para a profa. Andreza.  
+
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
