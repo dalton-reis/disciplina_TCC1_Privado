@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Henrique Haruda Gollnick  
+Orientador: Aurelio  
+Título: Utilização de Drones com Sensor Lidar para Previsão de Deslizamentos de Terra Através de Reconhecimento de Imagem  
 
 ## Atendimento Termo  
 

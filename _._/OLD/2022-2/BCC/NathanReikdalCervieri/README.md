@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Nathan Reikdal Cervieri  
+Orientador: Dalton  
+Título: Biblioteca de Auxílio para Implementação de Realidade Misturada Imersiva com o Oculus Quest 2  
 
 ## Atendimento Termo  
 

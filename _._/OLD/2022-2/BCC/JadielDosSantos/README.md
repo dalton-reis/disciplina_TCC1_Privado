@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Jadiel dos Santos  
+Orientador: Aurelio  
+Título: Sistema de Pré Seleção de Fotos Baseadas em Padrões de Faces  
 
 ## Atendimento Termo  
 

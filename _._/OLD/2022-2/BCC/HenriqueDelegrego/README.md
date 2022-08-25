@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Henrique Delegrego  
+Orientador: Dalton  
+Título: Aplicativo para Auxiliar a Visitação de Objetos de um Museu Tecnológico Usando Realidade Aumentada  
 
 ## Atendimento Termo  
 

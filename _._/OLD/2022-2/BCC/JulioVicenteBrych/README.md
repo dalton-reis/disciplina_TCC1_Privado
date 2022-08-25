@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Julio Vicente Brych  
+Orientador: Dalton  
+Título: Experimentação do Uso de Realidade Aumentada e Leapmotion para Inspecionar Modelos 3D  
 
 ## Atendimento Termo  
 

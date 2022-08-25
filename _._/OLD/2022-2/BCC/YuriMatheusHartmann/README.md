@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Yuri Matheus Hartmann  
+Orientador: Marcel  
+Título: Uso de Blockchain e Contratos Inteligentes na Gestão do Ciclo de Vida de um Carro  
 
 ## Atendimento Termo  
 

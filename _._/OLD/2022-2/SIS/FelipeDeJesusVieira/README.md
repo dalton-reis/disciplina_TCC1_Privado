@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Felipe de Jesus Vieira  
+Orientador: Cardoso  
+Título: Sport Finder: Uma Aplicação Web para Eventos Esportivos  
 
 ## Atendimento Termo  
 

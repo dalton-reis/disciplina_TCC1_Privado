@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Victor Thewis Gomes  
+Orientador: Valdameri  
+Título: Ferramenta  de Apoio a Migração de Bases de Dados  
 
 ## Atendimento Termo  
 

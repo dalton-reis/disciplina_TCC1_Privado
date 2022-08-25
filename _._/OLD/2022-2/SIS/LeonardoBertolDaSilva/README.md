@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Leonardo Bertol da Silva  
+Orientador: Valdameri  
+Título: Agendador de Plantões e Escalas de Folgas  
 
 ## Atendimento Termo  
 

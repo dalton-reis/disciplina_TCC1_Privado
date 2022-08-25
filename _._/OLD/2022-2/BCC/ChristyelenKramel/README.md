@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Christyelen Kramel  
+Orientador: Dalton  
+Título: Captação de Tremores Utilizando Dispositivo Móvel para Melhorar o Acompanhamento e Desenvolvimento da Doença de Parkinson  
 
 ## Atendimento Termo  
 

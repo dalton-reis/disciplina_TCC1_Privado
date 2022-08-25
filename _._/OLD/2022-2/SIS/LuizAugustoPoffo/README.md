@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Luiz Augusto Poffo  
+Orientador: Simone  
+Título: Hortando: Uma Solução Colaborativa para Gerenciamento de Hortas Residenciais  
 
 ## Atendimento Termo  
 

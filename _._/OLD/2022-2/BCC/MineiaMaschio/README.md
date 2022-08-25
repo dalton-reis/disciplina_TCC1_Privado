@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Minéia Maschio  
+Orientador: Andreza  
+Título: Reconhecimento Facial de Bugios-Ruivo por Meio de Técnicas de Aprendizado de Máquina  
 
 ## Atendimento Termo  
 

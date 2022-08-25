@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Hélio Potelicki  
+Orientador: Andreza  
+Título: Aplicação de Técnicas de Aprendizado de Máquina e Visão Computacional para Análise do Comportamento Infantil em Ambiente Escolar  
 
 ## Atendimento Termo  
 

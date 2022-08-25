@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Rafael Sperandio  
+Orientador: Dalton  
+Título: Aplicação de Realidade Aumentada para o Ensino de Religião em Escolas  
 
 ## Atendimento Termo  
 

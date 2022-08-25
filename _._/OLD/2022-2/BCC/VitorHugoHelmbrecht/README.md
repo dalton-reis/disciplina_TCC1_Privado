@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Vitor Hugo Helmbrecht  
+Orientador: Dalton  
+Título: Consequências: Um Jogo de Puzzle Utilizando Realidade Virtual com Ilusão de Ótica  
 
 ## Atendimento Termo  
 

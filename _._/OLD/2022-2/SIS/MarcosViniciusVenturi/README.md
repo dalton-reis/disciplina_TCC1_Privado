@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Marcos Vinícius Venturi  
+Orientador: Simone  
+Título: Automação de Atualização e Verificação de Informações de Fornecedores por Meio de um RPA (Robotic Process Automation)  
 
 ## Atendimento Termo  
 

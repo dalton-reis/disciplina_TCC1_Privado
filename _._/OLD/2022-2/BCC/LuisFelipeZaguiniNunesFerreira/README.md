@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Luís Felipe Zaguini Nunes Ferreira  
+Orientador: Marcel  
+Título: Agregadores de Módulos Virtuais em Programas Typescript  
 
 ## Atendimento Termo  
 

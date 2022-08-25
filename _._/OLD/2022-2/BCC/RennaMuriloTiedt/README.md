@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Rennã Murilo Tiedt  
+Orientador: Gilvan  
+Título: Sistema de Cálculo de Calagem e Correção de Solo para Bananicultura  
 
 ## Atendimento Termo  
 

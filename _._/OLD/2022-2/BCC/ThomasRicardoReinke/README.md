@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Thomas Ricardo Reinke  
+Orientador: Dalton  
+Título: Aplicação de Wave Function Collapse e Ray Casting na Criação de um Jogo Isométrico  
 
 ## Atendimento Termo  
 

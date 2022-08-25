@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Carlos Augusto Schultz Medina  
+Orientador: Pericas  
+Título: Automatização de Processo para a Realização de Atividades Repetitivas no Ambiente Corporativo  
 
 ## Atendimento Termo  
 

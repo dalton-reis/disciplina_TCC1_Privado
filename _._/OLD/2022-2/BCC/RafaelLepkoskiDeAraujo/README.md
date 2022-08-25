@@ -1,12 +1,11 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Rafael Lepkoski de Araujo  
+Orientador: Dalton  
+Título: Biblioteca para Análise de Movimentos Corporais  
 
 ## Atendimento Termo  
-
 
 [Termo](Termo.pdf "Termo")  
 

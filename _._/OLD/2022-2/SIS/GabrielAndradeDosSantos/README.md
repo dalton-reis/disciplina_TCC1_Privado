@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Gabriel Andrade dos Santos  
+Orientador: Dalton  
+Título: Aplicativo para Auxílio na Comunicação e Socialização de Pessoas com Transtorno do Espectro Autista  
 
 ## Atendimento Termo  
 

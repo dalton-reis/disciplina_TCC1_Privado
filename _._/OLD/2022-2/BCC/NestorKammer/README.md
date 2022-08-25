@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Nestor Kammer  
+Orientador: Marcel  
+Título: Protótipos de Microserviços para Aplicação de Conceitos de Observabilidade  
 
 ## Atendimento Termo  
 

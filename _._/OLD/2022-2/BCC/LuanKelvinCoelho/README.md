@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Luan Kelvin Coelho  
+Orientador: Valdameri  
+Título: Ferramenta de Apoio ao Mapeamento de Dados e a Governança da LGPD  
 
 ## Atendimento Termo  
 

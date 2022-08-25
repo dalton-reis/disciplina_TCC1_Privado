@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Henrique Silva Clemente  
+Orientador: Simone  
+Título: Sistema de Gestão e Administração de para Musicistas, Bandas e Equipes Organizadoras de Eventos  
 
 ## Atendimento Termo  
 

@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Luis Augusto Kühn  
+Orientador: Aurelio  
+Título: Ferramenta de Rastreamento Ocular por Intermédio de Webcam Utilizando Visão Computacional  
 
 ## Atendimento Termo  
 

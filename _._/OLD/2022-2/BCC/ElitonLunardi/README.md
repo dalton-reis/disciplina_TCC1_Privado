@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Éliton Lunardi  
+Orientador: Aurelio  
+Título: Orquestração de Contêineres para Escala Automática de Serviços em um Ambiente Distribuído Complexo  
 
 ## Atendimento Termo  
 
