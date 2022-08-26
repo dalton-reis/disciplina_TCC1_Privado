@@ -1,6 +1,6 @@
 # Reuniões sobre TCCs
 
-[JamBoard_Google_Geral](<https://jamboard.google.com/d/1XvzGMwaLvBJKE-DBaUvLBev2t5CXAfL-1yN3ObltNVQ/viewer?f=0> "JamBoard_Google_Geral")  
+[JamBoard_Google_Geral](https://jamboard.google.com/d/1XvzGMwaLvBJKE-DBaUvLBev2t5CXAfL-1yN3ObltNVQ/viewer?f=0 "JamBoard_Google_Geral")  
 [MarginNote](<url:marginnote3app://note/39816229-EC9E-495E-8A6B-F06B7BF233E6> "MarginNote")  
 
 ## Reunião 2021-08-25
@@ -9,7 +9,7 @@
 
 ### Ideias
 
-[Marcel] O Termo de Compromisso ter mais informações dos [slides](Material/Slides_01AulaProjeto.pdf "slides") iniciais.  
+\[Marcel] O Termo de Compromisso ter mais informações dos slides iniciais.  
 
 ### Minhas dúvidas
 

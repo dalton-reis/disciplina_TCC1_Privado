@@ -103,8 +103,8 @@
 - Não está em ordem alfabética.  
 - Faltou colocar o ano de Publicação.  
 - Em citação direta deve-se informar a(s) página(s) da fonte consultada.  
-- APUD deve-se EVITAR ao máximo. Tente buscar pelo fonte original.  
-- APUD deve-se: apresentar a referência bibliográfica completa apenas do documento consultado; informar pelo sobrenome do(s) autor(es) do documento original (não consultado), seguido da expressão apud (do latim citado por, conforme, segundo) seguida do sobrenome do(s) autor(es) da obra consultada.  
+- Apud deve-se EVITAR ao máximo. Tente buscar pelo fonte original.  
+- Apud deve-se: apresentar a referência bibliográfica completa apenas do documento consultado; informar pelo sobrenome do(s) autor(es) do documento original (não consultado), seguido da expressão apud (do latim citado por, conforme, segundo) seguida do sobrenome do(s) autor(es) da obra consultada.  
 
 ## Outros
 

@@ -1,4 +1,4 @@
-<!-- [ ]TODO:INICIO atualizar -->
+<!-- \[INICIO] atualizar -->
 
 # Professores do DSC
 
