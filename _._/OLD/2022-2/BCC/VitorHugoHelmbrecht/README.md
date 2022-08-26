@@ -25,7 +25,7 @@ Gostou da Anamorfose (TCC Rodvigo) e Navarrow: [http://dsc.inf.furb.br/arquivos/
 \[12:22] Vitor Hugo Helmbrecht  
 Eu dei uma pesquisada melhor sobre temas específicos pra poder desenvolver no TCC  
 E achei esse jogo aqui  
-https://store.steampowered.com/app/944340/Vignettes/  
+[https://store.steampowered.com/app/944340/Vignettes/](https://store.steampowered.com/app/944340/Vignettes/)  
 Vignettes on Steam  
 Vignettes is a unique exploration game without text or characters, where objects shapeshift as you spin them around to wander through a kaleidoscope of different moods and settings.  
 O que você acha de usar ese estilo de jogo pra fazer um jogo que ensine sobre algum assunto específico, como aquecimento global ou algo do tipo?  
