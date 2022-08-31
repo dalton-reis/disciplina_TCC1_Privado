@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Jeferson Bonecher  
+Orientador: Marcel  
+Título: Previsão do Preço das Ações na Bolsa de Valores Utilizando Machine Learning  
 
 ## Atendimento Termo  
 
