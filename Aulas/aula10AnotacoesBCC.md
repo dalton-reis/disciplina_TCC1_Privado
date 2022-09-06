@@ -7,7 +7,7 @@
 ## Fluxograma
 
 Olá alunos do curso de BCC (somente BCC), após entregarem o pré-projeto vem a defesa da banca de qualificação, conforme pode ser observado no fluxograma.  
-\[BCC] [cronogramaBCCbanca.drawio.svg](cronogramaBCCbanca.drawio.svg "cronogramaBCCbanca.drawio.svg")  
+\[BCC] [cronogramaBCCbanca.drawio.svg](../cronogramaBCCbanca.drawio.svg "cronogramaBCCbanca.drawio.svg")  
 
 E, em conformidade com o disposto Art. 22 da Resolução N° 020/2016 do regulamento de TCC do curso de BCC, no Parágrafo único:
     A não entrega do pré-projeto, a não apresentação do pré-projeto perante uma banca de qualificação ou a não aprovação do projeto implica em reprovação do acadêmico na disciplina de TCC I.  
@@ -37,7 +37,7 @@ Mas como parâmetro podem usar:
   1 slide: Revisão Bibliográfica  
   1 slide: Referências  
 
-Se quiserem podem usar este modelo [_ModeloSlidesPreProjeto.ppt](Exemplos/BCC/Slides/_ModeloSlidesPreProjeto.ppt "_ModeloSlidesPreProjeto.ppt").  
+Se quiserem podem usar este modelo [_ModeloSlidesPreProjeto.ppt](../Exemplos/BCC/Slides/_ModeloSlidesPreProjeto.ppt "_ModeloSlidesPreProjeto.ppt").  
 
 Mas lembrem, é só uma sugestão, pois pode mudar dependendo do contexto do assunto de cada trabalho. O importante é vocês fazerem algumas prévias e cuidarem para não ultrapassar o tempo máximo estipulado.  
 Também recomendo fortemente encaminharem para o seu orientador os slides e o vídeo da gravação da prévia. Se quiserem podem usar o próprio MS-Teams para gravar o vídeo.  
@@ -45,7 +45,7 @@ Bom, em caso de dúvidas me enviem pelo chat do MS-Teams.
 
 ## Exemplos
 
-\[BCC] [BCC_ExemploSlidesPreProjeto](Exemplos/BCC/Slides "BCC_ExemploSlidesPreProjeto")  
+\[BCC] [BCC_ExemploSlidesPreProjeto](../Exemplos/BCC/Slides "BCC_ExemploSlidesPreProjeto")  
 
 ----------
 

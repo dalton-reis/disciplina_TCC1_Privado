@@ -12,6 +12,10 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+## 2022-09-06 - 18:45
+
+Ajudei na reformulação do texto dos Objetivos.  
+
 Percentual estimado:  
 Comentários:  
 

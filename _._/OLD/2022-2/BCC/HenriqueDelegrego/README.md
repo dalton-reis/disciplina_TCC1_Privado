@@ -18,6 +18,10 @@ Tutorial - Realidade Aumentada
 
 ## Atendimento Pré-Projeto  
 
+## 2022-09-06 - 19:04
+
+Ajudei na estruturação do texto da Introdução.  
+
 Percentual estimado:  
 Comentários:  
 
