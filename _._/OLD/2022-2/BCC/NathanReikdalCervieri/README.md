@@ -15,6 +15,17 @@ Comentários:
 Orientador: Dalton  
 Dispensei da atendimento porque vai continuar o TCC1 do semestre anterior.  
 Pedi para atualizar e enviar o Termo de Compromisso.  
+11
+## 2022-09-01
+
+Pedir para fazer os ajustes mais simples.  
+
+## 2022-09-08 - 20:11
+
+Definir melhor o escopo do trabalho proposto.  
+Rever a seleção dos Trabalhos Correlatos.  
+Entender o que é a seção de Metodologia.  
+Ajuda na escolha dos assuntos para Revisão Bibliográfica e fontes.  
 
 ## Atendimento Pré-Projeto  
 

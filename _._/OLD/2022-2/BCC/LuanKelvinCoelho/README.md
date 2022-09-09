@@ -15,6 +15,18 @@ Orientador: Valdameri
 Assunto: Ferramenta de Adequação da LGPD.  
 Está refinando assunto com o Valdameri, está muito genérico.  
 
+## 2022-09-08 - 19:50
+
+\[18:20\] Luan Kelvin Coelho
+Sobre os trabalhos correlatos, estou até o momento com um trabalho acadêmico e uma sistema comercial como correlato, ficaria ruim escolher mais um sistema comercial como 3º trabalho?
+
+\[18:21\] Luan Kelvin Coelho
+Sobre imagens, como esses correlatos são sistemas pagos, estou utilizando com uma conta em período de teste, é perigoso eu colocar fotos do sistema no pré-projeto?
+
+\[18:23\] Luan Kelvin Coelho
+Sobre citação, como devo citar esse documento, visto que muitas pessoas foram envolvidas no desenvolvimento dele?
+<https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_lgpd.pdf>
+
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
