@@ -3,7 +3,7 @@
 ![foto](foto.png "foto")  
 Orientando: Victor Thewis Gomes  
 Orientador: Valdameri  
-Título: Ferramenta  de Apoio a Migração de Bases de Dados  
+Título: Migração de Banco De Dados – Ferramenta para Carga de Dados Após Migração de Sistema
 
 ## Atendimento Termo  
 
@@ -17,8 +17,9 @@ Empresa: Braim Sistemas
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 65%  
+Comentários: Já mostrou para o Valdameri. Objetivos Ok, Sistema Atual ok. Trabalhos Correlatos Ok. Trabalhando seção 3. Trabalhando os Requisitos. Trabalhando a Revisão. E não fez a Introdução.
+É aplicativo.  
 
 ## Atendimento Projeto  
 
