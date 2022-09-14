@@ -12,8 +12,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 65%  
+Comentários: Não fez Introdução. Olhei os objetivos. Descreveu o sistema atual. Um trabalho correlato está ok, os outros dois vai pesquisar para outros mais próximos a área do proposto. Termine o texto e vai refazer os correlatos. Fez seção 3. Sugeri transformar a seção de Revisão Bibliográfica com subseções.  
 
 ## Atendimento Projeto  
 

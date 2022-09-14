@@ -25,8 +25,9 @@ Enviou e-mail para profa. Simone.
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 30%  
+Comentários: O Valdameri está revisando. Introdução um pouco curta. Objetivos OK. Trabalho correlato arrumar o preâmbulo. Cuidados com as normas da ABNT. A seção revisar.  
+**Obs.:** pedi para acelerar o desenvolvimento do texto.  
 
 ## Atendimento Projeto  
 

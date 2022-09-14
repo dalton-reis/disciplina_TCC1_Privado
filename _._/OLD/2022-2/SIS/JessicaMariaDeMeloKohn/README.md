@@ -16,8 +16,8 @@ Comentários:
 
 Ajudei na reformulação do texto dos Objetivos.  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 85%  
+Comentários: Fazendo a Introdução. Sugeri transformar a seção de Revisão Bibliográfica com subseções.  
 
 ## Atendimento Projeto  
 

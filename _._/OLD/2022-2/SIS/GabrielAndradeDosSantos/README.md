@@ -15,8 +15,10 @@ Orientador Dalton - vai produzir sobre Autismo
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 15%  
+Comentários: Parte da Introdução, e parte dos Correlatos. Precisa descrever os correlatos.  
+**Obs.:** arrumar formataçÃo ABNT, usar o Word.
+**Obs.:** acelerar o desenvolvimento da descrição do Pré-projeto.  
 
 ## Atendimento Projeto  
 

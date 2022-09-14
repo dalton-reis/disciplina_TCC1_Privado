@@ -17,8 +17,9 @@ Unity poderia ir para RVi ou RA
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 10%  
+Comentários: está ciente que está atrasado em relação ao cronograma. Fez só uns dois parágrafos da Introdução e um parágrafo do Trabalho Correlato.  
+**Obs.:** recomendei fortemente acelerar a descrição do texto.  
 
 ## Atendimento Projeto  
 

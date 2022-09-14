@@ -18,8 +18,8 @@ Ambiente: orientando se preocupar
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 55%  
+Comentários: Já enviou para Simone. Não fez a Introdução. Está trabalhando os Objetivos. Fez os correlatos. Seção 3 fez mais ainda tem ajustes. Esta agendando com músicos locais para trocar ideias.  
 
 ## Atendimento Projeto  
 

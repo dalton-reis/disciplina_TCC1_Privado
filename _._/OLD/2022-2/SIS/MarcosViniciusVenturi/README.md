@@ -18,8 +18,9 @@ Lattes: com problema
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 55%  
+Comentários: Enviou hoje para a Simone para revisar.  
+VAi terminar Introdução e Objetivos.  
 
 ## Atendimento Projeto  
 

@@ -17,8 +17,9 @@ Recursos: já tem um professor que tem o Drone e LiDAR
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 55%  
+Comentários: Rever o título, IntroduçÃo e Objetivos ainda não. Os correlatos estão descritos, falta ajustes e revisão. Seção 3, ok, com poucos ajustes. Falta a Revisão Bibliográfica.  
+**Obs.:** usou o modelo do BCC, precisa usar o modelo do SIS (formatação).  
 
 ## Atendimento Projeto  
 

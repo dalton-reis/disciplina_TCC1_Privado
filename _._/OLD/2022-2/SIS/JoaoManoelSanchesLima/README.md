@@ -12,8 +12,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 35%  
+Comentários: Já enviou para Simone. Falta Introdução, fazendo Objetivos, fez os Trabalhos Correlatos, Inicio da seção 3.  
 
 ## Atendimento Projeto  
 

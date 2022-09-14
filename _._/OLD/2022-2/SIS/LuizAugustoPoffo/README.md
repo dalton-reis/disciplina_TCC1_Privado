@@ -18,8 +18,8 @@ Reunião: na quinta
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 75%  
+Comentários: Já passou pelas mãos pela Simone. Não fez a Introdução. Ajudei nos objetivos, mas tem de rever com a Simone. Fez oso correlatos  
 
 ## Atendimento Projeto  
 

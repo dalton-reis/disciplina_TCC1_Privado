@@ -21,8 +21,9 @@ O+: UMA APLICAÇÃO PARA GESTÃO DE HEMOCENTROS E AGENDAMENTO DE DOAÇÕES DE SA
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado:  50%
+Comentários: Falta a Introdução e Revisão Bibliográficas.  
+Ajudei a melhorar os objetivos. Tinha texto repetido no principal com específico. E os específicos estava com jeito de requisitos.  
 
 ## Atendimento Projeto  
 
