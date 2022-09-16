@@ -29,8 +29,23 @@ Sobre citação, como devo citar esse documento, visto que muitas pessoas foram 
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 60%  
+Comentários: está desenvolvendo  
+[x] interagindo com o orientador
+[x] cabeçalho  
+[x] título  
+[x] introdução  
+[x] objetivos  
+[x] correlato 1  
+[x] correlato 2  
+[x] correlato 3
+[ ] justificativa  fazendo ..
+[x] quadro comparativo  
+[ ] requisitos .. fazendo ..  
+[x] metodologia  
+[x] cronograma  
+[ ] revisão bibliográfica  
+[ ] referências  
 
 ## Atendimento Projeto  
 

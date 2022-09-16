@@ -16,8 +16,27 @@ Assunto: Sistema de calculo de calagem e correção de solo para bananicultura
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 40%  
+Comentários: está ciente que está atrasado  
+[x] interagindo com o orientador
+[x] cabeçalho  
+[ ] título  
+[ ] introdução  
+[x] objetivos  orientador vai revisar  
+[x] correlato 1  
+[x] correlato 2  
+[x] correlato 3
+[ ] justificativa  fazendo ..  
+[ ] quadro comparativo  fazendo ..  
+[ ] requisitos  fazendo ..  
+[ ] metodologio  fazendo ..  
+[ ] cronograma   fazendo ..  
+[ ] revisão bibliográfica  
+[ ] referências  
+
+**Obs.:** cuidado com os parágrafos curtos.
+pedi para acelerar o desenvolvimento da redação do Pré-projeto. 
+
 
 ## Atendimento Projeto  
 

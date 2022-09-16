@@ -12,13 +12,30 @@ Título: Ferramenta de Rastreamento Ocular por Intermédio de Webcam Utilizando 
 ### 2022-08-11
 
 21:55 não atendeu noTeams durante a aula. Depois enviou a mensagem:  
-[Ontem 23:22] Luis Augusto Kühn  
+\Ontem 23:22] Luis Augusto Kühn  
 Opa professo boa noite, agradeço por ter ligado não pude atender tinha acabado de sair da furb estava falando com o Aurélio, já fechamos o projeto estou enviando para ele agora o termo provavelmente hj ainda ou amanhã ele deve passar para o professor, obrigado pela atenção  
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 30%  
+Comentários: está ciente que está atrasado  
+[x] interagindo com o orientador
+[x] cabeçalho  
+[x] título  
+[ ] introdução  
+[x] objetivos  
+[x] correlato 1  
+[x] correlato 2  
+[ ] correlato 3  refazendo ...  
+[ ] justificativa  fazendo ..
+[ ] quadro comparativo  
+[ ] requisitos  
+[ ] metodologia  
+[ ] cronograma  
+[ ] revisão bibliográfica  
+[ ] referências  
+
+**Obs.:** pedi para acelerar o desenvolvimento da redação do Pré-projeto. 
 
 ## Atendimento Projeto  
 

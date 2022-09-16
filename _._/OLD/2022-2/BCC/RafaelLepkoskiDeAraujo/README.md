@@ -17,7 +17,7 @@ Orientador: Dalton.
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
-Comentários:  
+Comentários:  **TCC1 - atendimento individual: não respondeu**  
 
 ## Atendimento Projeto  
 

@@ -17,8 +17,25 @@ Título: orquestração de contêineres para Escala automática de serviços em 
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 35%  
+Comentários: está ciente que está atrasado  
+[ ] interagindo com o orientador .. precisa interagir mais  
+[x] cabeçalho  
+[x] título  
+[ ] introdução  
+[ ] objetivos  
+[x] correlato 1  
+[x] correlato 2  
+[x] correlato 3  
+[ ] justificativa  fazendo ..
+[ ] quadro comparativo  
+[ ] requisitos  
+[ ] metodologia  
+[ ] cronograma  
+[ ] revisão bibliográfica  
+[ ] referências  
+
+**Obs.:** pedi para acelerar o desenvolvimento da redação do Pré-projeto.  
 
 ## Atendimento Projeto  
 

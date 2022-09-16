@@ -29,8 +29,25 @@ Ajuda na escolha dos assuntos para Revisão Bibliográfica e fontes.
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 40%  
+Comentários: está ciente que está atrasado  
+[x] interagindo com o orientador
+[x] cabeçalho  
+[x] título  
+[ ] introdução  
+[x] objetivos  
+[x] correlato 1  
+[x] correlato 2  
+[x] correlato 3  refazendo ...  
+[ ] justificativa  fazendo ..
+[ ] quadro comparativo  
+[ ] requisitos  
+[ ] metodologia  
+[ ] cronograma  
+[ ] revisão bibliográfica  
+[ ] referências  
+
+**Obs.:** pedi para acelerar o desenvolvimento da redação do Pré-projeto  
 
 ## Atendimento Projeto  
 

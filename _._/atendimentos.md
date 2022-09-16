@@ -2,7 +2,7 @@
 
 ---
 
-Oi Jeferson Bonecher, tentei conversar contigo hoje no dia/horário agendado para os atendimentos individuais para tirar dúvidas sobre o TCC1 mais não tive um retorno.  
+Oi @@@@, tentei conversar contigo hoje no dia/horário agendado para os atendimentos individuais para tirar dúvidas sobre o TCC1 mais não tive um retorno.  
 Bom, lembro que o prazo de entrega do pré-projeto é semana que vem, e obviamente como comentei em aula tens de passar para o seu orientador avaliar antes, para ele fazer a revisão. E ainda tens de ter tempo para fazer os ajustes solicitados.  
 
 ---

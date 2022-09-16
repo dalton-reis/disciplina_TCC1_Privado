@@ -18,7 +18,7 @@ Vai falar com ela: Joyce
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
-Comentários:  
+Comentários: **TCC1 - atendimento individual: não respondeu**  
 
 ## Atendimento Projeto  
 
