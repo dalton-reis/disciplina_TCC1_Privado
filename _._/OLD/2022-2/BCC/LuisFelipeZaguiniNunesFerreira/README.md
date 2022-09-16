@@ -20,6 +20,15 @@ Vai falar com ela: Joyce
 Percentual estimado:  
 Comentários: **TCC1 - atendimento individual: não respondeu**  
 
+## 2022-09-15
+
+Enviou mensagem pelo Teams:  
+Opa  
+Não estava assistindo a aula, estava trabalhando. Dia corrido aqui 😅  
+Eu enviei o pré projeto por e-mail ao Marcel com o professor em cópia... Não recebesse?  
+De qualquer modo, envio aqui pra ti também em anexo:  
+O Marcel já está avaliando. Ele me deu uma estimativa de ter um feedback já amanhã. Acho q da pra dar uma faladinha com ele pq ele deve ter infos  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  
