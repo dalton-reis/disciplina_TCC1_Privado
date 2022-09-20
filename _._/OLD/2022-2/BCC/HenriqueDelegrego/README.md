@@ -25,6 +25,10 @@ Ajudei na estruturação do texto da Introdução.
 Percentual estimado:  
 Comentários:  
 
+## 2022-09-20 - 20:14
+
+Várias dúvidas sobre o texto. Vai descrever o trabalho 3. E fazer tudo menos objetivos e requisitos para fazermos juntos. Não fez revisão bibliográfica.  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  
