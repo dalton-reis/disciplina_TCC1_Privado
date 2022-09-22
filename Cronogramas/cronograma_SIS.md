@@ -88,12 +88,13 @@ Dia da semana: terça-feira (18:30\~22:00)
 
 ### [Aula_13] 25-10-2022 terça-feira
 
-- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
-- Análise do Pré-Projeto  
+- **Não teremos aula**
+- estarei no evento: <https://sbgames.org/sbgames2022/>  
 
 ### [Aula_14] 01-11-2022 terça-feira
 
-- Análise do Pré-Projeto - Atendimento Individual  
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
+- Análise do Pré-Projeto  
 
 ### [Aula_15] 08-11-2022 terça-feira
 

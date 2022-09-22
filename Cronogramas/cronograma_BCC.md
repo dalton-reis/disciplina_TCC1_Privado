@@ -95,12 +95,13 @@ Dia da semana: quinta-feira (18:30\~22:00)
 
 ### [Aula_13] 27-10-2022 quinta-feira
 
-- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
-- Análise do Pré-Projeto  
+- **Não teremos aula**
+- estarei no evento: <https://sbgames.org/sbgames2022/>  
 
 ### [Aula_14] 03-11-2022 quinta-feira
 
-- Análise do Pré-Projeto - Atendimento Individual  
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
+- Análise do Pré-Projeto  
 
 ### [Aula_15] 10-11-2022 quinta-feira
 
