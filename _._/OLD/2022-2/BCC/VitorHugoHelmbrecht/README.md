@@ -41,8 +41,23 @@ Ver: [https://faru.wordpress.com/2019/03/13/vignette-indie-puzzle-analise-review
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 65%  
+Comentários: passou para o orientador ver a Introdução, e depois não passou mais nada, mas produziu.  
+[x] interagindo com o orientador: +/-  
+[x] cabeçalho:  
+[x] título:  
+[x] introdução:  
+[ ] objetivos: rever no final. Dei a sugestão de ter um objetivo específico para RV ou Ilusão e outro para ambiental.  
+[x] correlato 1:  
+[x] correlato 2:  
+[ ] correlato 3: não fez, sugeri o Monument Vallery  
+[x] justificativa:  
+[x] quadro comparativo:  
+[x] requisitos:  
+[x] metodologia:  
+[x] cronograma:  
+[ ] revisão bibliográfica: está fazendo  
+[ ] referências:  
 
 ## Atendimento Projeto  
 

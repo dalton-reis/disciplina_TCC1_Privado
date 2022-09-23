@@ -21,8 +21,9 @@ Neste primeiro momento, que vais preencher o termo e construir o pré-projeto (q
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
+Percentual estimado:
 Comentários:  
+Obs.: **Não atendeu chamado no MS-Teams**  
 
 ## Atendimento Projeto  
 

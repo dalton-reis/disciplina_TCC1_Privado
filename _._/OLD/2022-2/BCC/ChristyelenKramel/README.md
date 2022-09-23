@@ -23,8 +23,23 @@ Pensei nessas ideias para título do meu tcc sobre o Parkinson:
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 60%  
+Comentários: fez a primeira versão. Envie para revisão mas não tinha dado um retorno. Pedi para voltar a trabalhar no Pré-projeto para não atrasar o cronograma.  
+[x] interagindo com o orientador: no incio sim, depois parou.  
+[x] cabeçalho:  
+[x] título:  
+[x] introdução:  
+[x] objetivos:  
+[x] correlato 1:  
+[x] correlato 2:  
+[ ] correlato 3: vai trocar pelo TCC que o prof. Aurelio orientou.  
+[x] justificativa:  
+[x] quadro comparativo:  
+[x] requisitos:  
+[x] metodologia:  
+[x] cronograma:  
+[x] revisão bibliográfica:  
+[x] referências:  
 
 ## Atendimento Projeto  
 

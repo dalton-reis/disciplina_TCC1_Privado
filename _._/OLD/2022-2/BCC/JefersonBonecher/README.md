@@ -37,8 +37,9 @@ Outros professores que orientam também trabalhos nesta área são: Marcel (marc
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
+Percentual estimado:
 Comentários:  
+Obs.: **Não atendeu chamado no MS-Teams**  
 
 ## Atendimento Projeto  
 

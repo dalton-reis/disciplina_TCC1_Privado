@@ -17,8 +17,23 @@ Aprendizado de Máquina - Avaliação de Currículo - pessoal RH
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 60%  
+Comentários: fez um pouco de tudo  
+[x] interagindo com o orientador:  
+[ ] cabeçalho:  
+[ ] título:  
+[ ] introdução:  
+[ ] objetivos:  
+[ ] correlato 1:
+[ ] correlato 2:  
+[ ] correlato 3:  
+[ ] justificativa:  
+[ ] quadro comparativo:  
+[ ] requisitos:  
+[ ] metodologia:  
+[ ] cronograma:  
+[ ] revisão bibliográfica:  
+[ ] referências:  
 
 ## Atendimento Projeto  
 

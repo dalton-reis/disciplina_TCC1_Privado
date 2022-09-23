@@ -16,8 +16,23 @@ Assunto: uso de blockchain e contratos inteligentes na gestão do ciclo de vida 
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 90%  
+Comentários: pequenos ajustes finais.  
+[x] interagindo com o orientador:  
+[x] cabeçalho:  
+[x] título:  
+[x] introdução:  
+[x] objetivos:  
+[x] correlato 1:  
+[x] correlato 2:  
+[x] correlato 3:  
+[x] justificativa:  
+[x] quadro comparativo:  
+[x] requisitos:  
+[x] metodologia:  
+[x] cronograma:  
+[x] revisão bibliográfica:  
+[x] referências:  
 
 ## Atendimento Projeto  
 
