@@ -8,9 +8,7 @@ Título: Compilador Assembly para C/C++ do Arduino no Contexto do Simulador M++
 ## Atendimento Pré-Projeto (2022-04-06)
 
 Percentual estimado:
-
 Comentários:  
-
 Obs.: **Não atendeu chamado no MS-Teams**  
 
 ## Atendimento Projeto
