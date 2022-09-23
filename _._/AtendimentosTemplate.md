@@ -21,7 +21,7 @@ Comentários:
 [ ] título:  
 [ ] introdução:  
 [ ] objetivos:  
-[ ] correlato 1:   
+[ ] correlato 1:  
 [ ] correlato 2:  
 [ ] correlato 3:  
 [ ] justificativa:  
@@ -31,8 +31,6 @@ Comentários:
 [ ] cronograma:  
 [ ] revisão bibliográfica:  
 [ ] referências:  
-
-**Obs.:**
 
 ## Atendimento Projeto  
 
