@@ -25,6 +25,11 @@ Percentual estimado:
 Comentários:  
 Obs.: **Não atendeu chamado no MS-Teams**  
 
+## 2022-09-23 - 21:40 Patrick Antunes
+
+Oi Dalton. tive muitos problemas esse semestre e me ausentei das matérias. tive que me mudar e perdi o acesso à bolsa da universidade. estava pensando se daria continuidade ou não neste semestre ou futuramente.  
+Iniciei o pré projeto mas não consegui enviar ele terminado ao professor. Vou confirmar com ele se ele ainda teria disponibilidade para fazer suas ponderações nesta semana e então darei prosseguimento. Se não eu desistirei da matéria e continuo numa próxima oportunidade  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  
