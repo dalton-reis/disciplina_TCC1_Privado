@@ -3,7 +3,7 @@
 ## Física - Maurício
 
 RVi com smartphone - Faraday Cage
-Olhar como exemplo o TCC [https://github.com/GCG-FURB/tcc_AlanFelipeJantz](https://github.com/GCG-FURB/tcc_AlanFelipeJantz)
+Olhar como exemplo o TCC [https://github.com/gcgfurb/tcc_AlanFelipeJantz](https://github.com/gcgfurb/tcc_AlanFelipeJantz)
 
 Se concentrar em tentar dar imersão para o usuário que está na "gaiola".
 
