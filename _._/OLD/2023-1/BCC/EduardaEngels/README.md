@@ -1,14 +1,14 @@
 # Anotações das Reuniões
 
 Orientando: Eduarda Engels  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
-Comentários:  
+Orientador: Aurélio  
+Assunto: Processamento de Imagens - Avaliação Postural - AVC - Reabilitação  
+Comentários: está fazendo Levantamento de Referências sobre o assunto  
 
 ## Atendimento Pré-Projeto
 

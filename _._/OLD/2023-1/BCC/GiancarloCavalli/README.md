@@ -1,14 +1,18 @@
 # Anotações das Reuniões
 
 Orientando: Giancarlo Cavalli  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
+Orientador:  
+Assunto:  
 Comentários:  
+  IA: não  
+  Sistemas Distribuídos
+  RA/RV C#
+  .. passei vários links de TCCs e o video de RA + Química  
 
 ## Atendimento Pré-Projeto
 

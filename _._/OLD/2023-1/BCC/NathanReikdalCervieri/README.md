@@ -1,14 +1,16 @@
 # Anotações das Reuniões
 
 Orientando: Nathan Reikdal Cervieri  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
+Orientador: .. possível com o Marcelo, Gilvan  
+Assunto: não tem ainda  
 Comentários:  
+  Não: IA  
+  Área: Microserviços, parecido TCC do Nestor (Marcel)  
 
 ## Atendimento Pré-Projeto
 

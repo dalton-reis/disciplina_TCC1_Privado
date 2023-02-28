@@ -1,14 +1,14 @@
 # Anotações das Reuniões
 
 Orientando: Everton Luiz Piccoli  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
-Comentários:  
+Orientador: Aurélio  
+Assunto: Áreas: Analise de Dados, Mineração de Dados, Processamento Imagens  
+Comentários: parou de estudar por um tempo e voltou  
 
 ## Atendimento Pré-Projeto
 

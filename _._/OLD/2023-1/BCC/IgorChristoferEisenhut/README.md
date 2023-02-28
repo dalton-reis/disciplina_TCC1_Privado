@@ -1,14 +1,14 @@
 # Anotações das Reuniões
 
 Orientando: Igor Christofer Eisenhut  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
-Comentários:  
+Orientador: Aurélio  
+Assunto: Motor de Busca em Grafo Utilizando Rust GPU  
+Comentários: disse que o Aurélio gostou do assunto "Grafos"
 
 ## Atendimento Pré-Projeto
 

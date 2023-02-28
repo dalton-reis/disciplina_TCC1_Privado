@@ -1,14 +1,14 @@
 # Anotações das Reuniões
 
 Orientando: Gustavo Felipe Soares  
-Orientador:0  
-Título:0
+Orientador:
+Título:
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
-Comentários:  
+Orientador: Danton  
+Assunto: ESP32 - Nuttx SO M++  
+Comentários: já conversou com o Miguel e Danton. Vai fazer com o Danton. Já agendou antes da aula.
 
 ## Atendimento Pré-Projeto
 

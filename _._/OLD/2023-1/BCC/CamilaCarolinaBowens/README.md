@@ -1,14 +1,14 @@
 # Anotações das Reuniões
 
 Orientando: Camila Carolina Bowens  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
-Comentários:  
+Orientador: Andreza  
+Assunto: área IA  
+Comentários: ainda não definiu o assunto. Já foi bolsista dela.  
 
 ## Atendimento Pré-Projeto
 

@@ -1,14 +1,14 @@
 # Anotações das Reuniões
 
 Orientando: Rossana Ariadna Schumann Dullius  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
-Comentários:  
+Orientador: Aurélio  
+Assunto: Área - Visão Computacional
+Comentários: ainda não definiu o que seria dentro desta área  
 
 ## Atendimento Pré-Projeto
 

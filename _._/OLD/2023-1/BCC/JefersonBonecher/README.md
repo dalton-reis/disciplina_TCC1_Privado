@@ -1,14 +1,16 @@
 # Anotações das Reuniões
 
 Orientando: Jeferson Bonecher  
-Orientador:0  
-Título:0
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
- Orientador:  
- Assunto:  
+Orientador:  
+Assunto:  
 Comentários:  
+  não atendeu o chamado no Teams na hora marcada  
+  enviei msg no Teams pedindo estas informações  
 
 ## Atendimento Pré-Projeto
 
