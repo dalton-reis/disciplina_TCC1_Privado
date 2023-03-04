@@ -2,7 +2,7 @@
 
 Orientando: Bruno Ricardo Junkes  
 Orientador: Dalton  
-Título: Explorar Pensamento Computacional com Auxílio da Realidade Aumentada    
+Título: Explorar Pensamento Computacional com Auxílio da Realidade Aumentada  
 
 ## Atendimento Termo
 
