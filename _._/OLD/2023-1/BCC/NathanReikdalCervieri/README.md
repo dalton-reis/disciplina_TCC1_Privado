@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Nathan Reikdal Cervieri  
-Orientador:  
-Título:  
+Orientador: Marcel  
+Título: Assistente de Atualização de Projetos Angular  
 
 ## Atendimento Termo
 
