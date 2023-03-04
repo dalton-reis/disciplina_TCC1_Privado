@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Thomas Michels Rodrigues  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Análise do Mercado Imobiliário: Influência e Impacto dos Fatores Regionais    
 
 ## Atendimento Termo
 
@@ -14,6 +14,8 @@ Plataforma de streaming para eventos amadores
 Fazer um programa para extrair os dados de portais de imoveis e analisar o preço Medio deles em blumenau  
 Sistema para predição de preços de venda de produtos do varejo para aumentar as margens  
 Comentários: ainda está indeciso entre estes assuntos.
+
+[BCC_TermoCompromisso](BCC_TermoCompromisso.pdf)
 
 ## Atendimento Pré-Projeto
 
