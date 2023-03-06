@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Amanda Detofol Constante  
-Orientador:0  
-Título:0
+Orientador: Simone  
+Título: Aplicativo para Gestão de Patota de Futebol com Suporte a Acessibilidade por Meio do Leitor de Tela Voice Over  
 
 ## Atendimento Termo
 
@@ -11,6 +11,8 @@ Assunto:
 Comentários:  
    (1) Aplicativo voltado para doação de roupas  
    (2) Organizar encontro de esportes  
+
+[SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)
 
 ## Atendimento Pré-Projeto
 
