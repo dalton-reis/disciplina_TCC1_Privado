@@ -16,6 +16,14 @@ Comentários:
 
 A ideia mais provável que vou usar é um algoritmo de inteligência artificial treinado pra prever o preço de ações. Entrei em contato com a Andreza mas sem resposta ainda.  
 
+### 2023-03-06 - 20:25
+
+Disse que a Andreza ja ia ligar para falar sobre o termo.  
+
+### 2023-03-07 - 12:16
+
+Já existe um TCC com este assunto. Aconselhei mesmo assim falar com Aurélio/Andreza para ver nào poderia continuar com o assunto e mudar um pouco o foco.  
+
 ## Atendimento Pré-Projeto
 
 Percentual estimado:  
