@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Giancarlo Cavalli  
-Orientador:  
-Título:  
+Orientador: Dalton  
+Título: Realidade Aumentada Aplicada ao Ensino: Ligações Químicas em um Ambiente Virtual Interativo  
 
 ## Atendimento Termo
 
@@ -29,6 +29,8 @@ Aplicativo RA+Química
 Palavras chave: Realidade Aumentada, Química  
 
 Título está muito geral .. Especifica mais "Química"  
+
+[BCC_TermoCompromisso](BCC_TermoCompromisso.pdf)
 
 ## Atendimento Pré-Projeto
 
