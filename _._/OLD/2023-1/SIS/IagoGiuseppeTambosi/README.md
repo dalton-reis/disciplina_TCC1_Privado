@@ -9,6 +9,10 @@ Título:0
 Orientador:  
 Assunto:  
 Comentários:  
+Áreas:
+  Segurança Informação (Gilvan)  
+  Sistemas Operacionais (Danton)  
+  Internet das Coisa - IOT (Miguel)  
 
 ## Atendimento Pré-Projeto
 

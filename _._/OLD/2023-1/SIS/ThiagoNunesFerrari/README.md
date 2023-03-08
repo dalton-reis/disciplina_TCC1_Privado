@@ -6,9 +6,11 @@ Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Simone  
 Assunto:  
 Comentários:  
+Aplicativo para Divulgação de Eventos.  
+Aplicado: usar a Athetica do CASI/Calcomp.  
 
 ## Atendimento Pré-Projeto
 

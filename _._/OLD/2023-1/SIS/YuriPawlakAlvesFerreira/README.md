@@ -6,9 +6,11 @@ Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Simone  
 Assunto:  
 Comentários:  
+Dropchip: setor de mineração do produto.  
+Inovação: Mentor??
 
 ## Atendimento Pré-Projeto
 

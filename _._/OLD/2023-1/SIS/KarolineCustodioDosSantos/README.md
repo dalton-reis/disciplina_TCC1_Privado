@@ -6,9 +6,11 @@ Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Valdameri  
 Assunto:  
 Comentários:  
+Sistema de Gestão de Restaurante.  
+Aplicado:  no restaurante da mãe.  
 
 ## Atendimento Pré-Projeto
 

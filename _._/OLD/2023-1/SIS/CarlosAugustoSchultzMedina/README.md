@@ -6,9 +6,12 @@ Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Andreza  
 Assunto:  
 Comentários:  
+Fazer aplicado em sistemas já prontos.  Empresa: Henrig  
+RPA (robôs) automação de processos.  
+Individual.  
 
 ## Atendimento Pré-Projeto
 

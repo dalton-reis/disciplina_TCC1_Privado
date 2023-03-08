@@ -6,9 +6,11 @@ Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Simone  
 Assunto:  
 Comentários:  
+Gestor de Estoque de Loja Varejista.  
+Aplicado: mãe  
 
 ## Atendimento Pré-Projeto
 

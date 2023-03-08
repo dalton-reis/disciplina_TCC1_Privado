@@ -6,9 +6,11 @@ Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Valdameri  
 Assunto:  
 Comentários:  
+Aplicativo de locação de vagas.  
+Tipo: aplicativo ou Inovação  
 
 ## Atendimento Pré-Projeto
 

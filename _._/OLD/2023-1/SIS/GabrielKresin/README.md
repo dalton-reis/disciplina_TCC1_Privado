@@ -9,6 +9,9 @@ Título:0
 Orientador:  
 Assunto:  
 Comentários:  
+Já falou com Simone.  
+Agora com Valdameri: Aplicativo de Criação de Grupos de Partidas de RPG.  
+Indiquei o Marcel e o Gilvan.  
 
 ## Atendimento Pré-Projeto
 
