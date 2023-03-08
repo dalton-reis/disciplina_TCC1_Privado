@@ -5,7 +5,7 @@
 
 ## Partes constituintes do Projeto
 
-\[SIS]\[BCC] [aula03Slides.pdf](aula03Slides.pdf "aula03Slides.pdf")  
+\[SIS] [aula03Slides.pdf](aula03Slides.pdf "aula03Slides.pdf")  
 
 - preencher os dados do cabeçalho;  
 - número de páginas.  
@@ -60,7 +60,6 @@ Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a ma
 
 **Atenção** os pré-projetos abaixo devem ser usados somente como exemplos, pois os mesmos podem conter partes que não seguem o modelo definido e as normas da ABNT.
 
-\[BCC] [BCC_ExemploPreProjeto](../Exemplos/BCC "BCC_ExemploPreProjeto")  
 \[SIS] [SIS_ExemploPreProjeto](../Exemplos/SIS "SIS_ExemploPreProjeto")  
 
 ----------

@@ -52,7 +52,7 @@ Existe algumas exceções que são:
 
 ----------
 
-### ⏭ [Aula 10](aula10Anotacoes.md "Aula 10")  
+### ⏭ [Aula 10](aula13Anotacoes.md "Aula 10")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

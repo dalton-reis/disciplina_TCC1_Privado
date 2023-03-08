@@ -1,6 +1,4 @@
 <!-- \[INICIO] atualizar -->
-[AVA3 BCC]: https://ava3.furb.br/course/view.php?id=31568 "AVA3 BCC"  
-[Plano Ensino AVA BCC]: https://ava3.furb.br/course/view.php?id=31568&section=1 "Plano Ensino AVA BCC"  
 [AVA3 SIS]: https://ava3.furb.br/course/view.php?id=31567 "AVA3 BCC"  
 [Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=31567&section=1 "Plano Ensino AVA BCC"  
 
@@ -20,12 +18,10 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
-- \[BCC] [AVA3 BCC]  
 - \[SIS] [AVA3 SIS]  
 
 ### Plano de Ensino
 
-\[BCC] [Plano Ensino AVA BCC]  
 \[SIS] [Plano Ensino AVA SIS]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
@@ -47,7 +43,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 ## Cronograma
 
-\[SIS]\[BCC] [Cronograma](../Cronogramas/cronograma.md "Cronograma")  
+\[SIS] [Cronograma](../Cronogramas/README.md "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -58,11 +54,10 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 O que deve ser feito para encaminhar o Termo de Compromisso:  
 
 - fazer o cadastro no [Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio# "Currículo Lattes"); Faça o cadastro o quanto antes, não precisa esperar para ter os dados do termo (conversar com orientador etc.);  
-- seguir as [Observações de Entrega](../Cronogramas/cronograma.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
-<!-- - \[SIS]\[BCC] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### \[SIS]\[BCC] [lista professores do DSC](http://dsc.inf.furb.br/professores "lista professores do DSC")  
+- seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
+<!-- - \[SIS] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
+### \[SIS] [lista professores do DSC](http://dsc.inf.furb.br/professores "lista professores do DSC")  
 
-\[BCC] [BCC_TermoCompromisso.docx](../Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
 \[SIS] [SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ----------

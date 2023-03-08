@@ -4,7 +4,7 @@
 
 ## Partes constituintes do Projeto
 
-\[SIS]\[BCC] [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
+\[SIS] [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
 
 ### Proposta
 
@@ -45,8 +45,8 @@
     - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
     - **Atenção**: descrição completa no pré-projeto e projeto. [Ver exemplo](../Exemplos/SIS/PreProjeto_LuizCarlosBurigo.pdf "Ver exemplo")  
 - Buscar material para "poder" escrever:
-  - \[SIS]\[BCC][Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
-  - \[SIS]\[BCC] [TCCs do DSC](http://dsc.inf.furb.br/tcc/index.php?cd=3 "TCCs do DSC")  
+  - \[SIS] [Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
+  - \[SIS] [TCCs do DSC](http://dsc.inf.furb.br/tcc/index.php?cd=3 "TCCs do DSC")  
 - Acessar de fora da FURB usando VPN: [https://www10.furb.br/manuais/manual-vpn-furb.php](https://www10.furb.br/manuais/manual-vpn-furb.php "https://www10.furb.br/manuais/manual-vpn-furb.php")  
 
 ### Referências
