@@ -50,7 +50,7 @@ Já as [Referências](./aula04Anotacoes.md#referências "Referências") é bom n
 ### Continuação TCC
 
 Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a mais antes da seção dos trabalhos correlatos.
-[Ver Exemplo](../Exemplos/SIS/PreProjeto_MuriloBartel.pdf "Ver Exemplo")  
+<!-- [FIXME: [Ver Exemplo](../Exemplos/SIS/PreProjeto_MuriloBartel.pdf "Ver Exemplo") -->  
 
 ### Trabalhos Correlatos
 
@@ -61,7 +61,6 @@ Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a ma
 **Atenção** os pré-projetos abaixo devem ser usados somente como exemplos, pois os mesmos podem conter partes que não seguem o modelo definido e as normas da ABNT.
 
 \[BCC] [BCC_ExemploPreProjeto](../Exemplos/BCC "BCC_ExemploPreProjeto")  
-\[SIS] [SIS_ExemploPreProjeto](../Exemplos/SIS "SIS_ExemploPreProjeto")  
 
 ----------
 
