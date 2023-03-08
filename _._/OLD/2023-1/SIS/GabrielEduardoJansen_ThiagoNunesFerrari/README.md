@@ -1,14 +1,16 @@
 # Anotações das Reuniões
 
-Orientando: Stephani Silvia Zatta  
+Orientando: Gabriel Eduardo Jansen / Thiago Nunes Ferrari  
 Orientador:0  
 Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Simone  
 Assunto:  
 Comentários:  
+Aplicativo para Divulgação de Eventos.  
+Aplicado: usar a Athetica do CASI/Calcomp.  
 
 ## Atendimento Pré-Projeto
 

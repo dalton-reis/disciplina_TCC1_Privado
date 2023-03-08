@@ -1,14 +1,17 @@
 # Anotações das Reuniões
 
-Orientando: Matheus Leopoldo dos Santos Boing  
+Orientando: Ana Maria Maurizio / Stephani Silvia Zatta  
 Orientador:0  
 Título:0
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador: Valdameri  
 Assunto:  
-Comentários:  
+Comentários:
+  Aplicado ...
+- Mãe Sthephani: ortopedista .. processo manual trabalhoso .. assinatura do médico.  
+- Movél: Flutter
 
 ## Atendimento Pré-Projeto
 

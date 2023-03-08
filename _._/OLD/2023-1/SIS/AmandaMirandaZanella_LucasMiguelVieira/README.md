@@ -1,17 +1,17 @@
 # Anotações das Reuniões
 
-Orientando: Ana Maria Maurizio  
+Orientando: Amanda Miranda Zanella / Lucas Miguel Vieira  
 Orientador:0  
 Título:0
 
 ## Atendimento Termo
 
-Orientador: Valdameri  
+Orientador: Simone  
 Assunto:  
-Comentários:
-  Aplicado ...
-- Mãe Sthephani: ortopedista .. processo manual trabalhoso .. assinatura do médico.  
-- Movél: Flutter
+Comentários:  
+
+- Desenho no AutoCad  
+- Sistema gerencia vendas roupas: mãe do Lucas tem trabalha numa loja que aluga roupas.  
 
 ## Atendimento Pré-Projeto
 

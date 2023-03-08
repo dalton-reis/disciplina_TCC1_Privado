@@ -1,6 +1,6 @@
 # Anotações das Reuniões
 
-Orientando: Thiago Nunes Ferrari  
+Orientando: Bruna Schroeder / Matheus Leopoldo dos Santos Boing  
 Orientador:0  
 Título:0
 
@@ -9,8 +9,12 @@ Título:0
 Orientador: Simone  
 Assunto:  
 Comentários:  
-Aplicativo para Divulgação de Eventos.  
-Aplicado: usar a Athetica do CASI/Calcomp.  
+-> Aplicado: tem uma empresa  
+Aplicativo para gerenciar CrossFit ...
+
+## 2023-03-04 - 15:34
+
+![ColegaidoSIS_NovoRegulamento](ColegaidoSIS_NovoRegulamento.png)
 
 ## Atendimento Pré-Projeto
 
