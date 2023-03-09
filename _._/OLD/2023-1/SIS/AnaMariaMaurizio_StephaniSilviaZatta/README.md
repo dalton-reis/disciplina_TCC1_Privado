@@ -1,8 +1,9 @@
 # Anotações das Reuniões
 
 Orientando: Ana Maria Maurizio / Stephani Silvia Zatta  
-Orientador:0  
-Título:0
+Orientador: Valdameri  
+<!-- [FIXME: sugerir mudar o título e corrigi erro de escrita] -->
+Título: Orthodoc: Sistema de Gestão de Suprimentos Cirúrgicos
 
 ## Atendimento Termo
 
@@ -12,6 +13,8 @@ Comentários:
   Aplicado ...
 - Mãe Sthephani: ortopedista .. processo manual trabalhoso .. assinatura do médico.  
 - Movél: Flutter
+
+[SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)
 
 ## Atendimento Pré-Projeto
 
