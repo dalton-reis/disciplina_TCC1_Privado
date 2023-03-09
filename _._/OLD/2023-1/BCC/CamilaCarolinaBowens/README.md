@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Camila Carolina Bowens  
-Orientador:  
-Título:  
+Orientador: Andreza  
+Título: Reconhecimento Automático de Espécies de Serpentes por Meio de Técnicas de Aprendizado de Máquina e Visão Computacional  
 
 ## Atendimento Termo
 
