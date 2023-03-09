@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Brenda Louise Bernat  
-Orientador:0  
-Título:0
+Orientador: Simone  
+Título: Ferramenta Interna para Gestão de Conhecimento com Mecanismo de Busca Semântica
 
 ## Atendimento Termo
 
@@ -13,6 +13,8 @@ Comentários:
 Philipps: base de conhecimento, função interna (não cliente ter acesso), WIKI para centralizar os documentos
 Chat Boot, Busca semântica ..
 Disciplina de PLN (Programação de Linguagem Natural) com Aurélio.
+
+[SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)  
 
 ## Atendimento Pré-Projeto
 
