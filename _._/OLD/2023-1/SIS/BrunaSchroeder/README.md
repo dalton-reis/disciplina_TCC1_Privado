@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
-Orientando: Bruna Schroeder / Matheus Leopoldo dos Santos Boing  
-Orientador:0  
-Título:0
+Orientando: Bruna Schroeder  
+Orientador:  
+Título:  
 
 ## Atendimento Termo
 
