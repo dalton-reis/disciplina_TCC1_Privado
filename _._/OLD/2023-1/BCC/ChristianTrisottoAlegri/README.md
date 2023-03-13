@@ -24,6 +24,12 @@ Disse que a Andreza ja ia ligar para falar sobre o termo.
 
 Já existe um TCC com este assunto. Aconselhei mesmo assim falar com Aurélio/Andreza para ver nào poderia continuar com o assunto e mudar um pouco o foco.  
 
+## 2023-03-13 - 20:45
+
+Encriptação Zk-Snark  
+Gilvan  
+Passei o e-mail, passei horários dele na FURB das aulas.  
+
 ## Atendimento Pré-Projeto
 
 Percentual estimado:  
