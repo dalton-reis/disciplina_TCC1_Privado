@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Guilherme Fibrantz  
-Orientador:  
-Título:  
+Orientador: Dalton  
+Título: Jogo de Conscientização no Trânsito Utilizando a Realidade Virtual Imersiva  
 
 ## Atendimento Termo
 
@@ -34,6 +34,8 @@ O acesso para minha conta na Unity e na Asset Store é:
   Pwd: Furb2022  
 
 Projeto na FURB: <https://www.furb.br/pt/noticias/te-orienta-no-transito-inicia-formacao-com-escolas-de-blumenau>  
+
+[BCC_TermoCompromisso](BCC_TermoCompromisso.pdf)
 
 ## Atendimento Pré-Projeto
 
