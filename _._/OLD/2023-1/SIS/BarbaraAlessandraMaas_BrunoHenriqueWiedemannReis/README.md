@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Barbara Alessandra Maas / Bruno Henrique Wiedemann Reis  
-Orientador:0  
-Título:0
+Orientador: Simone  
+Título: Acessibilidade em E-Commerce de Jogos como Fator de Diferenciação  
 
 ## Atendimento Termo
 
@@ -13,6 +13,8 @@ Comentários:
 Sistema E-Commer de Games OnLine.  
 A Nuvem é um exemplo.  
 DotNet: C# , ASPER NET
+
+[SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)
 
 ## Atendimento Pré-Projeto
 

@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Luís Eduardo Bonatti / Mateus Fernando Spengler
-Orientador:0  
-Título:0
+Orientador: Simone  
+Título: Gestão Financeira e de Estoque no Setor Vestuário  
 
 ## Atendimento Termo
 
@@ -11,6 +11,8 @@ Assunto:
 Comentários:  
 Gestor de Estoque de Loja Varejista.  
 Aplicado: mãe  
+
+[SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)  
 
 ## Atendimento Pré-Projeto
 

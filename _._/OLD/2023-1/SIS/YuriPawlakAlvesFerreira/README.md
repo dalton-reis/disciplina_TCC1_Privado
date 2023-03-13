@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Yuri Pawlak Alves Ferreira  
-Orientador:0  
-Título:0
+Orientador: Simone  
+Título: Análise de Produtos com Alta Escala em Vendas no Modelo E-Commerce  
 
 ## Atendimento Termo
 
@@ -11,6 +11,8 @@ Assunto:
 Comentários:  
 Dropchip: setor de mineração do produto.  
 Inovação: Mentor??  
+
+[SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)
 
 ## Atendimento Pré-Projeto
 

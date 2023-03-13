@@ -2,7 +2,7 @@
 
 Orientando: Amanda Miranda Zanella / Lucas Miguel Vieira  
 Orientador:0  
-Título:0
+Título: Gestão De Processos e Amostragem de Produtos em Loja de Aluguel de Trajes  
 
 ## Atendimento Termo
 
