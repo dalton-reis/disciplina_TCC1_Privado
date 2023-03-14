@@ -63,6 +63,7 @@
 
 - Professor de TCC1  
 - Professor Avaliador  
+- [Fichas](../Consulta/Fichas)  
 
 Não usar, só para conhecimento ...  
 
