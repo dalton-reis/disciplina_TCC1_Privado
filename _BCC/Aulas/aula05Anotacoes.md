@@ -29,12 +29,25 @@ Existe algumas exceções que são:
 - Trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
 - sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Zotero](https://www.zotero.org "Zotero") etc.  
 
+### Mendeley
+
+Com o Mendeley você organiza suas leituras (tanto PDFs quanto materiais impressos), faz fichamentos e insere automaticamente as citações e referências no seu trabalho. O programa está disponível somente em inglês. Faça o download no [link](https://www.mendeley.com/download-desktop/Windows/).
+
+### Zotero
+
+O Zotero é um programa similar ao Mendeley, com a diferença de ser disponibilizado também em português. Faça o download no [link](https://www.zotero.org/).
+
 \[SIS]\[ ] [Geral_ComoFazer_Citacoes.pdf](../Material/Geral_ComoFazer_Citacoes.pdf "Geral_ComoFazer_Citacoes.pdf")  
 \[SIS]\[ ] [Geral_ComoFazer_ReferenciasBibliograficas.pdf](../Material/Geral_ComoFazer_ReferenciasBibliograficas.pdf "Geral_ComoFazer_ReferenciasBibliograficas.pdf")  
 
 ## Dicas do uso do Editor MS-Word
 
 - \[SIS]\[ ] Formatação: estilos, inserir legenda e referência cruzada  
+- [Utilizando os estilos do Word](https://youtu.be/3xOVEnupJAA)  
+- [Como fazer a paginação e utilizar os marcadores de formatação do Word](https://youtu.be/IXWbZ4VsbF8)  
+- [Como fazer o Sumário automaticamente](https://youtu.be/MXCA96UAouA)  
+- [Como inserir ilustrações e tabelas no trabalho e gerar as listas
+automaticamente](https://youtu.be/MiMcBOh6zVw)  
 
 ## Pré-Projeto - Formulação  
 
