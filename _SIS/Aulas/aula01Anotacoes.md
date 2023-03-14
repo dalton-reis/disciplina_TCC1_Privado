@@ -1,6 +1,6 @@
 <!-- \[INICIO] atualizar -->
-[AVA3 SIS]: https://ava3.furb.br/course/view.php?id=31567 "AVA3 BCC"  
-[Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=31567&section=1 "Plano Ensino AVA BCC"  
+[AVA3 SIS]: https://ava3.furb.br/course/view.php?id=31567 "AVA3 SIS"  
+[Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=31567&section=1 "Plano Ensino AVA SIS"  
 
 # Aula01: Visão Geral da Disciplina
 
@@ -38,7 +38,6 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 ## Tipos de TCC: visão geral
 
 <!-- FIXME: Fazer um fluxograma (mapa de tempo, usar data atual para marcar no mapa o que já passou) no DrawIO do que ocorre nos dois projetos. Tentar usar variáveis para datas do cronograma. E colocar links nas caixas do fluxograma com o material -->
-- Visão geral de como ocorre o fluxograma para BCC  
 - Visão geral de como ocorre o fluxograma para SIS  
 
 ## Cronograma
@@ -53,10 +52,13 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 O que deve ser feito para encaminhar o Termo de Compromisso:  
 
+<!--
 - fazer o cadastro no [Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio# "Currículo Lattes"); Faça o cadastro o quanto antes, não precisa esperar para ter os dados do termo (conversar com orientador etc.);  
+-->
+
 - seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
 <!-- - \[SIS] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### \[SIS] [lista professores do DSC](http://dsc.inf.furb.br/professores "lista professores do DSC")  
+### \[SIS] [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
 
 \[SIS] [SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
