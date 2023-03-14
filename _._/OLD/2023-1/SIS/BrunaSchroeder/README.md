@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Bruna Schroeder  
-Orientador:  
-Título:  
+Orientador: Simone  
+Título: Gestão de Campeonatos Esportivos Voltado ao Crossfit  
 
 ## Atendimento Termo
 
@@ -11,6 +11,8 @@ Assunto:
 Comentários:  
 -> Aplicado: tem uma empresa  
 Aplicativo para gerenciar CrossFit ...
+
+[SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)  
 
 ## 2023-03-04 - 15:34
 
