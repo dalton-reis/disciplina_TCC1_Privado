@@ -37,9 +37,10 @@
 - Como conduzir um estudo bibliográfico.  
 - Cuidado com o limite de páginas do projeto.  
   - BCC:  
-    - pré-projeto: mínimo 6 (seis) e no máximo 10 (dez) páginas (incluindo referências e assinaturas);  
-    - projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas).  
-    - **Atenção**: uma breve descrição no pré-projeto, e descrição completa no projeto.
+    - pré-projeto: ter no máximo 10 (dez) páginas excluindo as referências;  
+    - projeto: ter no máximo 12 (doze) páginas excluindo as referências;  
+    - **Atenção**: ler a breve descrição no próprio projeto.  
+
 - Buscar material para "poder" escrever:
   - [Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
   - [Portal de Periódicos da Capes](http://periodicos.capes.gov.br/)  
@@ -69,7 +70,7 @@ Não usar, só para conhecimento ...
 
 ----------
 
-## ⏭ [Aula 05](aula05Anotacoes.md "Aula 05")  
+## ⏭ [Aula 05](./aula05Anotacoes.md "Aula 05")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

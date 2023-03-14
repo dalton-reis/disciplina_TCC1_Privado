@@ -18,11 +18,11 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
-- \[SIS] [AVA3 SIS]  
+- [AVA3 SIS]  
 
 ### Plano de Ensino
 
-\[SIS] [Plano Ensino AVA SIS]  
+[Plano Ensino AVA SIS]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
@@ -42,7 +42,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 ## Cronograma
 
-\[SIS] [Cronograma](../Cronogramas/README.md "Cronograma")  
+[Cronograma](../Cronogramas/ "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -57,14 +57,14 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 -->
 
 - seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
-<!-- - \[SIS] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### \[SIS] [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
 
-\[SIS] [SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
+### [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
+
+[SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ----------
 
-## ⏭ [Aula 02](aula02Anotacoes.md "Aula 02")  
+## ⏭ [Aula 02](./aula02Anotacoes.md "Aula 02")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

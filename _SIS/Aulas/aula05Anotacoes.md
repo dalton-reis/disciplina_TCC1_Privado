@@ -22,19 +22,42 @@ Existe algumas exceções que são:
 
 <!-- \[AVISO] aviso Link Web - norma ABNT: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85687425 -->
 
+Basicamente se usam apenas três normas: a NBR 10520:2002, que trata da citação; a NBR 6023:2018, que aborda a forma correta de fazer referências; e a NBR 14724:2011, de trata da estrutura do
+trabalho.
+
 - comentar sobre as citações e citações direta  
 - os dois tipos de citações  
 - uso de numeração de página nas citações  
-- Apresentar alguns conceitos e definições  
-- Trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
+- apresentar alguns conceitos e definições  
+- trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
 - sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Zotero](https://www.zotero.org "Zotero") etc.  
 
-\[SIS]\[ ] [Geral_ComoFazer_Citacoes.pdf](../Material/Geral_ComoFazer_Citacoes.pdf "Geral_ComoFazer_Citacoes.pdf")  
-\[SIS]\[ ] [Geral_ComoFazer_ReferenciasBibliograficas.pdf](../Material/Geral_ComoFazer_ReferenciasBibliograficas.pdf "Geral_ComoFazer_ReferenciasBibliograficas.pdf")  
+### Mendeley
+
+Com o Mendeley você organiza suas leituras (tanto PDFs quanto materiais impressos), faz fichamentos e insere automaticamente as citações e referências no seu trabalho. O programa está disponível somente em inglês. Faça o download no [link](https://www.mendeley.com/download-desktop/Windows/).  
+
+### Zotero
+
+O Zotero é um programa similar ao Mendeley, com a diferença de ser disponibilizado também em português. Faça o download no [link](https://www.zotero.org/).  
+
+- [Como fazer Ilustrações e Tabelas](../Consulta/FurbBc/IlustracoesTabelas.pdf)  
+- [Como fazer Citações](../Consulta/FurbBc/Citacoes.pdf)  
+- [Como fazer Referências](../Consulta/FurbBc/Referencias.pdf)  
+
+Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=Link.>  
+
+<!--
+<iframe width="760px" height="500px" src="https://sway.office.com/s/K8QaPPXHkTM8r3gW/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+-->
 
 ## Dicas do uso do Editor MS-Word
 
-- \[SIS]\[ ] Formatação: estilos, inserir legenda e referência cruzada  
+- Formatação: estilos, inserir legenda e referência cruzada  
+- [Utilizando os estilos do Word](https://youtu.be/3xOVEnupJAA)  
+- [Como fazer a paginação e utilizar os marcadores de formatação do Word](https://youtu.be/IXWbZ4VsbF8)  
+- [Como fazer o Sumário automaticamente](https://youtu.be/MXCA96UAouA)  
+- [Como inserir ilustrações e tabelas no trabalho e gerar as listas
+automaticamente](https://youtu.be/MiMcBOh6zVw)  
 
 ## Pré-Projeto - Formulação  
 
@@ -52,7 +75,7 @@ Existe algumas exceções que são:
 
 ----------
 
-### ⏭ [Aula 10](aula13Anotacoes.md "Aula 10")  
+### ⏭ [Aula 10](./aula13Anotacoes.md "Aula 10")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

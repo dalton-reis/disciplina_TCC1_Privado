@@ -7,14 +7,14 @@
 
 ## Como estabelecer um problema de pesquisa
 
-\[SIS] [aula02Slides.pdf](aula02Slides.pdf "aula02Slides.pdf")  
+[aula02Slides.pdf](aula02Slides.pdf "aula02Slides.pdf")  
 
 ## Modelos Projetos
 
 - ler com **muita atenção** os comentários descritos nos modelos;  
 - usar o modelo **correto** de acordo com o seu curso e modalidade.  
 
-\[SIS] [SIS_Projeto.docx](../Material/SIS_Projeto.docx "SIS_Projeto.docx")  
+[SIS_Projeto.docx](../Material/SIS_Projeto.docx "SIS_Projeto.docx")  
 
 ## Quando iniciar Pré-Projeto?
 
@@ -33,7 +33,7 @@
 
 ----------
 
-## ⏭ [Aula 03](aula03Anotacoes.md "Aula 03")  
+## ⏭ [Aula 03](./aula03Anotacoes.md "Aula 03")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

@@ -4,7 +4,7 @@
 
 ## Partes constituintes do Projeto
 
-\[SIS] [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
+[aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
 
 ### Proposta
 
@@ -36,17 +36,15 @@
 - Coerente com o contexto do projeto.  
 - Como conduzir um estudo bibliográfico.  
 - Cuidado com o limite de páginas do projeto.  
-  - BCC:  
-    - pré-projeto: mínimo 6 (seis) e no máximo 10 (dez) páginas (incluindo referências e assinaturas);  
-    - projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas).  
-    - **Atenção**: uma breve descrição no pré-projeto, e descrição completa no projeto.
-  - SIS:
-    - pré-projeto: mínimo 8 (oito) e no máximo 12 (doze) páginas (incluindo referências e assinaturas);  
-    - projeto deve ter no mínimo 12 (doze) e no máximo 16 (dezesseis) páginas (incluindo referências e assinaturas).  
-    - **Atenção**: descrição completa no pré-projeto e projeto. [Ver exemplo](../Exemplos/SIS/PreProjeto_LuizCarlosBurigo.pdf "Ver exemplo")  
+  - SIS:  
+    - pré-projeto/projeto: ter no máximo 12 (doze) páginas excluindo as referências;  
+    - **Atenção**: ler a breve descrição no próprio projeto.  
+
 - Buscar material para "poder" escrever:
-  - \[SIS] [Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
-  - \[SIS] [TCCs do DSC](http://dsc.inf.furb.br/tcc/index.php?cd=3 "TCCs do DSC")  
+  - [Portais de Busca FURB](https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca "Portais de Busca FURB")  
+  - [Portal de Periódicos da Capes](http://periodicos.capes.gov.br/)  
+  - [Biblioteca Digital Brasileira de Teses e Dissertações (BDTD)](http://bdtd.ibict.br/vufind/)  
+  - [TCCs do DSC](https://www.furb.br/dsc/tcc "TCCs do DSC")  
 - Acessar de fora da FURB usando VPN: [https://www10.furb.br/manuais/manual-vpn-furb.php](https://www10.furb.br/manuais/manual-vpn-furb.php "https://www10.furb.br/manuais/manual-vpn-furb.php")  
 
 ### Referências
@@ -71,7 +69,7 @@ Não usar, só para conhecimento ...
 
 ----------
 
-## ⏭ [Aula 05](aula05Anotacoes.md "Aula 05")  
+## ⏭ [Aula 05](./aula05Anotacoes.md "Aula 05")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

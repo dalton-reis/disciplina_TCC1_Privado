@@ -1,6 +1,6 @@
 # Regulamento
 
-\[SIS] [SIS_RegulamentoTCC](./Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
+[SIS_RegulamentoTCC](./Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
 
 ## Resumo Regulamento do TCC do BCC
 

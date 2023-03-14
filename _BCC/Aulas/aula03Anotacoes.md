@@ -64,7 +64,7 @@ Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a ma
 
 ----------
 
-## ⏭ [Aula 04](aula04Anotacoes.md "Aula 04")  
+## ⏭ [Aula 04](./aula04Anotacoes.md "Aula 04")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  
