@@ -3,6 +3,7 @@
 Orientando: Giancarlo Cavalli  
 Orientador: Dalton  
 Título: Realidade Aumentada Aplicada ao Ensino: Ligações Químicas em um Ambiente Virtual Interativo  
+Anotações: <https://miro.com/app/board/uXjVPhuV1tk=/>
 
 ## Atendimento Termo
 
