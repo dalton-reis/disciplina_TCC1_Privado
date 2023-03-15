@@ -11,6 +11,7 @@ Assunto:
 Comentários:  
 Aplicativo de locação de vagas.  
 Tipo: aplicativo ou Inovação  
+Mentor da HBTec ..
 
 [SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)  
 
