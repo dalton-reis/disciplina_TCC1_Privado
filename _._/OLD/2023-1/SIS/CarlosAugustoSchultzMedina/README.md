@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Carlos Augusto Schultz Medina  
-Orientador:0  
-Título:0
+Orientador: Andreza  
+Título: Análise e Aplicação de Automação Robótica de Processos em uma Empresa Têxtil  
 
 ## Atendimento Termo
 
