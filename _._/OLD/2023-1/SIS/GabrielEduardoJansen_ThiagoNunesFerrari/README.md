@@ -19,7 +19,9 @@ Pedi para melhorar:
 - aluno disse que tinha um conhecido que conhecia alguém da FURB.  
 - envia Whats para Ana Paula Zonta
 Oi, tenho um TCC do SIS (em Dupla) que eles querem fazer aplicado para um sistema de Gestão de Eventos. Bom, estamos procurando uma pessoa para ser o supervisor ... uma pessoa que conheça ao dia-a-dia da organização/divulgação de eventos.
-Saberias indicar alguém aqui da FURB ... ou até mesmo você.
+Saberias indicar alguém aqui da FURB ... ou até mesmo você.  
+
+![ContatoFurbEventos_AnaPaulaZonta](ContatoFurbEventos_AnaPaulaZonta.png)  
 
 ## Atendimento Pré-Projeto
 
