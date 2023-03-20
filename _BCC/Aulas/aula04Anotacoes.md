@@ -22,7 +22,7 @@
 - Alguns objetivos específicos "devem" ser requisitos e não objetivos.  
 - Recomendações de Engenharia e Analise de Software.  
 
-Para relembrar um pouco sobre o assunto de **requisitos** olhem os slides [Requisitos.pdf](../Consulta/Requisitos.pdf)
+Para relembrar um pouco sobre o assunto de **requisitos** olhem os slides [Requisitos.pdf](../Consulta/Requisitos.pdf)  
 
 #### Metodologia
 
