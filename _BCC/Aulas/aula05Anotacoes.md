@@ -75,7 +75,7 @@ automaticamente](https://youtu.be/MiMcBOh6zVw)
 
 ----------
 
-### ⏭ [Aula 10](./aula09AnotacoesBCC.md "Aula 10")  
+### ⏭ [Aula 09](./aula09AnotacoesBCC.md "Aula 09")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  
