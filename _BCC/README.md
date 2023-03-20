@@ -32,6 +32,7 @@ Se vocês receberem as revisão do pré-projeto feita pelo seu orientador, e for
 
 ## Termo de autorização de uso de imagem
 
+<!--[FIXME: o link para acessar o termo de uso de imagem está pedindo permissão de acesso.] -->
 Para os trabalhos que tenham fotografias de locais ou objetivos
 privativos, recomendamos a utilização do [Termo de Autorização
 de Uso de Imagem](https://furb.sharepoint.com/:w:/r/biblioteca/Documentos%20secretaria/Termos%20e%20Normas%20ABNT/Termo%20de%20autoriza%C3%A7%C3%A3o%20de%20uso%20de%20imagem.doc?d=w3aba956a8ae8476184d9ee5d3756a2a4&csf=1&web=1&e=uzYM1f). Esse documento não é entregue para a
@@ -51,3 +52,7 @@ legal.
 ## Material
 
 [Material de apoio](./Material "Material de Apoio")  
+
+## Consulta
+
+[Material de consulta](./Consulta/ "Material de consulta")  
