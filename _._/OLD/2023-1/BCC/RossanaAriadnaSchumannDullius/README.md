@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Rossana Ariadna Schumann Dullius  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Projeções de Matrículas para o Ensino Médio Utilizando Séries Temporais  
 
 ## Atendimento Termo
 
@@ -20,6 +20,8 @@ Indiquei o site dos TCCs para olhar o que o Aurelio já produziu.
 Detecção de trajetória de bolas no esporte.  
 Controle de trânsito com semáforos. -> problemas de dados reais, -> Poderiam simular.  
 Visão para robôs.  
+
+[BCC_TermoCompromisso](BCC_TermoCompromisso.pdf)  
 
 ## Atendimento Pré-Projeto
 
