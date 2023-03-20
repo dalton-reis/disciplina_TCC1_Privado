@@ -8,8 +8,8 @@
 
 ## Erros de redação
 
-\[SIS]\[ ] [Exemplo_RedacaoAntes.pdf](../Material/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
-\[SIS]\[ ] [Exemplo_RedacaoDepois.pdf](../Material/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
+[Exemplo_RedacaoAntes.pdf](../Consulta/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
+[Exemplo_RedacaoDepois.pdf](../Consulta/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
 
 ## Termos Estrangeiros
 
@@ -75,7 +75,7 @@ automaticamente](https://youtu.be/MiMcBOh6zVw)
 
 ----------
 
-### ⏭ [Aula 10](./aula13Anotacoes.md "Aula 10")  
+### ⏭ [Aula 13](./aula13Anotacoes.md "Aula 13")  
 
 <!--
 [FIXME: arrumar as fontes bibliográficas]  

@@ -22,6 +22,8 @@
 - Alguns objetivos específicos "devem" ser requisitos e não objetivos.  
 - Recomendações de Engenharia e Analise de Software.  
 
+Para relembrar um pouco sobre o assunto de **requisitos** olhem os slides [Requisitos.pdf](../Consulta/Requisitos.pdf)  
+
 #### Metodologia
 
 - Métodos  
@@ -60,13 +62,11 @@
 
 ### Fichas de Avaliação
 
+Não usar, só para conhecimento ...  
+
 - Professor de TCC1  
 - Professor Avaliador  
 - [Fichas](../Consulta/Fichas)  
-
-Não usar, só para conhecimento ...  
-
-- \[SIS]\[ ] [Arquivos das fichas de avaliação](../Material/Fichas "Arquivos das fichas de avaliação")  
 
 ----------
 
