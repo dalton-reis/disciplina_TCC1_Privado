@@ -38,6 +38,12 @@ Título está muito geral .. Especifica mais "Química"
 Percentual estimado:  
 Comentários:  
 
+## 2023-03-20 - 21:24
+
+Está na FURB nas terças, quartas e quintas.  
+Passei o EMail do Martinho.  
+[EMail_Martinho.pdf](EMail_Martinho.pdf)  
+
 ## Atendimento Projeto
 
 Percentual estimado:  
