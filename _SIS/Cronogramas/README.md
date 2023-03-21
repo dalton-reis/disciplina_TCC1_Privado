@@ -57,20 +57,20 @@ Dia da semana: Terças (18:30\~22:00)
   
 - **Entrega do Termo de Compromisso de TCC**  
 - [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
-- [aula03Slides](../Aulas/aula03Slides.pdf “aula03Slides")  
+- [aula03Slides](../Aulas/aula03Slides.pdf "aula03Slides")  
 - Pré-Projeto - Formulação  
   
 ### Aula_04 21-03-2023  ( terça-feira )  
   
 <!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->  
 - [aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
-- [aula04Slides](../Aulas/aula04Slides.pdf “aula04Slides")  
+- [aula04Slides](../Aulas/aula04Slides.pdf "aula04Slides")  
 - Pré-Projeto - Formulação  
   
 ### Aula_05 28-03-2023  ( terça-feira )  
   
 <!-- \[AVISO] banca BCC -->  
-- [aula05Anotacoes](../Aulas/aula05Anotacoes.md “aula05Anotacoes")  
+- [aula05Anotacoes](../Aulas/aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
   
 ### Aula_06 04-04-2023  ( terça-feira )  
@@ -93,7 +93,7 @@ Dia da semana: Terças (18:30\~22:00)
 ### Aula_09 25-04-2023  ( terça-feira )  
   
 - **Entrega do Pré-Projeto (SIS)**  
-- [aula09AnotacoesSIS](../Aulas/aula09AnotacoesSIS.md "aula09AnotacoesSIS")  
+- Pré-Projeto - Atendimento Individual  
   
 ### Aula_10 02-05-2023  ( terça-feira )  
   
@@ -114,7 +114,7 @@ Dia da semana: Terças (18:30\~22:00)
   
 ### Aula_13 23-05-2023  ( terça-feira )  
   
-- [aula13Anotacoes](../Aulas/aula13Anotacoes.md “aula13Anotacoes")  
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
 - Análise do Pré-Projeto  
   
 ### Aula_14 30-05-2023  ( terça-feira )  
