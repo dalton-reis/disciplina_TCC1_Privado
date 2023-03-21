@@ -30,6 +30,10 @@ Encriptação Zk-Snark
 Gilvan  
 Passei o e-mail, passei horários dele na FURB das aulas.  
 
+## 2023-03-20 - 21:43
+
+![2023-03-20_MSTeams](2023-03-20_MSTeams.png)  
+
 ## Atendimento Pré-Projeto
 
 Percentual estimado:  
