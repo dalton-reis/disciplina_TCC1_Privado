@@ -6,23 +6,12 @@
 
 [aula04Slides.pdf](aula04Slides.pdf "aula04Slides.pdf")  
 
-### Proposta
-
-- sempre no inicio de uma nova seção ter um texto de preâmbulo.  
-
-#### Justificativa
+### Justificativa
 
 - Escrever porque o ter trabalho é importante?  
   - Qual o diferencial? Porque é importante do ponto de vista computacional.  
 - Aqui pode colocar as contribuições.  
 - Quadro comparativo.  
-
-#### Requisitos
-
-- Alguns objetivos específicos "devem" ser requisitos e não objetivos.  
-- Recomendações de Engenharia e Analise de Software.  
-
-Para relembrar um pouco sobre o assunto de **requisitos** olhem os slides [Requisitos.pdf](../Consulta/Requisitos.pdf)  
 
 #### Metodologia
 

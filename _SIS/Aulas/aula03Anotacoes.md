@@ -14,18 +14,16 @@
 
 Bom, não existe uma sequência única para seguir na descrição do Pré-Projeto. Algumas vezes o próprio orientador sugere uma sequência, então consulte ele. Mas o mais importante é começar a pesquisar, ler, se apropriar do conteúdo e escrever. Eu particularmente indico está sequência:
 
-- [Continuação TCC - se existir](#continuação-tcc "Continuação TCC - se existir")  
-- [Trabalhos Correlatos](#trabalhos-correlatos "Trabalhos Correlatos")  
-- [Justificativa](./aula04Anotacoes.md#justificativa "Justificativa")  
+- [Contextualização](#contextualização "Contextualização")  
 - [Objetivos](#objetivo "Objetivos")  
-- [Requisitos](./aula04Anotacoes.md#requisitos "Requisitos")  
+- [Bases Teóricas](#bases-teóricas "Bases Teóricas")  
+- [Justificativa](./aula04Anotacoes.md#justificativa "Justificativa")  
 - [Metodologia](./aula04Anotacoes.md#metodologia "Metodologia")  
-- [Introdução](#introdução "Introdução")  
 - [Revisão Bibliográfica](./aula04Anotacoes.md#revisão-bibliográfica "Revisão Bibliográfica")  
 
 Já as [Referências](./aula04Anotacoes.md#referências "Referências") é bom não deixar por último. Já ir fazendo enquanto vai se usando o material em si que se quer referenciar no texto. Sim, formatar as citações no texto e [Referências](./aula04Anotacoes.md#referências "Referências") não é algo fácil de se fazer. Mas é um "mal necessário", pois as normas da ABNT exige que se use o padrão definido.
 
-### Introdução
+### Contextualização
 
 - 1 página - máximo 1 página e meia  
 - Começar e apontar para o problema  
@@ -47,13 +45,9 @@ Já as [Referências](./aula04Anotacoes.md#referências "Referências") é bom n
 - Pode ser relacionado aos requisitos (1, 2, mas não todos)
 - Tem que pensar aonde que vocês querem chegar com o software e não nas funções que ele vai ter. As funções são requisitos.
 
-### Continuação TCC
+## Bases Teóricas
 
-Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a mais antes da seção dos trabalhos correlatos.
-[Ver Exemplo](../Exemplos/PreProjeto_MuriloBartel.pdf "Ver Exemplo")  
-### Trabalhos Correlatos
-
-- SIS - descrição do sistema atual  
+Busca por bases teóricas qeu possam sustentar o projeto proposto.  
 
 ## Exemplos de Pré-Projetos
 
