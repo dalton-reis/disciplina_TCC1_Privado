@@ -22,7 +22,7 @@
 - Tenha uma conversa inicial com o orientador e descreva o que pretende fazer.  
 - Tente definir o escopo da sua pesquisa. Quais seriam as palavras chaves de pesquisa?  
 - Sim, pode usar textos em outros idiomas (inglês). Só nas citações diretas se usa "tradução nossa".  
-- Cada um pode adotar uma sequência de produção própria. O importante é começar. As vezes o orientador sugere uma sequência. Eu recomendo a sequência ser: Trabalhos Correlatos, Justificativa, Objetivos, Requisitos, Metodologia, Introdução e Revisão.  
+- Cada um pode adotar uma sequência de produção própria. O importante é começar. As vezes o orientador sugere uma sequência. Eu recomendo a sequência ser: Correlatos, Revisão Bibliográfica, Justificativa, Objetivos, Contextualização e Metodologia.  
 
 ## Diagnóstico sobre orientações
 

@@ -17,10 +17,6 @@
 
 - Métodos  
   - Tem os itens mínimos, mas pode incrementar.  
-- Cronograma  
-  - fev - jun (só primeira quinzena)  
-  - ago - dez (só primeira quinzena)  
-  - maio não é abreviado  
 
 ### Revisão Bibliográfica
 
