@@ -42,6 +42,24 @@ Projeto na FURB: <https://www.furb.br/pt/noticias/te-orienta-no-transito-inicia-
 Percentual estimado:  
 Comentários:  
 
+## 2023-03-22 - 14:46
+
+Reunião com:  
+
+- Jornalismo: Clarissa Josgrilberg Pereira  
+- Diretora do CCEAL: Ana  
+- PRF: Rafael (não veio)  
+
+Dalton:  
+
+- [ ] passar o artigo do TCC do Buzzi sobre trânsito  
+- [ ] enviar o APP feito fora da FURB da situação de enchente  
+- [ ] Emprestar temporariamente um HMD para Clarissa  
+
+Clarissa:
+
+- [ ] enviar material instrucional do projeto deles. Tem dados sobre ocorrências de acidentes perto das escolas.  
+
 ## Atendimento Projeto
 
 Percentual estimado:  
