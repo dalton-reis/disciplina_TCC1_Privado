@@ -6,7 +6,7 @@ Título:
 
 ## Atendimento Termo
 
-Orientador:  
+Orientador:   
 Assunto:  
 Comentários:  
 
@@ -14,6 +14,10 @@ Comentários:
 
 Muito atrasado. Vai conversar com o Aurélio.  
 Enviei alerta no Teams.  
+
+## 2023-03-21 - 21:40
+
+Escrevendo o Termo mas precisa confirmar se o Aurélio vai realmente orientar.
 
 ## Atendimento Pré-Projeto
 

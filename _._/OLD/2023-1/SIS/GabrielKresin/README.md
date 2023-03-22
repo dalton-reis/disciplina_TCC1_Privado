@@ -19,6 +19,11 @@ Cardoso já aceitou ser orientador.
 Estava com dificuldade em achar um Mentor.  
 Expliquei o papel de um Mentor. Disse que conhece alguém da "bolha" dele de jogos de RPG.  
 
+## 2023-03-21 - 21:42
+
+Achou um mentor que fora da FURB que conhece jogos RPG.  
+Disse que já enviou o termo para o Cardoso.  
+
 ## Atendimento Pré-Projeto
 
 Percentual estimado:  
