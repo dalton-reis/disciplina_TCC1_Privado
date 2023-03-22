@@ -23,6 +23,10 @@ Saberias indicar alguém aqui da FURB ... ou até mesmo você.
 
 ![ContatoFurbEventos_AnaPaulaZonta](ContatoFurbEventos_AnaPaulaZonta.png)  
 
+## 2023-03-21 - 20:36
+
+Viu a msg do Whats hoje. Vai entrar em contato e refazer o Termo para me enviar.  
+
 ## Atendimento Pré-Projeto
 
 Percentual estimado:  
