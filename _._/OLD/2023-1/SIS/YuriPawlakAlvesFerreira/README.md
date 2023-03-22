@@ -10,7 +10,7 @@ Orientador: Simone
 Assunto:  
 Comentários:  
 Dropchip: setor de mineração do produto.  
-Inovação: Mentor??  
+Inovação: Mentor?? Alex  
 
 [SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)
 
