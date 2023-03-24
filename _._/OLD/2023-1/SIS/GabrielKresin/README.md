@@ -2,7 +2,7 @@
 
 Orientando: Gabriel Kresin  
 Orientador: Cardoso  
-Título: 
+Título: Aplicativo para Criação de Grupos e Agendamentos de Sessões de RPG (Party Finder)  
 
 ## Atendimento Termo
 
