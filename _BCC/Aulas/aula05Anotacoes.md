@@ -20,8 +20,6 @@ Existe algumas exceções que são:
 
 ## Normas ABNT: citações e referências
 
-<!-- \[AVISO] aviso Link Web - norma ABNT: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85687425 -->
-
 Basicamente se usam apenas três normas: a NBR 10520:2002, que trata da citação; a NBR 6023:2018, que aborda a forma correta de fazer referências; e a NBR 14724:2011, de trata da estrutura do
 trabalho.
 
@@ -41,8 +39,10 @@ Com o Mendeley você organiza suas leituras (tanto PDFs quanto materiais impress
 O Zotero é um programa similar ao Mendeley, com a diferença de ser disponibilizado também em português. Faça o download no [link](https://www.zotero.org/).  
 
 - [Como fazer Ilustrações e Tabelas](../Consulta/FurbBc/IlustracoesTabelas.pdf)  
-- [Como fazer Citações](../Consulta/FurbBc/Citacoes.pdf)  
-- [Como fazer Referências](../Consulta/FurbBc/Referencias.pdf)  
+- [Como fazer Referências - BC](../Consulta/FurbBc/Referencias.pdf)  
+- [Como fazer Referências](../Consulta/FurbBc/_ComoFazer_ReferenciasBibliograficas.pdf)  
+- [Como fazer Citações - BC](../Consulta/FurbBc/Citacoes.pdf)  
+- [Como fazer Citações](../Consulta/FurbBc/_ComoFazer_Citacoes.pdf)  
 
 Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=Link.>  
 
@@ -53,11 +53,11 @@ Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=
 ## Dicas do uso do Editor MS-Word
 
 - Formatação: estilos, inserir legenda e referência cruzada  
+  
 - [Utilizando os estilos do Word](https://youtu.be/3xOVEnupJAA)  
 - [Como fazer a paginação e utilizar os marcadores de formatação do Word](https://youtu.be/IXWbZ4VsbF8)  
 - [Como fazer o Sumário automaticamente](https://youtu.be/MXCA96UAouA)  
-- [Como inserir ilustrações e tabelas no trabalho e gerar as listas
-automaticamente](https://youtu.be/MiMcBOh6zVw)  
+- [Como inserir ilustrações e tabelas no trabalho e gerar as listas automaticamente](https://youtu.be/MiMcBOh6zVw)  
 
 ## Pré-Projeto - Formulação  
 
