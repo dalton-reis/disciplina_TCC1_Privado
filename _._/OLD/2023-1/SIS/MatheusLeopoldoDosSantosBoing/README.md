@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Matheus Leopoldo dos Santos Boing  
-Orientador:  
-Título:  
+Orientador: Aurélio  
+Título: Modelo de Aprendizado de Máquina para Estabelecer a Eficiência de Serviços Municipais  
 
 ## Atendimento Termo
 
