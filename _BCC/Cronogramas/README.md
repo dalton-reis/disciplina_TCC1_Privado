@@ -3,7 +3,7 @@
 Local:  Remoto (MS-Teams)  
 Dia da semana: Segundas (18:30\~22:00)  
 
-<!-- [ ] Aviso: Inicio das aulas <> -->  
+<!-- [x] Aviso: Inicio das aulas <> -->  
 
 ## Eventos  
 
