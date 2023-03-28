@@ -3,7 +3,7 @@
 Local:  Remoto (MS-Teams)  
 Dia da semana: Terças (18:30\~22:00)  
 
-<!-- [ ] Aviso: Inicio das aulas <> -->  
+<!-- [x] Aviso: Inicio das aulas <> -->  
 
 ## Eventos  
 
@@ -62,7 +62,7 @@ Dia da semana: Terças (18:30\~22:00)
   
 ### Aula_04 21-03-2023  ( terça-feira )  
   
-<!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->  
+<!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-88657500 -->  
 - [aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
 - [aula04Slides](../Aulas/aula04Slides.pdf "aula04Slides")  
 - Pré-Projeto - Formulação  
