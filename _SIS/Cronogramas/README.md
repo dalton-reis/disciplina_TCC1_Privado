@@ -82,13 +82,31 @@ Dia da semana: Terças (18:30\~22:00)
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
 
-  - [ ]  
+- [ ] Ana Maria Maurizio  
+- [ ] Gabriel Eduardo Jansen  
+- [ ] Amanda Detofol Constante  
+- [ ] Barbara Alessandra Maas  
+- [ ] Gustavo Mandel  
+- [ ] Carlos Augusto Schultz Medina  
+- [ ] Karoline Custodio Dos Santos  
+- [ ] Bruno Henrique Wiedemann Reis  
+- [ ] Stephani Silvia Zatta  
+- [ ] Mateus Fernando Spengler  
 
 ### Aula_08 18-04-2023  ( terça-feira )  
   
 - Pré-Projeto - Atendimento Individual  
 
-  - [ ]  
+- [ ] Bruna Schroeder  
+- [ ] Amanda Miranda Zanella  
+- [ ] Iago Giuseppe Tambosi  
+- [ ] Thiago Nunes Ferrari  
+- [ ] Brenda Louise Bernat  
+- [ ] Matheus Leopoldo dos Santos Boing  
+- [ ] Lucas Miguel Vieira  
+- [ ] Luís Eduardo Bonatti  
+- [ ] Yuri Pawlak Alves Ferreira  
+- [ ] Guilherme Weingaertner  
 
 ### Aula_09 25-04-2023  ( terça-feira )  
   
