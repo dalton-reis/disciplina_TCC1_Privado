@@ -2,7 +2,7 @@
 
 Orientando: Ana Maria Maurizio / Stephani Silvia Zatta  
 Orientador: Valdameri  
-<!-- [FIXME: sugerir mudar o título e corrigi erro de escrita] -->
+<!-- TODO: sugerir mudar o título e corrigi erro de escrita] -->
 Título: Orthodoc: Sistema de Gestão de Suprimentos Cirúrgicos
 
 ## Atendimento Termo

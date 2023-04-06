@@ -24,7 +24,7 @@ O formato do estilo para a **fonte** está errado pois não segue as normas da A
 
 ## Usar estilo: TF-CITAÇÃO
 
-<!-- [TODO: não tem um exemplo de citação direta no texto do modelo -->
+<!-- TODO: não tem um exemplo de citação direta no texto do modelo -->
 Quando se usa uma citação direta (transcrição literal) do autor, e a citação for um texto com mais de 3 linhas, se deve usar o estilo **TF-CITAÇÃO** disponível no modelo do projeto em: [Material](../Material "Material").  
 
 ## Usar estilo: TF-ALÍNEA
