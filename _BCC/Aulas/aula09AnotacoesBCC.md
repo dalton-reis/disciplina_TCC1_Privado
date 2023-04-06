@@ -52,6 +52,6 @@ Bom, em caso de dúvidas me enviem pelo chat do MS-Teams.
 ## ⏭ [Aula 13](aula13Anotacoes.md "Aula 13")  
 
 <!--
-[FIXME: arrumar as fontes bibliográficas]  
+TODO: arrumar as fontes bibliográficas  
 ## Principais Referências Bibliográficas​
 -->

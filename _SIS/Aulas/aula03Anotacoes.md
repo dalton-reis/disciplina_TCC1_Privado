@@ -60,6 +60,6 @@ Busca por bases teóricas qeu possam sustentar o projeto proposto.
 ## ⏭ [Aula 04](./aula04Anotacoes.md "Aula 04")  
 
 <!--
-[FIXME: arrumar as fontes bibliográficas]  
+TODO: arrumar as fontes bibliográficas]  
 ## Principais Referências Bibliográficas​
 -->

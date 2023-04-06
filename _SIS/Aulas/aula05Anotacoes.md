@@ -92,6 +92,6 @@ Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=
 ### ⏭ [Aula 09](./aula09AnotacoesBCC.md "Aula 09")  
 
 <!--
-[FIXME: arrumar as fontes bibliográficas]  
+TODO: arrumar as fontes bibliográficas]  
 ## Principais Referências Bibliográficas​
 -->

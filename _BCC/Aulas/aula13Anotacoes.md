@@ -16,6 +16,6 @@ Usar (anexar no final do projeto) somente se tiver alguma observação a ser fei
 ## ⏭ [Voltar](../README.md "Voltar")  
 
 <!--
-[FIXME: arrumar as fontes bibliográficas]  
+TODO: arrumar as fontes bibliográficas  
 ## Principais Referências Bibliográficas​
 -->

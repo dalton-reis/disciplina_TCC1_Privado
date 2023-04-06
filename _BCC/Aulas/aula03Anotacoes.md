@@ -50,7 +50,7 @@ Já as [Referências](./aula04Anotacoes.md#referências "Referências") é bom n
 ### Continuação TCC
 
 Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a mais antes da seção dos trabalhos correlatos.
-<!-- [FIXME: [Ver Exemplo](../Exemplos/SIS/PreProjeto_MuriloBartel.pdf "Ver Exemplo") -->  
+<!-- FIXME: [Ver Exemplo](../Exemplos/SIS/PreProjeto_MuriloBartel.pdf "Ver Exemplo") -->  
 
 ### Trabalhos Correlatos
 
@@ -67,6 +67,6 @@ Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a ma
 ## ⏭ [Aula 04](./aula04Anotacoes.md "Aula 04")  
 
 <!--
-[FIXME: arrumar as fontes bibliográficas]  
+TODO: arrumar as fontes bibliográficas]  
 ## Principais Referências Bibliográficas​
 -->
