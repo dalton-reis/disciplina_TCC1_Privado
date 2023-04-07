@@ -4,6 +4,19 @@ Orientando: Guilherme Fibrantz
 Orientador: Dalton  
 Título: Jogo de Conscientização no Trânsito Utilizando a Realidade Virtual Imersiva  
 
+## GitHub Orientando
+
+GuilhermeFibrantz
+
+gh repo create tcc_GuilhermeFibrantz --private --template=https://github.com/dalton-reis/tcc__modelo
+cd /Users/daltonreis/GitHub/TCC
+gh repo clone https://github.com/dalton-reis/tcc_GuilhermeFibrantz.git
+cd tcc_GuilhermeFibrantz/_dalton
+gh repo sync
+ln -s /Users/daltonreis/GitHub/disciplinas/TCC1/disciplinaTCC1Privado/_._/OLD/2023-1/BCC/GuilhermeFibrantz TCC1
+cd ~
+
+
 ## Atendimento Termo
 
 Orientador:  

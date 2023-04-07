@@ -5,6 +5,19 @@ Orientador: Dalton
 Título: Realidade Aumentada Aplicada ao Ensino: Ligações Químicas em um Ambiente Virtual Interativo  
 Anotações: <https://miro.com/app/board/uXjVPhuV1tk=/>
 
+## GitHub Orientando
+
+GiancarloCavalli
+
+gh repo create tcc_GiancarloCavalli --private --template=https://github.com/dalton-reis/tcc__modelo
+cd /Users/daltonreis/GitHub/TCC
+gh repo clone https://github.com/dalton-reis/tcc_GiancarloCavalli.git
+cd tcc_GiancarloCavalli/_dalton
+gh repo sync
+ln -s /Users/daltonreis/GitHub/disciplinas/TCC1/disciplinaTCC1Privado/_._/OLD/2023-1/BCC/GiancarloCavalli TCC1
+cd ~
+
+
 ## Atendimento Termo
 
 Orientador:  
