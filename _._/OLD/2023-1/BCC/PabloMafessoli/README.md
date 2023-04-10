@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Pablo Mafessoli  
-Orientador:   
-Título:  
+Orientador: Andreza  
+Título: Aplicativo para Auxílio em Resgate de Animais Silvestres
 
 ## Atendimento Termo
 
