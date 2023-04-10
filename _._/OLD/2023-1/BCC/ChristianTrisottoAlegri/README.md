@@ -1,8 +1,8 @@
 # Anotações das Reuniões
 
 Orientando: Christian Trisotto Alegri  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Sistemas Multiagentes Aplicado a Futebol de Robôs  
 
 ## Atendimento Termo
 
