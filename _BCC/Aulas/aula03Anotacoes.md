@@ -50,7 +50,7 @@ Já as [Referências](./aula04Anotacoes.md#referências "Referências") é bom n
 ### Continuação TCC
 
 Caso o seu TCC seja uma continuação de um TCC anterior se tem uma seção a mais antes da seção dos trabalhos correlatos.
-<!-- FIXME: [Ver Exemplo](../Exemplos/SIS/PreProjeto_MuriloBartel.pdf "Ver Exemplo") -->  
+[Ver Exemplo](../../../disciplinaTCC1bcc/Exemplos/tcc_bcc_2022_1_MatheusSoaresLima-PR.pdf)  
 
 ### Trabalhos Correlatos
 

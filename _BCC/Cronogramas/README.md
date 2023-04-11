@@ -96,13 +96,13 @@ Dia da semana: Segundas (18:30\~22:00)
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
 
-  - [ ] Thomas Michels Rodrigues  
-  - [ ] Giancarlo Cavalli  
-  - [ ] Bruno Ricardo Junkes  
-  - [ ] Gustavo Felipe Soares  
-  - [ ] Igor Christofer Eisenhut  
-  - [ ] Rossana Ariadna Schumann Dullius  
-  - [ ] Camila Carolina Bowens  
+  - [x] Thomas Michels Rodrigues  
+  - [x] Giancarlo Cavalli  
+  - [x] Bruno Ricardo Junkes  
+  - [x] Gustavo Felipe Soares  
+  - [x] Igor Christofer Eisenhut  
+  - [x] Rossana Ariadna Schumann Dullius  
+  - [x] Camila Carolina Bowens  
 
 ### Aula_08 17-04-2023  ( segunda-feira )  
   
