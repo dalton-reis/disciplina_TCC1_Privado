@@ -25,8 +25,8 @@ Visão para robôs.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 45%  
+Comentários: Descreveu os trabalhos correlatos e orientador olhou. Está fazendo o quadro dos correlatos. Pedi uma atenção para o formato das tabelas e figuras. Pegou e deu um print da imagem no artigo original e trouxe para o texto. Mas precisa ter a sua própria descrição de legenda/fonte e cuidar com as bordas. As tabelas não tem as bordas esq/dir.    
 
 ## Atendimento Projeto
 

@@ -14,8 +14,10 @@ Comentários: disse que o Aurélio gostou do assunto "Grafos"
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-10 - 19:34
+
+Percentual estimado: 40%  
+Comentários: Descreveu os trabalhos correlatos e o quadro. Orientador revisou o correlato 1.  
 
 ## Atendimento Projeto
 

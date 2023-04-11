@@ -2,7 +2,7 @@
 
 Orientando: Thomas Michels Rodrigues  
 Orientador: Aurelio  
-Título: Análise do Mercado Imobiliário: Influência e Impacto dos Fatores Regionais    
+Título: Análise do Mercado Imobiliário: Influência e Impacto dos Fatores Regionais  
 
 ## Atendimento Termo
 
@@ -19,8 +19,10 @@ Comentários: ainda está indeciso entre estes assuntos.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-10 - 18:55
+
+Percentual estimado: 40%  
+Comentários: precisa interagir mais com o orientador. Já descreveu a Introdução, Objetivos, Correlatos e o Quadro dos Correlatos.  
 
 ## Atendimento Projeto
 

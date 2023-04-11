@@ -15,8 +15,10 @@ Reconhecimento se uma cobra é peçonhenta ou não.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-10 - 19:49
+
+Percentual estimado: ?  
+Comentários: MS-Teams "Oi Camila Carolina Bowens, te chamei para ver como está a descrição do Pré-projeto. Bom, preciso saber como está o desenvolvimento."  
 
 ## Atendimento Projeto
 
