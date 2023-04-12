@@ -21,8 +21,11 @@ Criar um site para de acordo com o gosto e recursos do usuário poder indicar um
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-11 - 19:58
+
+Percentual estimado: 15%  
+Comentários: Fez um pouco da contextualização (me parece que precisa de citações e tem parágrafos curtos). Ainda não mostrou para o orientador. Já tem definido os assuntos da Revisão Bibliográfica.  
+**Aconselhei fortemente** ajustar o cronograma.  
 
 ## Atendimento Projeto
 

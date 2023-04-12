@@ -10,14 +10,14 @@ Orientador: Simone
 Assunto:  
 Comentários:  
 Gestor de Estoque de Loja Varejista.  
-Aplicado: mãe  
+Aplicado: familia  
 
 [SIS_TermoCompromisso](SIS_TermoCompromisso.pdf)  
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 60%  
+Comentários: falta metodologia e referências bibliográficas. Já tem uma revisão da orientadora.  
 
 ## Atendimento Projeto
 

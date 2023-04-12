@@ -18,8 +18,10 @@ Comentários:
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-11 - 19:00
+
+Percentual estimado: 85%  
+Comentários: j;a se tem todas as seções descritas e me parece bem estruturadas. Falta ainad a revisão do orientador. Aconselhei qeu assim que tiverem a versão final de já enviarem para o orientador fazer a entrega.    
 
 ## Atendimento Projeto
 

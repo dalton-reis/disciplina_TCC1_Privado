@@ -27,8 +27,10 @@ Plano A: pessoa indicada que trabalha em 3 empresas mas mora em Bun. Pode ser a 
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-11 - 19:42
+
+Percentual estimado: 65%  
+Comentários: Estão terminando a seção da metodologia e as referências bibliográficas. Já passaram para a orientadora revisar. Pediram e tiveram a ajuda da bibliotecária da FURB por um atendimento remoto.  
 
 ## Atendimento Projeto
 

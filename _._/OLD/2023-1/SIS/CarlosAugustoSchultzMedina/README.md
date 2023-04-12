@@ -19,8 +19,10 @@ Respondeu no Teams que a Andreza ia enviar o Termo.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-11 - 20:02
+
+Percentual estimado: 95%  
+Comentários: esperando a revisão final da orientadora para entregar. Disse que assim que tiver finalizado pode encaminhar para orientadora fazer a entrega.   
 
 ## Atendimento Projeto
 

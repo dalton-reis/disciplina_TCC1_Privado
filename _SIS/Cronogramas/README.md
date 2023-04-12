@@ -82,13 +82,13 @@ Dia da semana: Terças (18:30\~22:00)
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
 
-- [ ] Ana Maria Maurizio / Stephani Silvia Zatta  
-- [ ] Gabriel Eduardo Jansen / Thiago Nunes Ferrari  
-- [ ] Amanda Detofol Constante  
-- [ ] Barbara Alessandra Maas / Bruno Henrique Wiedemann Reis  
-- [ ] Gustavo Mandel  
-- [ ] Carlos Augusto Schultz Medina  
-- [ ] Karoline Custodio Dos Santos  
+- [x] Ana Maria Maurizio / Stephani Silvia Zatta  
+- [x] Gabriel Eduardo Jansen / Thiago Nunes Ferrari  
+- [x] Amanda Detofol Constante  
+- [x] Barbara Alessandra Maas / Bruno Henrique Wiedemann Reis  
+- [x] Gustavo Mandel  
+- [x] Carlos Augusto Schultz Medina  
+- [x] Karoline Custodio Dos Santos  
 - [ ] Luís Eduardo Bonatti / Mateus Fernando Spengler  
 
 ### Aula_08 18-04-2023  ( terça-feira )  

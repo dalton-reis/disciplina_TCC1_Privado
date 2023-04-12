@@ -29,8 +29,10 @@ Viu a msg do Whats hoje. Vai entrar em contato e refazer o Termo para me enviar.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-11 - 19:23
+
+Percentual estimado: 60%  
+Comentários: falta seção de Metodologia e Referências. Conversaram com a supervisora e falta trazer o conteúdo conversado para a Contextualização. Orientadora revisou e estão fazendo os ajustes.  
 
 ## Atendimento Projeto
 

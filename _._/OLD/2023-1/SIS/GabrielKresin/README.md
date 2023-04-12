@@ -26,6 +26,7 @@ Disse que já enviou o termo para o Cardoso.
 
 ## Atendimento Pré-Projeto
 
+**Matricula NÃO efetivada**
 Percentual estimado:  
 Comentários:  
 

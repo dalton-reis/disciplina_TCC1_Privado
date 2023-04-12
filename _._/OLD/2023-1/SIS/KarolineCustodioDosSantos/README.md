@@ -16,8 +16,14 @@ Aplicado:  no restaurante da mãe.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-11 - 20:49
+
+Percentual estimado: 45%  
+Comentários: Fez pedaços das seções e já tem uma revisão do orientador. Tem de cuida com oss "apud"s. Está com problemas no estilo dos títulos pois não aparece a numeração.  
+
+## 2023-04-11 - 21:17
+
+Arrumei o erro nos números dos títulos.  
 
 ## Atendimento Projeto
 
