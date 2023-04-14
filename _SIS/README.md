@@ -30,6 +30,10 @@ Consulta a palavras em português e se são termos estrangeiros: [Termos Estrang
 
 Se vocês receberem as revisão do pré-projeto feita pelo seu orientador, e for em um arquivo PDF, cuidem para abrir o arquivo PDF num leitor de PDF e não somente no navegador (Chrome, Safari etc.). Pois se abrirem direto no navegador vocês verão o texto "riscado" (frisado) mas não verão as anotações. Então usem um leitor de PDF instalado localmente no seu PC.  
 
+## Aulas Remotas
+
+As aulas serão gravadas, mas aconselho **fortemente** assistirem e prestarem atenção, pois o conteúdo passado serve para ajudar o desenvolvimento do projeto. Estar só conectado ao MS-Teams na aula não é estar participando do conteúdo.
+
 ## Termo de autorização de uso de imagem
 
 <!--[FIXME: o link para acessar o termo de uso de imagem está pedindo permissão de acesso.] -->

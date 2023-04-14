@@ -89,7 +89,7 @@ Dia da semana: Terças (18:30\~22:00)
 - [x] Gustavo Mandel  
 - [x] Carlos Augusto Schultz Medina  
 - [x] Karoline Custodio Dos Santos  
-- [ ] Luís Eduardo Bonatti / Mateus Fernando Spengler  
+- [x] Luís Eduardo Bonatti / Mateus Fernando Spengler  
 
 ### Aula_08 18-04-2023  ( terça-feira )  
   
