@@ -52,9 +52,6 @@ Projeto na FURB: <https://www.furb.br/pt/noticias/te-orienta-no-transito-inicia-
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
-
 ## 2023-03-22 - 14:46
 
 Reunião com:  
@@ -72,6 +69,11 @@ Dalton:
 Clarissa:
 
 - [ ] enviar material instrucional do projeto deles. Tem dados sobre ocorrências de acidentes perto das escolas.  
+
+### 2023-04-17 - 19:57
+
+Percentual estimado: 80%  
+Comentários: orientador j;a revisou metade do texto. Está terminando o texto e vai enviar para revisão do texto inteiro.  
 
 ## Atendimento Projeto
 

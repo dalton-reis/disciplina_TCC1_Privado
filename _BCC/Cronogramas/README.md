@@ -108,13 +108,13 @@ Dia da semana: Segundas (18:30\~22:00)
   
 - Pré-Projeto - Atendimento Individual  
 
-  - [ ] Everton Luiz Piccoli  
-  - [ ] Guilherme Fibrantz  
-  - [ ] Eduarda Engels  
-  - [ ] Nathan Reikdal Cervieri  
-  - [ ] Jeferson Bonecher  
-  - [ ] Pablo Mafessoli  
-  - [ ] Christian Trisotto Alegri  
+  - [x] Everton Luiz Piccoli  
+  - [x] Eduarda Engels  
+  - [x] Guilherme Fibrantz  
+  - [x] Nathan Reikdal Cervieri  
+  - [x] Jeferson Bonecher  
+  - [x] Pablo Mafessoli  
+  - [x] Christian Trisotto Alegri  
 
 ### Aula_09 24-04-2023  ( segunda-feira )  
   

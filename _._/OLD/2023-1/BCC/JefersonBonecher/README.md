@@ -22,6 +22,13 @@ Inicio em 2022/2 mas desistiu.
 
 ## Atendimento Pré-Projeto
 
+### 2023-04-17 - 20:08
+
+**ATENÇÃO**: não consegui conversar.  
+URGENT!  
+Oi Jeferson Bonecher, tentei te chamar para ver o andamento do pré-projeto e não consegui.  
+Poderias me enviar o seu pré-projeto para eu dar uma olhada como está o seu desenvolvimento.  
+
 Percentual estimado:  
 Comentários:  
 

@@ -14,8 +14,10 @@ Comentários: está fazendo Levantamento de Referências sobre o assunto
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-17 - 19:43
+
+Percentual estimado: 35%  
+Comentários: fez dois correlatos mas talvez irão mudar para outros. Esta conversando com orientador. Disse que se estiverem produzindo e for preciso mudar os correlatos se pode prorrogar o prazo de entrega.  
 
 ## Atendimento Projeto
 

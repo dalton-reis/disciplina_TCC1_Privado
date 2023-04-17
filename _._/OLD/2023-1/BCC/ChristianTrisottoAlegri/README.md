@@ -36,8 +36,10 @@ Passei o e-mail, passei horários dele na FURB das aulas.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-17 - 20:30
+
+Percentual estimado: 5%  
+Comentários: demorou para achar um tema/orientador. Tem uns pedaços de texto dos correlatos fora do padrão da ABNT. Aconselhei continuar produzindo, mas está com o cronograma muito atrasado.  
 
 ## Atendimento Projeto
 

@@ -14,8 +14,10 @@ Comentários: parou de estudar por um tempo e voltou
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-17 - 19:13
+
+Percentual estimado: 55%  
+Comentários: já fez os correlatos e está terminando seções 3 e 4. A parte que já fez não foi revisada pelo orientador.  
 
 ## Atendimento Projeto
 

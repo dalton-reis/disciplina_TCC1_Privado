@@ -20,8 +20,12 @@ Comentários:
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-17 - 20:25
+
+Percentual estimado: 15%  
+Comentários: descreveu um pouco da Introdução e dos trabalhos correlatos. Está muito atrasado e aconselhei **fortemente** recuperar o cronograma.
+Comentou ter algumas dúvidas sobre as "partes" do pré-projeto. Como não assistiu quase um mês de aula aconselhei olhar o conteúdo das aulas no material da disciplina e assistir as video-aulas. E, se tiver dúvidas me perguntar.  
+**ATENÇÃO**: não está usando o Word desktop e tem vários problemas com formatação e normas da ABNT.  
 
 ## Atendimento Projeto
 
