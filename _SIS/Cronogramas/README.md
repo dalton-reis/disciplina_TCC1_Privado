@@ -95,14 +95,14 @@ Dia da semana: Terças (18:30\~22:00)
   
 - Pré-Projeto - Atendimento Individual  
 
-- [ ] Bruna Schroeder  
-- [ ] Amanda Miranda Zanella / Lucas Miguel Vieira  
-- [ ] Iago Giuseppe Tambosi  
-- [ ] Brenda Louise Bernat  
-- [ ] Matheus Leopoldo dos Santos Boing  
-- [ ] Yuri Pawlak Alves Ferreira  
-- [ ] Guilherme Weingaertner  
-- [ ] Gabriel Kresin  
+- [x] Bruna Schroeder  
+- [x] Amanda Miranda Zanella / Lucas Miguel Vieira  
+- [x] Iago Giuseppe Tambosi  
+- [x] Brenda Louise Bernat  
+- [x] Matheus Leopoldo dos Santos Boing  
+- [x] Yuri Pawlak Alves Ferreira  
+- [x] Guilherme Weingaertner  
+- [x] Gabriel Kresin  
 
 ### Aula_09 25-04-2023  ( terça-feira )  
   

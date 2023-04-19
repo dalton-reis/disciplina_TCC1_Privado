@@ -20,8 +20,10 @@ Aplicativo para gerenciar CrossFit ...
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-18 - 18:48
+
+Percentual estimado: 90%  
+Comentários: está finalizando alguns parágrafos da Introdução e a formatação das referências. A orientadora já revisou.  
 
 ## Atendimento Projeto
 

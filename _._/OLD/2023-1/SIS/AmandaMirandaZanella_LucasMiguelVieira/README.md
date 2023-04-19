@@ -20,5 +20,5 @@ Comentários:
 
 ## Atendimento Projeto
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 90%  
+Comentários: todo descrito. Ajustes finais. Orientadora já fez revisões.  

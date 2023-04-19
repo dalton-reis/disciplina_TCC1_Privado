@@ -27,8 +27,10 @@ Disse que já enviou o termo para o Cardoso.
 ## Atendimento Pré-Projeto
 
 **Matricula NÃO efetivada**
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 15%  
+Comentários: Descreveu a Contextualização, o resto ainda nada. Texto não foi revisado pelo orientador.  
+Dei algumas dicas tipo o que poderia ser as subseções 2.1.1 e 2.1.2.  
+**Aconselhei** fortemente acelerar o desenvolvimento do pré-projeto.  
 
 ## Atendimento Projeto
 

@@ -18,8 +18,10 @@ Disciplina de PLN (Programação de Linguagem Natural) com Aurélio.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-18 - 19:26
+
+Percentual estimado: 95%  
+Comentários: Ajustes finais. Orientadora já fez revisões.  
 
 ## Atendimento Projeto
 

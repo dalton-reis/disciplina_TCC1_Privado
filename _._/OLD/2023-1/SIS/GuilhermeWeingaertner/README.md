@@ -17,8 +17,15 @@ Mentor da AMBEVTECH ..
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-18 - 19:56
+
+Enviou a mensagem no MS-Teams:  
+Guilherme Weingaertner 19:48  
+Olá Boa noite professor,  
+Gostaria de informar que por motivos pessoais estarei trancando o meu curso ainda essa semana.  
+
+Respondi:  
+Ok, peço que avise o seu orientador (prof. Valdameri) também.
 
 ## Atendimento Projeto
 

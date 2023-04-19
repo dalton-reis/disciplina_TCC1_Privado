@@ -16,8 +16,12 @@ Inovação: Mentor?? Alex
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-18 - 19:51
+
+Percentual estimado: 40%  
+Comentários: fez a Contextualização e está terminado os Correlatos. Ainda não fez a Justificativa e Metodologia.  
+Orientada revisou um pouco do texto que tinha.  
+**Aconselhei** fortemente acelerar o desenvolvimento para recuperar o cronograma.  
 
 ## Atendimento Projeto
 

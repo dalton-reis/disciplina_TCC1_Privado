@@ -27,8 +27,10 @@ Alertei pelo Teams sobre o prazo.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
-Comentários:  
+### 2023-04-18 - 19:19
+
+Percentual estimado: 40%  
+Comentários: falei que tem de recuperar o cronograma. Escreveu Contextualização, Revisão (falta terminar) e Correlatos. Mas falta fazer justificativa e Metodologia. Orientador ainda não revisou.  
 
 ## Atendimento Projeto
 

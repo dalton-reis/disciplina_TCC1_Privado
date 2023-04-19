@@ -6,7 +6,7 @@ Título: Modelo de Aprendizado de Máquina para Estabelecer a Eficiência de Ser
 
 ## Atendimento Termo
 
-Orientador:   
+Orientador:  
 Assunto:  
 Comentários:  
 
@@ -21,8 +21,11 @@ Escrevendo o Termo mas precisa confirmar se o Aurélio vai realmente orientar.
 
 ## Atendimento Pré-Projeto
 
-Percentual estimado:  
+### 2023-04-18 - 19:38
+
+Percentual estimado: não consegui conversar pelo MS-Teams.    
 Comentários:  
+Oi Matheus Leopoldo dos Santos Boing, tentei te chamar para poder ver como está o desenvolvimento do pré-projeto mas não consegui. Bom, preciso que me envies o pré-projeto para eu poder avaliar o se progresso.  
 
 ## Atendimento Projeto
 
