@@ -23,7 +23,7 @@
 !$Aula17 = "	2023-06-20	"
 !$Aula18 = "	2023-06-27	"
 !$Aula18 = $dataFim		
-!$dataAtual  = $Aula08
+!$dataAtual  = $Aula09
 /'atualizar'/
 
 ganttscale weekly

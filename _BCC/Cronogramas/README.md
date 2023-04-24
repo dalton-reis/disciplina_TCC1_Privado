@@ -118,8 +118,8 @@ Dia da semana: Segundas (18:30\~22:00)
 
 ### Aula_09 24-04-2023  ( segunda-feira )  
   
-- **Entrega do Pré-Projeto (BCC)**  
 - [aula09AnotacoesBCC](../Aulas/aula09AnotacoesBCC.md "aula09AnotacoesBCC")  
+- **Entrega do Pré-Projeto (BCC)**  
   
 ### Aula_10 01-05-2023  ( segunda-feira )  
   
