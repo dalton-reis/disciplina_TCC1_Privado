@@ -2,7 +2,7 @@
 
 Orientando: Jeferson Bonecher  
 Orientador: Marcel  
-Título: Análise Comparativa Dde Algoritmos de Machine Learning para a Previsão de Valor das Ações na Bolsa de Valores
+Título: Análise Comparativa de Algoritmos de Machine Learning para a Previsão de Valor das Ações na Bolsa de Valores
 
 ## Atendimento Termo
 
@@ -31,6 +31,10 @@ Poderias me enviar o seu pré-projeto para eu dar uma olhada como está o seu de
 
 Percentual estimado:  
 Comentários:  
+
+### 2023-04-24 - 21:13
+
+Conversei com ele e fez a primeira versão completa mas ainda o orientador não revisou.  
 
 ## Atendimento Projeto
 
