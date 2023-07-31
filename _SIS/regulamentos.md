@@ -2,7 +2,7 @@
 
 [SIS_RegulamentoTCC](./Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
 
-## Resumo Regulamento do TCC do BCC
+## Resumo Regulamento do TCC do SIS
 
 - usar o último regulamento aprovado.  
 - TCC1 é pré-requisito de TCC2  
