@@ -1,15 +1,15 @@
 # Cronograma: SIS  2023-1 BCC  
 
 Local:  Remoto (MS-Teams)  
-Dia da semana: Terças (18:30\~22:00)  
+Dia da semana: Segundas (18:30\~22:00)  
 
 <!-- [x] Aviso: Inicio das aulas <> -->  
 
 ## Eventos  
 
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
+<!-- [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  -->
 
-<!-- [SEMINCO: SIS](<> "SEMINCO: SIS")  -->
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
 
 ## Observações de Entrega  
 
@@ -24,10 +24,11 @@ Dia da semana: Terças (18:30\~22:00)
   
 | Atividade | Prazo |  
 |--- | ---- |  
-| Entrega do Termo de Compromisso |  14-03-2023  |  
-| Entrega do pré-projeto (curso de SIS) |  25-04-2023  |  
-| Entrega do Projeto |   20-06-2023  |  
-|   |  |  
+| Entrega do Termo de Compromisso | 21-08-2023 |  
+| Entrega do pré-projeto (curso de BCC) |   02-10-2023  |  
+| Semana de bancas de qualificação (curso de BCC) |   09-10-2023  |  
+| Entrega do Projeto |   27-11-2023  |  
+|   |   |  
   
 ## Cronograma Gantt  
   
@@ -39,119 +40,101 @@ Dia da semana: Terças (18:30\~22:00)
   
 ## Cronograma Completo  
   
-### Aula_01 28-02-2023  ( terça-feira )  
+### Aula_01 07-08-2023  ( segunda-feira )  
   
 - [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
 - Termo - Formulação  
-![Termo - Atendimento Individual](Termo_atendimento_01.png)  
-
-### Aula_02 07-03-2023  ( terça-feira )  
+  
+### Aula_02 14-08-2023  ( segunda-feira )  
   
 <!-- \[AVISO] Termo atraso https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391 -->  
 - [aula02Anotacoes](../Aulas/aula02Anotacoes.md "aula02Anotacoes")  
 - [aula02Slides](../Aulas/aula02Slides.pdf "aula02Slides")  
 - Termo - Formulação  
-![Termo - Atendimento Individual](Termo_atendimento_02.png)  
   
-### Aula_03 14-03-2023  ( terça-feira )  
+### Aula_03 21-08-2023  ( segunda-feira )  
   
 - **Entrega do Termo de Compromisso de TCC**  
 - [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
 - [aula03Slides](../Aulas/aula03Slides.pdf "aula03Slides")  
 - Pré-Projeto - Formulação  
   
-### Aula_04 21-03-2023  ( terça-feira )  
+### Aula_04 28-08-2023  ( segunda-feira )  
   
-<!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-88657500 -->  
+<!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->  
 - [aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
 - [aula04Slides](../Aulas/aula04Slides.pdf "aula04Slides")  
 - Pré-Projeto - Formulação  
   
-### Aula_05 28-03-2023  ( terça-feira )  
+### Aula_05 04-09-2023  ( segunda-feira )  
   
 <!-- \[AVISO] banca BCC -->  
 - [aula05Anotacoes](../Aulas/aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
   
-### Aula_06 04-04-2023  ( terça-feira )  
+### Aula_06 11-09-2023  ( segunda-feira )  
   
 - Pré-Projeto - Formulação  
   
-### Aula_07 11-04-2023  ( terça-feira )  
+### Aula_07 18-09-2023  ( segunda-feira )  
   
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-
-- [x] Ana Maria Maurizio / Stephani Silvia Zatta  
-- [x] Gabriel Eduardo Jansen / Thiago Nunes Ferrari  
-- [x] Amanda Detofol Constante  
-- [x] Barbara Alessandra Maas / Bruno Henrique Wiedemann Reis  
-- [x] Gustavo Mandel  
-- [x] Carlos Augusto Schultz Medina  
-- [x] Karoline Custodio Dos Santos  
-- [x] Luís Eduardo Bonatti / Mateus Fernando Spengler  
-
-### Aula_08 18-04-2023  ( terça-feira )  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_A.png "Atendimento SIS")  
+  
+### Aula_08 25-09-2023  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-
-- [x] Bruna Schroeder  
-- [x] Amanda Miranda Zanella / Lucas Miguel Vieira  
-- [x] Iago Giuseppe Tambosi  
-- [x] Brenda Louise Bernat  
-- [x] Matheus Leopoldo dos Santos Boing  
-- [x] Yuri Pawlak Alves Ferreira  
-- [x] Guilherme Weingaertner  
-- [x] Gabriel Kresin  
-
-### Aula_09 25-04-2023  ( terça-feira )  
+![Atendimento SIS](../Cronogramas/AtendimentoSIS_B.png "Atendimento SIS")  
+  
+### Aula_09 02-10-2023  ( segunda-feira )  
   
 - **Entrega do Pré-Projeto (SIS)**  
-- Pré-Projeto - Atendimento Individual  
+- [aula09AnotacoesSIS](../Aulas/aula09AnotacoesSIS.md "aula09AnotacoesSIS")  
   
-### Aula_10 02-05-2023  ( terça-feira )  
+### Aula_10 09-10-2023  ( segunda-feira )  
   
-- Semana Acadêmica (não tem aula)  
+- Evento: SEMINCO  
   
-### Aula_11 09-05-2023  ( terça-feira )  
+### Aula_11 16-10-2023  ( segunda-feira )  
   
 <!-- \[ ] Revisão dos Pré-Projetos: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-86157761 -->  
 - Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
   
 - **não tem aula**  
   
-### Aula_12 16-05-2023  ( terça-feira )  
+### Aula_12 23-10-2023  ( segunda-feira )  
   
 - Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
   
 - **não tem aula**  
   
-### Aula_13 23-05-2023  ( terça-feira )  
+### Aula_13 30-10-2023  ( segunda-feira )  
   
 - [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
 - Análise do Pré-Projeto  
   
-### Aula_14 30-05-2023  ( terça-feira )  
+### Aula_14 06-11-2023  ( segunda-feira )  
   
 - Análise do Pré-Projeto - Atendimento Individual  
   
-### Aula_15 06-06-2023  ( terça-feira )  
+### Aula_15 13-11-2023  ( segunda-feira )  
   
 - Análise do Pré-Projeto - Atendimento Individual  
   
-### Aula_16 13-06-2023  ( terça-feira )  
+### Aula_16 20-11-2023  ( segunda-feira )  
   
 - Análise do Pré-Projeto - Atendimento Individual  
   
-### Aula_17 20-06-2023  ( terça-feira )  
+### Aula_17 27-11-2023  ( segunda-feira )  
   
 - **Entrega do Projeto**  
 - Avaliação dos Projetos (banca)  
   
-### Aula_18 27-06-2023  ( terça-feira )  
+### Aula_18 04-12-2023  ( segunda-feira )  
   
 - Avaliação dos Projetos (banca)  
   
 <!-- [ ] Aviso: DION: fechar notas <> -->  
-- Data final para devolução dos projetos pelos avaliadores:  04/07/23  
-Último dia para entregar os diários de classe 2023/1: 24/06/23 - 04/07/23  
+- Data final para devolução dos projetos pelos avaliadores:  12/12/23  
+Último dia para entregar os diários de classe 2023/2: 02/12/22 - 12/12/22  
