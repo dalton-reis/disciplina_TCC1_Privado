@@ -32,6 +32,9 @@ O uso do eXtended Markup Language (XML) na computação é muito comum.
 Basicamente se usam apenas três normas: a NBR 10520:2002, que trata da citação; a NBR 6023:2018, que aborda a forma correta de fazer referências; e a NBR 14724:2011, de trata da estrutura do
 trabalho.
 
+Material da biblioteca da FURB: <https://www.furb.br/web/5265/servicos/biblioteca/guia-do-usuario/normalizacao-abnt>.  
+**Cuidado**: [Atualizações da norma de Citações](ABNTatualizacoes_2023.pdf).  
+
 - comentar sobre as citações e citações direta  
 - os dois tipos de citações  
 - uso de numeração de página nas citações  
