@@ -40,7 +40,7 @@ Material da biblioteca da FURB: <https://www.furb.br/web/5265/servicos/bibliotec
 - uso de numeração de página nas citações  
 - apresentar alguns conceitos e definições  
 - trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
-- sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Zotero](https://www.zotero.org "Zotero") etc.  
+- sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Research Rabbit](https://researchrabbitapp.com "Research Rabbit"), [Zotero](https://www.zotero.org "Zotero") etc.  
 
 ### More-UFSC
 
