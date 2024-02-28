@@ -58,7 +58,7 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 
 - seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
 
-### [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
+### [lista professores do DSC](../../professoresDSC.md "lista professores do DSC")  
 
 [SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
