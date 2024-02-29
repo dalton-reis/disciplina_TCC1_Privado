@@ -4,9 +4,13 @@
 Orientando: MarcellaCoelhoBritoNunes  
 Código: 208478  
 Orientador: Dalton Solano Reis  
-Título:  
+Título: ARCorp Explore  
 
 ## Atendimento Termo  
+
+### 2024-02-29 - 17:01
+
+[2024-02-29_Titulo_ChatGPT](2024-02-29_Titulo_ChatGPT.pdf)  
 
 Comentários:  
 [Termo](Termo.pdf "Termo")  
