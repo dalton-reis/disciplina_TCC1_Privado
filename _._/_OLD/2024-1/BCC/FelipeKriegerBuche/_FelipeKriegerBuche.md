@@ -3,10 +3,20 @@
 ![foto](foto.png "foto")  
 Orientando: FelipeKriegerBuche  
 Código:  
-Orientador:  
+Orientador: Dalton  
 Título:  
 
 ## Atendimento Termo  
+
+### 2024-02-29 - 17:41
+
+Conversamos no final da aula de RV.  
+Assunto: aplicativo para o Museu da FURB.  
+Vai usar Kotlin (Android).  
+
+Material:  
+<https://github.com/gcgfurb/tcc_JulioVicenteBrych/blob/master/tcc_bcc_2023_2_JulioVicenteBrych/Textos/tcc_bcc_2023_02_JulioVicenteBrych-VF.pdf>  
+<https://github.com/gcgfurb/tcc_HenriqueDelegrego/blob/master/tcc_bcc_2023_1_HenriqueDelegrego/Textos/tcc_bcc_2023_1_HenriqueDelegrego-VF.pdf>  
 
 Comentários:  
 [Termo](Termo.pdf "Termo")  
