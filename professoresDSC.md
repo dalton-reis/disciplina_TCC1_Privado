@@ -11,13 +11,13 @@
 | Dalton Solano dos Reis           | dalton@furb.br    | Dalton    |  
 | Danton Cavalcanti Franco Junior  | dfranco@furb.br   | Danton    |
 | Everaldo Artur Grahl             | egrahl@furb.br    | Everaldo  |
-| Fábio Luis Perez                 | fabiotek@furb.br  | Fabio     |
+<!--| Fábio Luis Perez                 | fabiotek@furb.br  | Fabio     | -->
 | Francisco Adell Péricas          | pericas@furb.br   | Pericas   |  
 | Gilvan Justino                   | gilvanj@furb.br   | Gilvan    |  
 | Jan Charles Gross                | jcgross@furb.br   | Jan       |
 | Jéssica Stefanie Hausmann        | jhausmann@furb.br | Jessica   |
-| Jonathan Gil Müller              | jgmuller@furb.br  | Jonathan  |  
-| José Carlos Althoff              | jalthoff@furb.br  | Althoff   |  
+<!-- | Jonathan Gil Müller              | jgmuller@furb.br  | Jonathan  |  -->
+<!-- | José Carlos Althoff              | jalthoff@furb.br  | Althoff   |  -->
 | Joyce Martins                    | joyce@furb.br     | Joyce     |  
 | Luciana Pereira de Araújo Kohler | lpa@furb.br       | Luciana   |  
 | Marcos Rodrigo Momo              | momo@furb.br      | Momo      |  
@@ -55,6 +55,7 @@ Aurelio
 
 ### Data Scienc
 
+Andreza  
 Aurelio  
 
 ### Processamento de Imagens
@@ -81,6 +82,14 @@ Joyce
 
 Luciana  
 
+### Web
+
+Luciana  
+
+### Usabilidade
+
+Luciana  
+
 ### Sistemas Distribuído
 
 Momo  
@@ -89,6 +98,10 @@ Momo
 
 Simone  
 Marcos  
+
+### Qualidade
+
+Everaldo  
 
 ### Outros
 
