@@ -8,6 +8,11 @@ Título:
 
 ## Atendimento Termo  
 
+### 2024-03-05 - 10:24
+
+Consulta respondida pelo MS-Teams.  
+[2024-03-05_EMail.pdf](2024-03-05_EMail.pdf)  
+
 Comentários:  
 [Termo](Termo.pdf "Termo")  
 
