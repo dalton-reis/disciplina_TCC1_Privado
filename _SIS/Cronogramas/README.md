@@ -92,7 +92,7 @@ Dia da semana: Segundas (18:30\~22:00)
   
 ### Aula_10 29-04-2024  ( segunda-feira )  
   
-- Evento: Semana Acadêmica  
+- Evento: [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
   
 ### Aula_11 06-05-2024  ( segunda-feira )  
   

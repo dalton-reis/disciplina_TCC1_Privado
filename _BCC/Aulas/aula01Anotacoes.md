@@ -58,6 +58,9 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 
 - seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
 
+- buscar por um orientador: [lista professores do DSC](../../professoresDSC.md "lista professores do DSC");  
+- suar o modelo do [BCC_TermoCompromisso.docx](../Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx").  
+
 ### [lista professores do DSC](../../professoresDSC.md "lista professores do DSC")  
 
 [BCC_TermoCompromisso.docx](../Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  

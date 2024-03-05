@@ -94,7 +94,7 @@ Dia da semana: Terças (18:30\~22:00)
   
 ### Aula_10 30-04-2024  ( terça-feira )  
   
-- Evento: SEMINCO  
+- Evento: [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
   
 ### Aula_11 07-05-2024  ( terça-feira )  
   
@@ -138,4 +138,3 @@ Dia da semana: Terças (18:30\~22:00)
 <!-- [ ] Aviso: DION: fechar notas <> -->  
 - Data final para devolução dos projetos pelos avaliadores:  01/07/24  
 Último dia para entregar os diários de classe 2024/1: 22/06/24 - 29/06/24  
- 
