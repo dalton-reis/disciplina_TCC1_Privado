@@ -12,7 +12,7 @@
 
 Competência Geral Esperada: **Descrever** a dinâmica de sistemas sociais e organizacionais, **distinguindo** seus elementos constituintes de forma interdisciplinar **analisando** as dependências (objetivos, informação, atividades) entre eles, propondo soluções que os aprimorem, **criticando** os resultados do sistema e **aplicando** conceitos de sistemas de informação.  
 
-### 1. Competências derivadas
+### Competências derivadas - 1
 
 C.1.1. **Decompor** o funcionamento de organizações sociais e de negócio como Sistemas de Informação, **distinguindo** seus elementos e múltiplas relações internas e externas e **construindo** modelos para sua representação.  
 
@@ -30,7 +30,7 @@ Conteúdos: Matemática Financeira, Fundamentos de Economia, Projeto de Software
 
 Competência Geral Esperada: **Gerir** os sistemas de informação e a arquitetura de tecnologia da informação em organizações, **propondo** soluções de sistemas de informação, de software, de informação e de infraestrutura de armazenamento e comunicação alinhadas aos objetivos e estratégias organizacionais, **realizando** projetos de sistemas de informação e de tecnologia da informação e **aplicando** conceitos, métodos, técnicas e ferramentas adequadas à gestão e governança de sistemas de informação e tecnologia da informação.  
 
-### 2. Competências derivadas
+### Competências derivadas - 2
 
 C.2.1. **Gerir** os processos organizacionais, **descrevendo** seu funcionamento, **avaliando** seu desempenho e **implementando** mudanças em seu funcionamento **aplicando** conceitos de sistemas de informação.  
 
@@ -56,7 +56,7 @@ Conteúdos: Infraestrutura de Tecnologia da Informação e Comunicação, Admini
 
 Competência Geral Esperada: **Gerenciar** os sistemas de informação em contextos sociais e organizacionais, **avaliando** as necessidades de informatização nestes sistemas, **especificando** soluções de software para sistemas de informação, **produzindo** o software para o atendimento destas necessidades, **aplicando** processos, técnicas e ferramentas de desenvolvimento de software, **implantando** o software em contextos sociais e organizacionais de sistemas de informação, **mantendo** sua operação e **avaliando** o impacto de seu uso.  
 
-### 3. Competências derivadas
+### Competências derivadas - 3
 
 C.3.1. **Avaliar** as necessidades de informatizar sistemas, **articulando** visões individuais e organizacionais, e **apreciando** oportunidades de melhorias e/ou mudanças em processos, com o uso ou evolução do software.  
 
@@ -90,7 +90,7 @@ Conteúdos: Engenharia de Software, Projeto de Software I, Projeto de Software I
 
 Competência Geral Esperada: **Gerenciar** dados e informação para as organizações e sociedade, selecionando sistemas e tecnologias para implementação de bases de dados e de informação, **aplicando** técnicas para a especificação de modelos conceituais, lógicos e físicos de dados e informação, **implementando** estruturas e mecanismos de armazenamento, busca, recuperação e mineração nas bases de dados e **avaliando** técnicas e ferramentas de inteligência de negócios.  
 
-### 4. Competências derivadas
+### Competências derivadas - 4
 
 C.4.1. **Representar** contextos do mundo real na forma de conjuntos, **reconhecendo** suas instâncias, **analisando** e **estabelecendo** relacionamentos entre conjuntos e definindo funções e relações aplicáveis a estes conjuntos.  
 
@@ -116,7 +116,7 @@ Conteúdos: Inteligência Artificial, Inteligência Artificial Aplicada, Estatí
 
 Competência Geral Esperada: **Gerenciar** a infraestrutura de tecnologia da informação e comunicação para organizações e negócios, **selecionando** elementos de hardware, software e de conectividade adequados às necessidades de seus sistemas, **estabelecendo** serviços e processos de suporte aos sistemas de informação e **avaliando** o desempenho destes componentes de infraestrutura.  
 
-### 5. Competências derivadas
+### Competências derivadas - 5
 
 C.5.1. **Avaliar** computadores e demais componentes de hardware, **examinando** a funcionalidade, adequabilidade e escalabilidade destes equipamentos para a organização.  
 
@@ -138,7 +138,7 @@ Conteúdos: Sistemas Operacionais, Redes de Computadores, Práticas em Redes de 
 
 Competência Geral Esperada: Desenvolver negócios, produtos, serviços ou processos inovadores por meio de sistemas de informação, identificando problemas e oportunidades em seu contexto de atuação profissional e/ou social, planejando, executando e gerenciando projetos de pesquisa, empreendedorismo e inovação para estas oportunidades e problemas, avaliando seu impacto econômico, social e ambiental.  
 
-### 6. Competências derivadas
+### Competências derivadas - 6
 
 C.6.1 **Desenvolver** projetos de iniciação científica e tecnológica em sua área de atuação, **identificando** problemas, **aplicando** metodologias, técnicas e instrumentos de investigação e **propondo** soluções no âmbito de sistemas de informação e tecnologia da informação.  
 
@@ -156,7 +156,7 @@ Conteúdos: Matemática Financeira, Legislação em Informática, Teoria Social 
 
 Competência Geral Esperada: **Atuar** profissionalmente **planejando** continuamente o seu desenvolvimento pessoal e profissional, **contemplando** os desafios pessoais, profissionais e da sociedade de forma proativa e crítica, **agindo** de acordo com princípios éticos profissionais que considerem o respeito aos direitos humanos, o compromisso com a sustentabilidade e responsabilidade socioambiental.  
 
-### 7. Competências derivadas
+### Competências derivadas - 7
 
 C.7.1. **Agir** de acordo com princípios éticos profissionais e os direitos humanos, **compreendendo** os aspectos sociais, profissionais, legais, éticos, políticos e humanísticos em sua atuação em sistemas de informação.  
 
