@@ -1,7 +1,7 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando: JonathanAntonioModjewski  
+Orientando: JonathanAntonioModjewski / SamelaHostins  
 Código: 203945  
 Orientador:  
 Título:  
