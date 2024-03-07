@@ -13,6 +13,13 @@ Título: ARCorp Explore
 [2024-02-29_EMail.pdf](2024-02-29_EMail.pdf)  
 [2024-02-29_Titulo_ChatGPT](2024-02-29_Titulo_ChatGPT.pdf)  
 
+### 2024-03-05 - 22:03
+
+É enfermeira.  
+Bloco cirúrgicos.  
+Vai pesquisar Trabalhos Correlatos para próxima semana.  
+Mostrei o The Human Body 2 <https://apps.apple.com/br/app/the-human-body-by-tinybop/id682046579?l=en>  
+
 Comentários:  
 [Termo](Termo.pdf "Termo")  
 
