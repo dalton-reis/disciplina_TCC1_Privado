@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: LucasEduardoDeCarvalho  
-Código: 209876  
 Orientador:  
 Título:  
 

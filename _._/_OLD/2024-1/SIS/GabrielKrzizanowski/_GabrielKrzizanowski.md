@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: GabrielKrzizanowski  
-Código: 209586  
 Orientador:  
 Título:  
 

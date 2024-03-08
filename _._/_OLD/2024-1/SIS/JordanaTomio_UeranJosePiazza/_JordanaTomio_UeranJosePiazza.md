@@ -1,8 +1,7 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando: UeranJosePiazza  
-Código: 207783  
+Orientando: JordanaTomio - UeranJosePiazza  
 Orientador:  
 Título:  
 

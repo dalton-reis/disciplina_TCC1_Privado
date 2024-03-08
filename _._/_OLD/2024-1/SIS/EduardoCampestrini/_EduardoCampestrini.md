@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: EduardoCampestrini  
-Código: 220574  
 Orientador:  
 Título:  
 
@@ -12,6 +11,8 @@ Título:
 
 Consulta respondida pelo MS-Teams.  
 [2024-03-05_EMail.pdf](2024-03-05_EMail.pdf)  
+[2024-03-06_EMail.pdf](2024-03-06_EMail.pdf)  
+[2024-03-07_EMail.pdf](2024-03-07_EMail.pdf)  
 
 Comentários:  
 [Termo](Termo.pdf "Termo")  

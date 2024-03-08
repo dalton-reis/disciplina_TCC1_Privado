@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: JonathanAntonioModjewski / SamelaHostins  
-Código: 203945  
 Orientador:  
 Título:  
 

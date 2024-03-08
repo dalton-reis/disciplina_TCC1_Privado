@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: GustavoGoncalves  
-Código: 207826  
 Orientador:  
 Título:  
 
@@ -11,6 +10,8 @@ Título:
 ### 2024-02-29 - 11:47
 
 [2024-02-29_EMail.pdf](2024-02-29_EMail.pdf)  
+[2024-03-04_EMail.pdf](2024-03-04_EMail.pdf)  
+[2024-03-07_MsTeams.pdf](2024-03-07_MsTeams.pdf)  
 
 Comentários:  
 [Termo](Termo.pdf "Termo")  

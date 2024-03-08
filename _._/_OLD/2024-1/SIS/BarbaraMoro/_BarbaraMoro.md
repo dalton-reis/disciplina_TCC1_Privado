@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: BarbaraMoro  
-Código: 203759  
 Orientador:  
 Título:  
 

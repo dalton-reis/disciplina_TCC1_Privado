@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: GuilhermeSouzaDosSantos / JennyferAraujo  
-Código: 206974  
 Orientador:  
 Título:  
 
@@ -23,6 +22,7 @@ Apple: iPhone, Apple / Mi Band -> dados
 Comentei sobre o TCC da EduardaEngels do prof. Aurélio  
 
 Apresentei a ideia do uso do Scanner 3D para a Total Healt  
+[2024-03-07_MsTeams.pdf](2024-03-07_MsTeams.pdf)  
 
 Comentários:  
 [Termo](Termo.pdf "Termo")  

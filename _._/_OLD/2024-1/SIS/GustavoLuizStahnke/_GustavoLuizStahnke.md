@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: GustavoLuizStahnke  
-Código: 209620  
 Orientador:  
 Título:  
 
