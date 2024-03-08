@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: FranciscoJoseTeodoroDaLuz  
-Código: 209135  
 Orientador:  
 Título:  
 

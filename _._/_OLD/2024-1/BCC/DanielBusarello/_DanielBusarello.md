@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: DanielBusarello  
-Código: 207113  
 Orientador:  
 Título:  
 

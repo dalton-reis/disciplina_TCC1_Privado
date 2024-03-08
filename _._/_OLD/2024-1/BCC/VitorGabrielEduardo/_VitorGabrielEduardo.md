@@ -2,11 +2,12 @@
 
 ![foto](foto.png "foto")  
 Orientando: VitorGabrielEduardo  
-Código: 207551  
-Orientador:  
-Título:  
+Orientador: Dalton  
+Título: Jogo de Conscientização no Trânsito Utilizando Realidade Virtual Imersiva na Plataforma MetaQuest  
 
 ## Atendimento Termo  
+
+[2024-03-07_MsTeams.pdf](2024-03-07_MsTeams.pdf)  
 
 Comentários:  
 [Termo](Termo.pdf "Termo")  

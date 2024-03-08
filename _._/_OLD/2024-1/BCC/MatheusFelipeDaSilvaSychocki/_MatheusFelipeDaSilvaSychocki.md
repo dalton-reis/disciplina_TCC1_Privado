@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: MatheusFelipeDaSilvaSychocki  
-Código: 202728  
 Orientador:  
 Título:  
 

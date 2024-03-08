@@ -2,9 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: ViniciusPereiraForte  
-Código:  
-Orientador:  
-Título:  
+Orientador: Valdameri  
+Título: Estudo de Caso Aplicando a Extensão Espacial Postgis para PostgreSQL  
 
 ## Atendimento Termo  
 

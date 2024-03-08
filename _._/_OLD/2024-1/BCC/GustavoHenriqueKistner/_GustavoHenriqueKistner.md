@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: GustavoHenriqueKistner  
-Código: 207230  
 Orientador:  
 Título:  
 

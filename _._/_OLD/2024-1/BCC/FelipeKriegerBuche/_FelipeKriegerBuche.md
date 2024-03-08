@@ -2,9 +2,13 @@
 
 ![foto](foto.png "foto")  
 Orientando: FelipeKriegerBuche  
-Código:  
 Orientador: Dalton  
-Título:  
+Título: ExpoFritz  
+
+Curador do Exposição Científica Fritz Müller  
+Sérgio Luiz Althoff  
+99918-8967  
+<https://www.furb.br/pt/noticias/sala-de-exposicao-fritz-muller-de-ciencias-naturais-abre-para-visitacao-em-marco>  
 
 ## Atendimento Termo  
 

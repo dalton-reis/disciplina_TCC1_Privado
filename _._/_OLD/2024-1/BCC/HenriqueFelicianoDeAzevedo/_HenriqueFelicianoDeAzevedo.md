@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: HenriqueFelicianoDeAzevedo  
-Código:  
 Orientador:  
 Título:  
 

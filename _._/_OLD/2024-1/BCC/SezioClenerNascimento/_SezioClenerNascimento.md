@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: SezioClenerNascimento  
-Código: 189312  
 Orientador:  
 Título:  
 

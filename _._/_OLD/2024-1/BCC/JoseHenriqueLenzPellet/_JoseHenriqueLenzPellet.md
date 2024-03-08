@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: JoseHenriqueLenzPellet  
-Código: 208940  
 Orientador:  
 Título:  
 

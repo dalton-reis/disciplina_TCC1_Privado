@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: GuilhermeBertolDaSilva  
-Código: 201036  
 Orientador:  
 Título:  
 

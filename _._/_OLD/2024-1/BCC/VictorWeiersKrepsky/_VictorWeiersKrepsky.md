@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: VictorWeiersKrepsky  
-Código: 205749  
 Orientador:  
 Título:  
 

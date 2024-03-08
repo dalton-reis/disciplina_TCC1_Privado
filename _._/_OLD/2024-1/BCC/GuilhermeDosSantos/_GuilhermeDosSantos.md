@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: GuilhermeDosSantos  
-Código:  
 Orientador:  
 Título:  
 

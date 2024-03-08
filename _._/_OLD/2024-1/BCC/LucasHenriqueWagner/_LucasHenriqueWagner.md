@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando:  
-Código: 207569  
 Orientador:  
 Título:  
 

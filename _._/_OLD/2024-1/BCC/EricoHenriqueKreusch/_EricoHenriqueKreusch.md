@@ -1,10 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Código: 206905  
-Orientador:  
-Título:  
+Orientando: EricoHenriqueKreusch  
+Orientador: Dalton  
+Título: Reconstituição 3D para Confecção de Palmilhas Ortopédicas  
 
 ## Atendimento Termo  
 

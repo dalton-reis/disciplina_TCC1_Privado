@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: MarcosAntonioMattedi  
-Código: 204873  
 Orientador:  
 Título:  
 

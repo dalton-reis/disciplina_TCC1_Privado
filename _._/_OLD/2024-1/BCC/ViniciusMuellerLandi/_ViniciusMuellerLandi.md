@@ -2,7 +2,6 @@
 
 ![foto](foto.png "foto")  
 Orientando: ViniciusMuellerLandi  
-Código: 207737  
 Orientador:  
 Título:  
 

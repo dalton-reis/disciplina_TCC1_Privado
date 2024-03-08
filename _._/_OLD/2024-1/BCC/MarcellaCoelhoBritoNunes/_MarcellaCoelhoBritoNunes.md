@@ -2,9 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: MarcellaCoelhoBritoNunes  
-Código: 208478  
-Orientador: Dalton Solano Reis  
-Título: ARCorp Explore  
+Orientador: Dalton  
+Título: ArCorp Explore  
 
 ## Atendimento Termo  
 
