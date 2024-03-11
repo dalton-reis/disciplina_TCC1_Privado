@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: FelipeMarquesHamann  
-Orientador:  
-Título:  
+Orientador: Simone  
+Título: Controle de Serviços e Gerenciamento de Oficinas Mecânicas  
 
 ## Atendimento Termo  
 
