@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: JoseHenriqueLenzPellet  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Previsão da Direção de Chutes em Pênaltis Usando Estimação de Pose Humana e Inteligência Artificial  
 
 ## Atendimento Termo  
 
