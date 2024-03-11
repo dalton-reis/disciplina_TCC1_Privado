@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: JonathanAntonioModjewski / SamelaHostins  
-Orientador:  
-Título:  
+Orientador: Simone  
+Título: Sistema de Gerenciamento para Pessoas com MEI na Área de Estética  
 
 ## Atendimento Termo  
 
