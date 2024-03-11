@@ -1,11 +1,13 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando: GabrielKrzizanowski  
-Orientador:  
+Orientando: GabrielKrzizanowski - LucasEduardoDeCarvalho  
+Orientador: Aurélio  
 Título:  
 
 ## Atendimento Termo  
+
+[2024-03-11_EMail.pdf](2024-03-11_EMail.pdf)  
 
 Comentários:  
 [Termo](Termo.pdf "Termo")  
