@@ -1,7 +1,7 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando: GustavoLuizStahnke  
+Orientando: JoaoVitorKruegerMoutinho  
 Orientador:  
 Título:  
 
