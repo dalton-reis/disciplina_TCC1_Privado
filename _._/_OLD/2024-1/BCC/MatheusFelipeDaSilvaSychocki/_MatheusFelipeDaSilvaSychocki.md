@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: MatheusFelipeDaSilvaSychocki  
-Orientador:  
-Título:  
+Orientador: Danton  
+Título: Syspower Analyzer: Ferramenta de Medição do Custo Energético em Execuções de Rotinas Sistêmicas  
 
 ## Atendimento Termo  
 
