@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: JordanaTomio - UeranJosePiazza  
-Orientador:  
-Título:  
+Orientador: Andreza  
+Título: Furbot na Terra da IA: Construção de um Jogo Interativo para o Ensino Introdutório de Inteligência Artificial para Crianças  
 
 ## Atendimento Termo  
 
