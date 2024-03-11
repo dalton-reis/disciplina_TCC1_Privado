@@ -1,9 +1,9 @@
 # Anotações das Reuniões Individuais  
 
 ![foto](foto.png "foto")  
-Orientando:  
-Orientador:  
-Título:  
+Orientando: Lucas Henrique Wagner  
+Orientador: Aurelio  
+Título: Modelo de Sistema Multiagente para análise de impacto do tráfego na Cidade de Blumenau  
 
 ## Atendimento Termo  
 
