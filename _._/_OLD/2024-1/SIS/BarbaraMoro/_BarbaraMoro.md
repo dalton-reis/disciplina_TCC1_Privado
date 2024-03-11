@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: BarbaraMoro  
-Orientador:  
-Título:  
+Orientador: Simone  
+Título: Desenvolvimento de um Sistema de Informações Integrado para Pequenas Empresas: Uma Solução para Gerenciamento de Clientes e Fluxo de Caixa  
 
 ## Atendimento Termo  
 
