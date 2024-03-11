@@ -2,8 +2,9 @@
 
 ![foto](foto.png "foto")  
 Orientando: GustavoHenriqueKistner  
-Orientador:  
-Título:  
+Orientador: Andreza  
+Co-Orientador: Júlio Cesar de Souza Júnior  
+Título: Plataforma de Comunicação para o Registro de Resgate e Reabilitação de Animais Silvestres  
 
 ## Atendimento Termo  
 
