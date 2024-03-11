@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: AndreMarcosHinckel  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Análise de Desempenho em Jogos de Voleibol Através de Visão Computacional e Inteligência  
 
 ## Atendimento Termo  
 
