@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: MarcosAntonioMattedi  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Modelagem Baseada em Agente Aplicada ao Processo de Verticalização Urbana no Brasil  
 
 ## Atendimento Termo  
 
