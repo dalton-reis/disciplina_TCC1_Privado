@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: MatheusFelipePasold  
-Orientador:  
-Título:  
+Orientador: Valdameri  
+Título: Estudo de Caso Utilizando Estruturas NoSQL em uma Aplicação para Organização de Competições Esportivas  
 
 ## Atendimento Termo  
 
