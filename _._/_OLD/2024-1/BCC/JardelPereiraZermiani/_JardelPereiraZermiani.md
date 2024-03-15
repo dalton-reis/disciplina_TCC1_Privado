@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: JardelPereiraZermiani  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Impactos da Verticalização no Sistema Educacional Na Cidade de Blumenau  
 
 ## Atendimento Termo  
 

@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: GuilhermeDosSantos  
-Orientador:  
-Título:  
+Orientador: Pericas  
+Título: Aplicativo Colaborativo para Gerenciamento de Tarefas  
 
 ## Atendimento Termo  
 

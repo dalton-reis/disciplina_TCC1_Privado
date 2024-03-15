@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: SezioClenerNascimento  
-Orientador:  
-Título:  
+Orientador: Miguel  
+Título: Implementação da Máquina M++ em FPGA  
 
 ## Atendimento Termo  
 
