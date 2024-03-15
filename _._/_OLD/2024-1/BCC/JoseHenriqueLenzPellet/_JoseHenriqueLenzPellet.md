@@ -13,7 +13,7 @@ Descreveu um cenário parecido com o TCC da Eduarda (orientanda do Aurélio).
 Vai conversar com o Aurélio.  
 
 Comentários:  
-[Termo](Termo.pdf "Termo")  
+[_Termo](_Termo.pdf "_Termo")  
 
 ### XXXX-XX-XX
 
