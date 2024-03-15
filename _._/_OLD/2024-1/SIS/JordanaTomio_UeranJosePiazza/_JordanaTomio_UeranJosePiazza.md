@@ -8,7 +8,7 @@ Título: Furbot na Terra da IA: Construção de um Jogo Interativo para o Ensino
 ## Atendimento Termo  
 
 Comentários:  
-[_Termo](_Termo.pdf "_Termo")  
+[1_Termo](1_Termo.pdf "1_Termo")  
 
 ### XXXX-XX-XX
 
