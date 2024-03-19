@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: GustavoGoncalves  
-Orientador:  
-Título:  
+Orientador: Danton  
+Título: NutriVerifica: Uma Abordagem Tecnológica para Facilitar Escolhas Alimentares Conscientes em Pessoas com Restrições e Preferências Alimentares  
 
 ## Atendimento Termo  
 
