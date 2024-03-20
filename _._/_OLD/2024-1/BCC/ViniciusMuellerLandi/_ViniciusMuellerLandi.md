@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: ViniciusMuellerLandi  
-Orientador:  
-Título:  
+Orientador: Luciana  
+Título: EnigmatiCode – Jogo Educativo para Ensinar Programadores Iniciantes  
 
 ## Atendimento Termo  
 
