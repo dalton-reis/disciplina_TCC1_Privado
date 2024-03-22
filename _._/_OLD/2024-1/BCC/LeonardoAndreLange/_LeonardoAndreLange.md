@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: LeonardoAndreLange  
-Orientador:  
-Título:  
+Orientador: Aurelio  
+Título: Tecnologias Avançadas na Saúde: Explorando o Potencial do Processamento de Linguagem Natural na Interação de Medicamentos  
 
 ## Atendimento Termo  
 
