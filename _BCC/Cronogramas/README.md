@@ -80,12 +80,39 @@ Dia da semana: Terças (18:30\~22:00)
   
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_A.png "Atendimento BCC")  
+
+| Aluno(s)                                         | Horário      |  
+| ------------------------------------------------ | ------------ |  
+| Felipe Krieger Buche                             | 19:00\~19:10 |  
+| Sezio Clener Nascimento                          | 19:10\~19:20 |  
+| Matheus Felipe Pasold                            | 19:20\~19:30 |  
+| Daniel Busarello                                 | 19:30\~19:40 |  
+| Marcos Antonio Mattedi                           | 19:40\~19:50 |  
+| Érico Henrique Kreusch                           | 19:50\~20:00 |  
+| David Ricardo da Silva                           | 20:00\~20:10 |  
+| Francisco José Teodoro da Luz                    | 20:10\~20:20 |  
+| Guilherme dos Santos                             | 20:20\~20:30 |  
+| Gabriel Torres Reifegerste                       | 20:30\~20:40 |  
+| Vítor Gabriel Eduardo                            | 20:40\~20:50 |  
+| Vinicius Pereira Forte                           | 20:50\~21:00 |  
   
 ### Aula_08 16-04-2024  ( terça-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_B.png "Atendimento BCC")  
+  
+| Aluno(s)                                         | Horário      |  
+| ------------------------------------------------ | ------------ |  
+| Gustavo Henrique Kistner                         | 19:00\~19:10 |  
+| Lucas Henrique Wagner                            | 19:10\~19:20 |  
+| Leonardo André Lange                             | 19:20\~19:30 |  
+| Matheus Felipe da Silva Sychocki                 | 19:30\~19:40 |  
+| João Vitor de Oliveira                           | 19:40\~19:50 |  
+| André Marcos Hinckel                             | 19:50\~20:00 |  
+| Jose Henrique Lenz Pellet                        | 20:00\~20:10 |  
+| Marcella Coelho Brito Nunes                      | 20:10\~20:20 |  
+| Guilherme Bertol da Silva                        | 20:20\~20:30 |  
+| Jardel Pereira Zermiani                          | 20:30\~20:40 |  
+| Vinicius Mueller Landi                           | 20:40\~20:50 |  
   
 ### Aula_09 23-04-2024  ( terça-feira )  
   
