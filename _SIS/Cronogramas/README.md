@@ -78,6 +78,7 @@ Dia da semana: Segundas (18:30\~22:00)
   
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
+| ------------------------------------------------ | ------------ |  
 | Aluno(s)                                         | Horário      |  
 | ------------------------------------------------ | ------------ |  
 | Gustavo Gonçalves                                | 19:00\~19:20 |  
@@ -89,6 +90,7 @@ Dia da semana: Segundas (18:30\~22:00)
 ### Aula_08 15-04-2024  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
+| ------------------------------------------------ | ------------ |  
 | Aluno(s)                                         | Horário      |  
 | ------------------------------------------------ | ------------ |  
 | Bárbara Moro                                     | 19:00\~19:20 |  
