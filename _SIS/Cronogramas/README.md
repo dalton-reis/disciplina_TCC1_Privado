@@ -78,13 +78,26 @@ Dia da semana: Segundas (18:30\~22:00)
   
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_A.png "Atendimento SIS")  
-  
+
+| Aluno(s)                                         | Horário      |  
+| ------------------------------------------------ | ------------ |  
+| Gustavo Gonçalves                                | 19:00\~19:20 |  
+| Gabriel Krzizanowski - Lucas Eduardo de Carvalho | 19:20\~19:40 |  
+| Jonathan Antonio Modjewski - Sâmela Hostins      | 19:40\~20:00 |  
+| Juliano Humberto Chiarelli                       | 20:00\~20:20 |  
+| Eduardo Campestrini                              | 20:20\~20:40 |  
+
 ### Aula_08 15-04-2024  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento SIS](../Cronogramas/AtendimentoSIS_B.png "Atendimento SIS")  
-  
+
+| Aluno(s)                                         | Horário      |  
+| ------------------------------------------------ | ------------ |  
+| Bárbara Moro                                     | 19:00\~19:20 |  
+| Guilherme Souza dos Santos - Jennyfer Araujo     | 19:20\~19:40 |  
+| Felipe Marques Hamann - Gustavo André Bulhmann   | 19:40\~20:00 |  
+| Jordana Tomio - Ueran José Piazza                | 20:00\~20:20 |  
+
 ### Aula_09 22-04-2024  ( segunda-feira )  
   
 - **Entrega do Pré-Projeto (SIS)**  
