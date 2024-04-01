@@ -2,8 +2,8 @@
 
 ![foto](foto.png "foto")  
 Orientando: JulianoHumbertoChiarelli  
-Orientador:  
-Título:  
+Orientador: Danton  
+Título: Análise de Múltiplas IAs Sobre o Pefil dos Compradores de Uma Loja de Esportes  
 
 ## Atendimento Termo  
 
