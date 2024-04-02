@@ -40,20 +40,6 @@ Material da biblioteca da FURB: <https://www.furb.br/web/5265/servicos/bibliotec
 - uso de numeração de página nas citações  
 - apresentar alguns conceitos e definições  
 - trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
-- sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Research Rabbit](https://researchrabbitapp.com "Research Rabbit"), [Zotero](https://www.zotero.org "Zotero") etc.  
-
-### More-UFSC
-
-O [More-UFSC](https://more.ufsc.br/inicio "More-UFSC") permite que você utilize ele sem fazer um cadastro de acesso, mas ao se cadastrar permite salvar algumas referências já pesquisadas. Com o More é possível usar formulários que ao serem preenchidos corretamente se gere a referência bibliográfica e citação seguindo as normas da ABNT. Mas é necessário primeiro identificar qual o tipo de material se tem tem para poder escolher o "formulário" correto. E, também se deve ter muito cuidado de preencher corretamente os campos do formulário para não se gerar erros.  
-
-### Mendeley
-
-Com o Mendeley você organiza suas leituras (tanto PDFs quanto materiais impressos), faz fichamentos e insere automaticamente as citações e referências no seu trabalho. O programa está disponível somente em inglês. Faça o download no [link](https://www.mendeley.com/download-desktop/Windows/).  
-
-### Zotero
-
-<!-- mostrar como usar o Zotero principalmente como fazer uma importação de uma referência pesquisada -->
-O Zotero é um programa similar ao Mendeley, com a diferença de ser disponibilizado também em português. Faça o download no [link](https://www.zotero.org/).  
 
 - [Como fazer Ilustrações e Tabela - BC](../Consulta/FurbBc/IlustracoesTabelas.pdf)  
 - [Como fazer Referências - BC](../Consulta/FurbBc/Referencias.pdf)  
@@ -69,6 +55,21 @@ Atendimento da bibliotecária para tirar dúvidas sobre normas da ABNT, por exem
 - 3321-0180 Ariane (noite)  
 Enviar e-mail para <periodicos@furb.br> para agendar dia/horário.  
 De preferência atendimento presencial, mas na impossibilidade pode ser pelo MS-Teams.  
+
+- sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Research Rabbit](https://researchrabbitapp.com "Research Rabbit"), [Zotero](https://www.zotero.org "Zotero") etc.  
+
+### More-UFSC
+
+O [More-UFSC](https://more.ufsc.br/inicio "More-UFSC") permite que você utilize ele sem fazer um cadastro de acesso, mas ao se cadastrar permite salvar algumas referências já pesquisadas. Com o More é possível usar formulários que ao serem preenchidos corretamente se gere a referência bibliográfica e citação seguindo as normas da ABNT. Mas é necessário primeiro identificar qual o tipo de material se tem tem para poder escolher o "formulário" correto. E, também se deve ter muito cuidado de preencher corretamente os campos do formulário para não se gerar erros.  
+
+### Mendeley
+
+Com o Mendeley você organiza suas leituras (tanto PDFs quanto materiais impressos), faz fichamentos e insere automaticamente as citações e referências no seu trabalho. O programa está disponível somente em inglês. Faça o download no [link](https://www.mendeley.com/download-desktop/Windows/).  
+
+### Zotero
+
+<!-- mostrar como usar o Zotero principalmente como fazer uma importação de uma referência pesquisada -->
+O Zotero é um programa similar ao Mendeley, com a diferença de ser disponibilizado também em português. Faça o download no [link](https://www.zotero.org/).  
 
 <!--
 <iframe width="760px" height="500px" src="https://sway.office.com/s/K8QaPPXHkTM8r3gW/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
