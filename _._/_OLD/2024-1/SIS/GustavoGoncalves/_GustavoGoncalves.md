@@ -31,17 +31,15 @@ Comentários:
 [ ] interagindo com o orientador:  
 [ ] cabeçalho:  
 [ ] título:  
-[ ] introdução:  
+[ ] contextualização:  
 [ ] objetivos:  
+[ ] revisão bibliográfica
 [ ] correlato 1:  
 [ ] correlato 2:  
 [ ] correlato 3:  
-[ ] justificativa:  
 [ ] quadro comparativo:  
-[ ] requisitos:  
+[ ] justificativa:  
 [ ] metodologia:  
-[ ] cronograma:  
-[ ] revisão bibliográfica:  
 [ ] referências:  
 
 ## Atendimento Projeto  
