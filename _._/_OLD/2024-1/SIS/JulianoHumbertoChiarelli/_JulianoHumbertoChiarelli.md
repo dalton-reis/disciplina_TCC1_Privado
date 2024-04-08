@@ -20,14 +20,18 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
+Percentual estimado: 20%  
 Comentários:  
-[ ] interagindo com o orientador:  
-[ ] cabeçalho:  
-[ ] título:  
-[ ] contextualização:  
-[ ] objetivos:  
-[ ] revisão bibliográfica
+Está no caminho certo mas precisa acelerar, pois está atrasado em relação ao cronograma.  
+Demorou para fechar assunto/orientador.  
+ATENÇÃO: está atrasado em relação ao cronograma.  
+
+[x] interagindo com o orientador:  
+[ ] cabeçalho: pegar do Termo.  
+[ ] título: pegar do Termo.  
+[x] contextualização: descreveu mas tem textos com afirmações sem usar citações.  
+[x] objetivos:  
+[ ] revisão bibliográfica: inicio (1 parágrafo o 2.1.1).  
 [ ] correlato 1:  
 [ ] correlato 2:  
 [ ] correlato 3:  
