@@ -82,7 +82,6 @@ Dia da semana: Segundas (18:30\~22:00)
 | Aluno(s)                                         | Horário      |  
 | ------------------------------------------------ | ------------ |  
 | Gustavo Gonçalves                                | 19:00\~19:20 |  
-| Gabriel Krzizanowski - Lucas Eduardo de Carvalho | 19:20\~19:40 |  
 | Jonathan Antonio Modjewski - Sâmela Hostins      | 19:40\~20:00 |  
 | Juliano Humberto Chiarelli                       | 20:00\~20:20 |  
 | Eduardo Campestrini                              | 20:20\~20:40 |  
@@ -97,6 +96,7 @@ Dia da semana: Segundas (18:30\~22:00)
 | Guilherme Souza dos Santos - Jennyfer Araujo     | 19:20\~19:40 |  
 | Felipe Marques Hamann - Gustavo André Bulhmann   | 19:40\~20:00 |  
 | Jordana Tomio - Ueran José Piazza                | 20:00\~20:20 |  
+| Gabriel Krzizanowski - Lucas Eduardo de Carvalho | 20:20\~20:40 |  
 
 ### Aula_09 22-04-2024  ( segunda-feira )  
   
