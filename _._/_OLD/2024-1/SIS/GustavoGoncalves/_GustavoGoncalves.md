@@ -20,6 +20,12 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+## 2024-04-08 - 19:05
+
+Estava na empresa trabalhando e não tinha como mostrar o pré-projeto.  
+Pedi para enviar uma copia para poder olhar o andamento do pré-projeto mas disse que só tinha o texto no seu PC em casa. O que me assustou MUITO, pois não se ter uma copia deste documento na nuvem é muito "perigoso", para não dizer estranho. Disse que ia enviar amanhã cedo.  
+Bom, forte preocupação se vai conseguir entregar o pré-projeto no prazo definido no nosso cronograma.  
+
 Percentual estimado:  
 Comentários:  
 [ ] interagindo com o orientador:  
