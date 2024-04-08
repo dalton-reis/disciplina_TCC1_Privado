@@ -23,6 +23,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+**ATENÇÃO**: chamei para conversar sobre o pré-projeto mas não retornou.  
+
 Percentual estimado:  
 Comentários:  
 [ ] interagindo com o orientador:  
