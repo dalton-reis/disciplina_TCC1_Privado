@@ -12,12 +12,17 @@ Título: Implementação da Máquina M++ em FPGA
 Comentários:  
 [1_Termo](1_Termo.pdf "1_Termo")  
 
+## 2024-04-11 - 17:27
+
+Atendi pessoalmente no LDTT e fiquei arrumando o formato do texto até as 18:25.  Reforcei que não olhei o texto em sei, só formatei, e que não olhei as citações e referências.  
+
 ### XXXX-XX-XX
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 80%  
+Comentários: já fez o TCC1 do semestre passado. Muitos erros de formatação. Deixei o Whats para agendar para ajudar a arrumar.
+
 [ ] interagindo com o orientador:  
 [ ] cabeçalho:  
 [ ] título:  

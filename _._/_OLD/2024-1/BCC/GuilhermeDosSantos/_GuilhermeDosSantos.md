@@ -14,23 +14,27 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
+Percentual estimado: 85%  
+Fez semestre passado TCC1.  
+Me parece que tem poucas referências, mas ok.  
+Ainda tem ajustes pequenos de formatação e ABNT.  
+
 Comentários:  
-[ ] interagindo com o orientador:  
-[ ] cabeçalho:  
-[ ] título:  
-[ ] introdução:  
-[ ] objetivos:  
-[ ] correlato 1:  
-[ ] correlato 2:  
-[ ] correlato 3:  
-[ ] justificativa:  
-[ ] quadro comparativo:  
-[ ] requisitos:  
-[ ] metodologia:  
-[ ] cronograma:  
-[ ] revisão bibliográfica:  
-[ ] referências:  
+[X] interagindo com o orientador:  
+[X] cabeçalho:  
+[X] título:  
+[X] introdução:  
+[X] objetivos:  
+[X] correlato 1:  
+[X] correlato 2:  
+[X] correlato 3:  
+[X] justificativa:  
+[X] quadro comparativo:  
+[X] requisitos:  
+[X] metodologia:  
+[X] cronograma:  
+[X] revisão bibliográfica:  
+[X] referências:  
 
 ## Atendimento Projeto  
 

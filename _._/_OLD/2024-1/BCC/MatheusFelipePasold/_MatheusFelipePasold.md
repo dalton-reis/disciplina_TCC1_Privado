@@ -16,16 +16,17 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
-[ ] interagindo com o orientador:  
+Percentual estimado: 15%  
+Comentários: atrasado, precisa REALMENTE acelerar.  
+  
+[X] interagindo com o orientador:  
 [ ] cabeçalho:  
 [ ] título:  
 [ ] introdução:  
 [ ] objetivos:  
-[ ] correlato 1:  
-[ ] correlato 2:  
-[ ] correlato 3:  
+[X] correlato 1: parcialmente descrito  
+[ ] correlato 2: já achou, mas não  
+[ ] correlato 3:  já achou, mas vai substituir um  
 [ ] justificativa:  
 [ ] quadro comparativo:  
 [ ] requisitos:  

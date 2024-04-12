@@ -14,6 +14,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+**ATENÇÃO**: chamei no chart do MS-Teams no dia/horário agendado mas não respondeu.  
+
 Percentual estimado:  
 Comentários:  
 [ ] interagindo com o orientador:  
