@@ -10,25 +10,25 @@ Título: Controle de Serviços e Gerenciamento de Oficinas Mecânicas
 Comentários:  
 [1_Termo](1_Termo.pdf "1_Termo")  
 
-### XXXX-XX-XX
+## 2024-04-15 - 20:00
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
-[ ] interagindo com o orientador:  
-[ ] cabeçalho:  
-[ ] título:  
-[ ] contextualização:  
-[ ] objetivos:  
-[ ] revisão bibliográfica
-[ ] correlato 1:  
-[ ] correlato 2:  
-[ ] correlato 3:  
-[ ] quadro comparativo:  
-[ ] justificativa:  
-[ ] metodologia:  
-[ ] referências:  
+Percentual estimado: 99%  
+Comentários: quase pronto, nos finais.  
+[x] interagindo com o orientador:  
+[x] cabeçalho:  
+[x] título:  
+[x] contextualização:  
+[x] objetivos:  
+[x] revisão bibliográfica
+[x] correlato 1:  
+[x] correlato 2:  
+[x] correlato 3:  
+[x] quadro comparativo:  
+[x] justificativa:  
+[x] metodologia:  
+[x] referências:  
 
 ## Atendimento Projeto  
 

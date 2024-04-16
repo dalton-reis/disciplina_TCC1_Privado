@@ -25,21 +25,21 @@ Comentários:
 
 **ATENÇÃO**: chamei para conversar sobre o pré-projeto mas não retornou.  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 60%  
+Comentários: fez bastante partes mas falta um retorno da orientadora.  
 [ ] interagindo com o orientador:  
-[ ] cabeçalho:  
-[ ] título:  
-[ ] contextualização:  
-[ ] objetivos:  
-[ ] revisão bibliográfica
-[ ] correlato 1:  
-[ ] correlato 2:  
-[ ] correlato 3:  
-[ ] quadro comparativo:  
-[ ] justificativa:  
-[ ] metodologia:  
-[ ] referências:  
+[x] cabeçalho:  
+[x] título:  
+[x] contextualização:  
+[x] objetivos:  
+[x] revisão bibliográfica
+[x] correlato 1:  
+[x] correlato 2:  
+[x] correlato 3:  
+[x] quadro comparativo:  
+[x] justificativa:  
+[x] metodologia:  
+[x] referências:  
 
 ## Atendimento Projeto  
 

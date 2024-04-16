@@ -14,18 +14,18 @@ Título: MicroCell - Aplicativo para contagem de células por quadrante em fotos
 Comentários:  
 [1_Termo](1_Termo.pdf "1_Termo")  
 
-### XXXX-XX-XX
+## 2024-04-15 - 20:34
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+Percentual estimado: 50%  
+Comentários: teve um atraso até conseguir conversar com a coorientadora.  
 [ ] interagindo com o orientador:  
-[ ] cabeçalho:  
-[ ] título:  
-[ ] contextualização:  
+[x] cabeçalho:  
+[x] título: alterou  
+[x] contextualização:  
 [ ] objetivos:  
-[ ] revisão bibliográfica
+[x] revisão bibliográfica, podeira aumentar a subseção 2.1.2  
 [ ] correlato 1:  
 [ ] correlato 2:  
 [ ] correlato 3:  
