@@ -15,7 +15,8 @@ Comentários:
 ## Atendimento Pré-Projeto  
 
 Percentual estimado:  
-Comentários:  
+Comentários: Não mostrou o pré-projeto porque não estava em casa.  
+ 
 [ ] interagindo com o orientador:  
 [ ] cabeçalho:  
 [ ] título:  
