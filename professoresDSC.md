@@ -14,24 +14,24 @@
 | Francisco Adell Péricas          | pericas@furb.br   | Pericas   |  
 | Gilvan Justino                   | gilvanj@furb.br   | Gilvan    |  
 | Jan Charles Gross                | jcgross@furb.br   | Jan       |
-| Jéssica Stefanie Hausmann        | jhausmann@furb.br | Jessica   |
 | Joyce Martins                    | joyce@furb.br     | Joyce     |  
 | Luciana Pereira de Araújo Kohler | lpa@furb.br       | Luciana   |  
 | Marcos Rodrigo Momo              | momo@furb.br      | Momo      |  
 | Marcos Rogério Cardoso           | mcardoso@furb.br  | Cardoso   |  
 | Mauricio Capobianco Lopes        | mclopes@furb.br   | Mauricio  |  
 | Miguel Alexandre Wisintainer     | maw@furb.br       | Miguel    |  
-| Ralf Schweder de Lima            |                   | Ralf      |
 | Robson Walter de Souza           | rwsouza@furb.br   | Robson    |
 | Samuel Cristhian Schwebel        |                   | Samuel    |
 | Sandoval Marinho da Costa        |                   | Sandoval  |
 | Simone Erbs da Costa             | secosta@furb.br   | Simone    |  
-| Timóteo Monteiro da Silva        |                   | Timoteo   |
 
-<!--| Fábio Luis Perez                 | fabiotek@furb.br  | Fabio     | -->
+<!-- | Fábio Luis Perez                 | fabiotek@furb.br  | Fabio     | -->
+<!-- | Jéssica Stefanie Hausmann        | jhausmann@furb.br | Jessica   | -->
 <!-- | Jonathan Gil Müller              | jgmuller@furb.br  | Jonathan  |  -->
 <!-- | José Carlos Althoff              | jalthoff@furb.br  | Althoff   |  -->
 <!-- | Marcel Hugo                      | marcel@furb.br   | Marcel    |  -->
+<!-- | Ralf Schweder de Lima            |                   | Ralf      | -->
+<!-- | Timóteo Monteiro da Silva        |                   | Timoteo   | -->
 
 ## Áreas
 
