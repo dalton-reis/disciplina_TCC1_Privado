@@ -20,6 +20,8 @@ Atendi pessoalmente no LDTT e fiquei arrumando o formato do texto até as 18:25.
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 Percentual estimado: 80%  
 Comentários: já fez o TCC1 do semestre passado. Muitos erros de formatação. Deixei o Whats para agendar para ajudar a arrumar.
 

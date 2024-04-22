@@ -20,6 +20,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 Percentual estimado: 20%  
 Comentários:  
 Está no caminho certo mas precisa acelerar, pois está atrasado em relação ao cronograma.  

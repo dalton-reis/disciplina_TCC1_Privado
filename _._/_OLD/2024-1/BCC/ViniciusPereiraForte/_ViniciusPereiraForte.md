@@ -14,6 +14,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 **ATENÇÃO**: chamei no chart do MS-Teams no dia/horário agendado mas não respondeu.  
 
 Percentual estimado:  

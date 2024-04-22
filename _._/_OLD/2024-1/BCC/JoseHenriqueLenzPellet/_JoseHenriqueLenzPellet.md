@@ -19,6 +19,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 Percentual estimado: 85%  
 Comentários: recomendei alguns ajustes. Revisar os estilos. Itens iniciam com letra minúscula. Itens terminam com ponto e vírgula, menos o último com ponto final. A legenda não tem ponto final e a fonte tem. TF-Legenda, TF_Figura, TF-Fonte. Remover linhas em branco. Iniciar com letra minúscula textos dentro do cronograma.  
 [x] interagindo com o orientador:  

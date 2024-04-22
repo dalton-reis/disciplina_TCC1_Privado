@@ -23,6 +23,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 **ATENÇÃO**: chamei para conversar sobre o pré-projeto mas não retornou.  
 
 Percentual estimado: 60%  

@@ -20,6 +20,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 Percentual estimado: 90%  
 Comentários: fazendo ajustes finais.  
 [x] interagindo com o orientador:  

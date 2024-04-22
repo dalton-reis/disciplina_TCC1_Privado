@@ -17,6 +17,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 Percentual estimado: 25%  
 Comentários: precisa acelerar pois está atrasado.  
 [X] interagindo com o orientador:  

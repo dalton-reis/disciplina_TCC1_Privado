@@ -18,6 +18,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 Percentual estimado: 50%  
 Comentários: teve um atraso até conseguir conversar com a coorientadora.  
 [ ] interagindo com o orientador:  
