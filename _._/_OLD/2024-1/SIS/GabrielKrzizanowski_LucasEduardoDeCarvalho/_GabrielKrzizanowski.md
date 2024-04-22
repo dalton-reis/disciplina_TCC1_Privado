@@ -36,6 +36,10 @@ Comentários: teve um atraso até conseguir conversar com a coorientadora.
 [ ] metodologia:  
 [ ] referências:  
 
+## 2024-04-22 - 19:18
+
+Olá professor, boa noite! Projeto está em 92%, recebemos o retorno final do prof Aurélio hoje para corrigir alguns pontos, iremos fazer a correção, encaminhar para ele novamente e aí liberamos. Previsão de envio até quinta, aguardando apenas a revisão final do professor Aurélio.  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  
