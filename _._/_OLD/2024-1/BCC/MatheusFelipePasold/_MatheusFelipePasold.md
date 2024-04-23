@@ -37,6 +37,10 @@ Comentários: atrasado, precisa REALMENTE acelerar.
 [ ] revisão bibliográfica:  
 [ ] referências:  
 
+## 2024-04-23 - 20:32
+
+MS-Teams: Acho que o Valdameri falou sobre o meu pré projeto. Mas vou ainda corrigir o que ele me apontou no que já está feito. 98% concluído.  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  

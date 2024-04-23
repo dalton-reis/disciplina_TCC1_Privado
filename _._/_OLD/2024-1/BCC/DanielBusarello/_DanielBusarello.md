@@ -37,6 +37,10 @@ Comentários: precisa acelerar pois está atrasado.
 [ ] revisão bibliográfica:  
 [ ] referências:  
 
+## 2024-04-23 - 20:35
+
+MS-Teams: Boa noite professor, não vou conseguir entregar o pré-projeto hoje. Consegui avançar bastante desde a última conversa, está 75% pronto, não obtive retorno da prof. Luciana quanto aos trabalhos correlatos ainda, enviei 2 e-mails para ela. Porém, mesmo sem a resposta, já iniciei a comparação dos trabalhos com o meu. Acredito que se ela aprovar, até dia 30/04 estarei finalizando.  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  

@@ -34,6 +34,10 @@ Comentários:
 [ ] revisão bibliográfica: fez um pouco. Tem subseções com só um parágrafo.  
 [ ] referências: não fez.  
 
+## 2024-04-23 - 20:33
+
+MS-TEams: Boa noite professor, tudo certo? Meu pre projeto já foi encaminhado para o Danton, ainda nao recebi retorno.  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  

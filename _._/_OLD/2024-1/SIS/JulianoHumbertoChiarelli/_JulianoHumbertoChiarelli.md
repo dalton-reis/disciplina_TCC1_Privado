@@ -20,6 +20,10 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+## 2024-04-23 - 20:29
+
+MS-Teams: Boa noite, meu pré projeto está pronto ok, vou entregar pro orientador hoje  
+
 [2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
 
 Percentual estimado: 20%  
