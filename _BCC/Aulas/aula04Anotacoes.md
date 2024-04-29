@@ -50,6 +50,13 @@ Para relembrar um pouco sobre o assunto de **requisitos** olhem os slides [Requi
   - [TCCs do DSC](https://www.furb.br/dsc/tcc "TCCs do DSC")  
 - Acessar de fora da FURB usando VPN: [https://www10.furb.br/manuais/manual-vpn-furb.php](https://www10.furb.br/manuais/manual-vpn-furb.php "https://www10.furb.br/manuais/manual-vpn-furb.php")  
 
+<!-- 
+TODO:
+Olhar dicas e links de sites de busca indicados pela FURB-DAP
+Arrumar também no material do SIS
+https://furb.sharepoint.com/teams/msteams_33c83e/open/SitePages/Metricas.aspx?csf=1&web=1&share=EXJBKvf_FtJEqzWYI81IE-sBqiuZhMTCcCTSQxh8XfDKmA&e=D8cSPX&CID=2335f3a3-d6d4-4615-b32b-2152c19404c8
+-->
+
 ### Referências
 
 - Ordem alfabética.  
