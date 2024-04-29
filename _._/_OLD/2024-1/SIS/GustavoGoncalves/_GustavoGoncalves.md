@@ -50,6 +50,10 @@ Boa noite professor, meu TCC está em cerca de 70% completo.
 Falta fazer os correlatos, especificar mais algumas questões da contextualização e Bases teóricas, bem como alguns ajustes nas metodologias.  
 Creio que eu consiga entregar até o dia 29/04.  
 
+## 2024-04-29 - 09:23
+
+[2024-04-29_EMail.pdf](2024-04-29_EMail.pdf)  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  
