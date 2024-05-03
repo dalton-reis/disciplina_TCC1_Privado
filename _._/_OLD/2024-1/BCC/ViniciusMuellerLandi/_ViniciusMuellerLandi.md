@@ -36,6 +36,9 @@ Comentários: precisa acelerar para produzir
 [x] revisão bibliográfica:  
 [.] referências: ajustando  
 
+[2024-04-25_MsTeams.pdf](2024-04-25_MsTeams.pdf)  
+95% para finalizar.  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  

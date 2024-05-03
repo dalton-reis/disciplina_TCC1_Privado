@@ -39,6 +39,8 @@ Comentários: recomendei alguns ajustes. Revisar os estilos. Itens iniciam com l
 [x] revisão bibliográfica:  
 [ ] referências: não fez.  
 
+[2024-04-25_MsTeams.pdf](2024-04-25_MsTeams.pdf)  
+
 ## Atendimento Projeto  
 
 Percentual estimado:  
