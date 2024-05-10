@@ -1,6 +1,7 @@
 # Aula05: Projeto - Partes constituintes  
 
 - Erros de redação  
+- Superlativos, exageros
 - Termos Estrangeiros  
 - Siglas  
 - Normas ABNT: citações e referências  
@@ -11,6 +12,15 @@
 
 [Exemplo_RedacaoAntes.pdf](../Consulta/Exemplo_RedacaoAntes.pdf "Exemplo_RedacaoAntes.pdf")  
 [Exemplo_RedacaoDepois.pdf](../Consulta/Exemplo_RedacaoDepois.pdf "Exemplo_RedacaoDepois.pdf")  
+
+## Superlativos, exageros
+
+Este enfoque não é trivial, mas sim uma tentativa **decisiva** de aprimorar **profundamente** a experiência do usuário e de contribuir **significativamente** para a pesquisa e desenvolvimento no campo da educação museológica e da tecnologia aplicada. O projeto busca fornecer uma base **extremamente** **robusta** para futuras inovações na área e espera-se que os resultados e documentação sejam **amplamente** compartilhados, beneficiando a comunidade acadêmica e prática com percepções **incrivelmente** **valiosas** sobre a implementação eficiente de tecnologias emergentes em ambientes educativos.
+
+Este enfoque não é trivial, mas sim uma tentativa importante de aprimorar a experiência do usuário e de contribuir para a pesquisa e desenvolvimento no campo da educação museológica e da tecnologia aplicada. O projeto busca fornecer uma base para futuras inovações na área e espera-se que os resultados e documentação sejam compartilhados, beneficiando a comunidade acadêmica e prática com percepções sobre a implementação eficiente de tecnologias emergentes em ambientes educativos.
+
+Evitem ...
+Isto é realmente algo mais melhor de bom e incrivelmente importante de uma forma não exagerada. 😉
 
 ## Termos Estrangeiros
 
