@@ -122,12 +122,12 @@ Dia da semana: Segundas (18:30\~22:00)
   
 ### Aula_13 20-05-2024  ( segunda-feira )  
   
-- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
-- Análise do Pré-Projeto  
+- Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
   
 ### Aula_14 27-05-2024  ( segunda-feira )  
   
-- Análise do Pré-Projeto - Atendimento Individual  
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
+- Análise do Pré-Projeto  
   
 ### Aula_15 03-06-2024  ( segunda-feira )  
   
