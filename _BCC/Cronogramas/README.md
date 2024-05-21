@@ -138,11 +138,11 @@ Dia da semana: Terças (18:30\~22:00)
   
 ### Aula_13 21-05-2024  ( terça-feira )  
   
-- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
-- Análise do Pré-Projeto  
+- Revisão dos Pré-Projetos pelos professores de TCC1 e avaliadores.  
   
 ### Aula_14 28-05-2024  ( terça-feira )  
   
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
 - Análise do Pré-Projeto - Atendimento Individual  
   
 ### Aula_15 04-06-2024  ( terça-feira )  
