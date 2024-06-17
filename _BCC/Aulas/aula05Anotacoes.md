@@ -1,12 +1,12 @@
 # Aula05: Projeto - Partes constituintes  
 
-- Erros de redação  
-- Superlativos, exageros
-- Termos Estrangeiros  
-- Siglas  
-- Normas ABNT: citações e referências  
-- Dicas do uso do Editor MS-Word  
-- Pré-Projeto - Formulação  
+- [Erros de redação](#erros-de-redação)  
+- [Superlativos, exageros](#superlativos-exageros)  
+- [Termos Estrangeiros](#termos-estrangeiros)  
+- [Siglas](#siglas)  
+- [Normas ABNT: citações e referências](#normas-abnt-citações-e-referências)  
+- [Dicas do uso do Editor MS-Word](#dicas-do-uso-do-editor-ms-word)  
+- [Pré-Projeto - Formulação](#pré-projeto---formulação)  
 
 ## Erros de redação
 
@@ -58,6 +58,8 @@ Material da biblioteca da FURB: <https://www.furb.br/web/5265/servicos/bibliotec
 - [Como fazer Citações](../Consulta/FurbBc/_ComoFazer_Citacoes.pdf)  
 
 Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=Link.>  
+
+- [Como achar a data de modificação de uma página Web](<https://wayback-api.archive.org/>)  
 
 Atendimento da bibliotecária para tirar dúvidas sobre normas da ABNT, por exemplo de citações e referências bibliográficas.  
 

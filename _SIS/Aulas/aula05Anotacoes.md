@@ -1,12 +1,12 @@
 # Aula05: Projeto - Partes constituintes  
 
-- Erros de redação  
-- Superlativos, exageros
-- Termos Estrangeiros  
-- Siglas  
-- Normas ABNT: citações e referências  
-- Dicas do uso do Editor MS-Word  
-- Pré-Projeto - Formulação  
+- [Erros de redação](#erros-de-redação)  
+- [Superlativos, exageros](#superlativos-exageros)  
+- [Termos Estrangeiros](#termos-estrangeiros)  
+- [Siglas](#siglas)  
+- [Normas ABNT: citações e referências](#normas-abnt-citações-e-referências)  
+- [Dicas do uso do Editor MS-Word](#dicas-do-uso-do-editor-ms-word)  
+- [Pré-Projeto - Formulação](#pré-projeto---formulação)  
 
 ## Erros de redação
 
@@ -50,6 +50,24 @@ Material da biblioteca da FURB: <https://www.furb.br/web/5265/servicos/bibliotec
 - uso de numeração de página nas citações  
 - apresentar alguns conceitos e definições  
 - trazer informações fundamentais (dados com referência) de preferência que não seja notícia de site, blog ou jornal  
+
+- [Como fazer Ilustrações e Tabela - BC](../Consulta/FurbBc/IlustracoesTabelas.pdf)  
+- [Como fazer Referências - BC](../Consulta/FurbBc/Referencias.pdf)  
+- [Como fazer Referências](../Consulta/FurbBc/_ComoFazer_ReferenciasBibliograficas.pdf)  
+- [Como fazer Citações - BC](../Consulta/FurbBc/Citacoes.pdf)  
+- [Como fazer Citações](../Consulta/FurbBc/_ComoFazer_Citacoes.pdf)  
+
+Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=Link.>  
+
+- [Como achar a data de modificação de uma página Web](<https://wayback-api.archive.org/>)  
+
+Atendimento da bibliotecária para tirar dúvidas sobre normas da ABNT, por exemplo de citações e referências bibliográficas.  
+
+- 3321-0455 Kelly  (durante o dia)  
+- 3321-0180 Ariane (noite)  
+Enviar e-mail para <periodicos@furb.br> para agendar dia/horário.  
+De preferência atendimento presencial, mas na impossibilidade pode ser pelo MS-Teams.  
+
 - sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Research Rabbit](https://researchrabbitapp.com "Research Rabbit"), [Zotero](https://www.zotero.org "Zotero") etc.  
 
 ### More-UFSC
@@ -64,21 +82,6 @@ Com o Mendeley você organiza suas leituras (tanto PDFs quanto materiais impress
 
 <!-- mostrar como usar o Zotero principalmente como fazer uma importação de uma referência pesquisada -->
 O Zotero é um programa similar ao Mendeley, com a diferença de ser disponibilizado também em português. Faça o download no [link](https://www.zotero.org/).  
-
-- [Como fazer Ilustrações e Tabela - BC](../Consulta/FurbBc/IlustracoesTabelas.pdf)  
-- [Como fazer Referências - BC](../Consulta/FurbBc/Referencias.pdf)  
-- [Como fazer Referências](../Consulta/FurbBc/_ComoFazer_ReferenciasBibliograficas.pdf)  
-- [Como fazer Citações - BC](../Consulta/FurbBc/Citacoes.pdf)  
-- [Como fazer Citações](../Consulta/FurbBc/_ComoFazer_Citacoes.pdf)  
-
-Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=Link.>  
-
-Atendimento da bibliotecária para tirar dúvidas sobre normas da ABNT, por exemplo de citações e referências bibliográficas.  
-
-- 3321-0455 Kelly  (durante o dia)  
-- 3321-0180 Ariane (noite)  
-Enviar e-mail para <periodicos@furb.br> para agendar dia/horário.  
-De preferência atendimento presencial, mas na impossibilidade pode ser pelo MS-Teams.  
 
 <!--
 <iframe width="760px" height="500px" src="https://sway.office.com/s/K8QaPPXHkTM8r3gW/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
