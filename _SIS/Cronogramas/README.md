@@ -30,7 +30,7 @@ Dia da semana:  Terças (20:20\~22:00)
   
 ## Cronograma Gantt  
   
-![Cronograma Gantt](../svg/Cronogramas/cronograma_SIS.svg "Cronograma Gantt")  
+![Cronograma Gantt](../../svg/_SIS/Cronogramas/cronograma_SIS.svg "Cronograma Gantt")  
   
 ## Fluxograma  
   
