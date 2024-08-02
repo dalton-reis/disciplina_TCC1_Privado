@@ -2,29 +2,29 @@
 
 /'TODO: tentar usar variáveis do sistema: https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/  '/
 /'atualizar'/
-!$dataInicio = "	2024-02-27	"
-!$dataFim  = "	2024-06-25	"
+!$dataInicio = "	2024-08-05	"
+!$dataFim  = "	2024-12-02	"
 !$Aula01 = $dataInicio		
-!$Aula02 = "	2024-03-05	"
-!$Aula03 = "	2024-03-12	"
-!$Aula04 = "	2024-03-19	"
-!$Aula05 = "	2024-03-26	"
-!$Aula06 = "	2024-04-02	"
-!$Aula07 = "	2024-04-09	"
-!$Aula08 = "	2024-04-16	"
-!$Aula09 = "	2024-04-23	"
-!$Aula10 = "	2024-04-30	"
-!$Aula11 = "	2024-05-07	"
-!$Aula12 = "	2024-05-14	"
-!$Aula13 = "	2024-05-21	"
-!$Aula14 = "	2024-05-28	"
-!$Aula15 = "	2024-06-04	"
-!$Aula16 = "	2024-06-11	"
-!$Aula17 = "	2024-06-18	"
-!$Aula18 = "	2024-06-25	"
+!$Aula02 = "	2024-08-12	"
+!$Aula03 = "	2024-08-19	"
+!$Aula04 = "	2024-08-26	"
+!$Aula05 = "	2024-09-02	"
+!$Aula06 = "	2024-09-09	"
+!$Aula07 = "	2024-09-16	"
+!$Aula08 = "	2024-09-23	"
+!$Aula09 = "	2024-09-30	"
+!$Aula10 = "	2024-10-07	"
+!$Aula11 = "	2024-10-14	"
+!$Aula12 = "	2024-10-21	"
+!$Aula13 = "	2024-10-28	"
+!$Aula14 = "	2024-11-04	"
+!$Aula15 = "	2024-11-11	"
+!$Aula16 = "	2024-11-18	"
+!$Aula17 = "	2024-11-25	"
+!$Aula18 = "	2024-12-02	"
 !$Aula18 = $dataFim		
 
-!$dataAtual  = $Aula14
+!$dataAtual  = $Aula01
 /'atualizar'/
 
 ganttscale weekly
