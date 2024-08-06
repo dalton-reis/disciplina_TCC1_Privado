@@ -30,7 +30,7 @@ Dia da semana:  Segundas (20:20\~22:00)
   
 ## Cronograma Gantt  
   
-![Cronograma Gantt](../svg/Cronogramas/cronograma_BCC.svg "Cronograma Gantt")  
+![Cronograma Gantt](../../svg/_BCC/Cronogramas/cronograma_BCC.svg "Cronograma Gantt")  
   
 ## Fluxograma  
   
